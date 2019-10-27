@@ -5,11 +5,11 @@ thumbnail: "/upload/photo-1516906736502-5d3fedc3019a.jpeg"
 year: '2017'
 description: A broken Service
 categories:
-- Branding and UX Design
+- Branding & UX
 
 ---
 # A broken Service
 
-Carglass' online service were not performing well. We needed to boost their leads and update the company**’**s website.
+Carglass' online service were not performing well. We needed to boost their leads and update the company's website.
 
 ![](/upload/photo-1516906736502-5d3fedc3019a.jpeg)
