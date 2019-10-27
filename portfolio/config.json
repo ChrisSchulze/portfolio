@@ -1,10 +1,16 @@
 {
-  "title": "Acme",
-  "description": "Creative Agency",
+  "title": "Christian Schulze",
+  "description": "Digital Services & Product Development",
   "logo": "/upload/logo.png",
   "footer": "Ⓒ Christian Schulze",
   "favicon": "/upload/logo.png",
   "navigation": [
+    {
+      "text": "",
+      "link": "",
+      "external": false,
+      "position": ""
+    },
     {
       "text": "Works",
       "link": "/",
