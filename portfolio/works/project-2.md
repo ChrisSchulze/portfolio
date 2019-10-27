@@ -1,15 +1,14 @@
 ---
-title: Project two
-date: 2018-08-09 18:05:37 +0000
+title: A broken service
+date: 2018-08-09T18:05:37.000+00:00
 thumbnail: "/upload/photo-1516906736502-5d3fedc3019a.jpeg"
-year: 2016
-description: subtitle
-categories:
-- print
+year: '2017'
+description: Carglass
+categories: []
 
 ---
-# Project two
+# A broken Service
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Their online service wasn**’**t performing well. We needed to boost their leads and update the company**’**s website.
 
 ![](/upload/photo-1516906736502-5d3fedc3019a.jpeg)
