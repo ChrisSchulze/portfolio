@@ -8,7 +8,7 @@ categories:
 description: Dresden Museums
 
 ---
-# Project three
+# Digital Experience
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
