@@ -1,11 +1,11 @@
 ---
-title: Project three
-date: 2017-02-04 00:00:00 +0000
+title: Digital Experience
+date: 2017-02-04T00:00:00.000+00:00
 thumbnail: "/upload/photo-1504198322253-cfa87a0ff25f.jpeg"
-year: 2017
+year: '2019'
 categories:
-- print
-description: subtitle
+- UX
+description: Dresden Museums
 
 ---
 # Project three
