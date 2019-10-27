@@ -1,11 +1,11 @@
 ---
-title: A brand in constant flux
+title: Compo
 date: 2018-08-01T00:00:00.000+00:00
 thumbnail: "/upload/photo-1490013616775-3ca8865fb129.jpeg"
 year: 2018
 categories:
 - Branding & UX
-description: Compo
+description: A brand in constant flux
 
 ---
 # A brand in constant flux
