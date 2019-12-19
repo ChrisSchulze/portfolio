@@ -2,13 +2,6 @@
 label: works
 hide_body: false
 fields:
-- name: title
-  default: ''
-  label: Title
-  hidden: false
-  type: text
-  config:
-    required: true
 - type: file
   name: thumbnail
   label: Thumbnail
@@ -32,6 +25,13 @@ fields:
   label: Date
   hidden: true
   type: datetime
+  config:
+    required: true
+- name: title
+  default: ''
+  label: Title
+  hidden: false
+  type: text
   config:
     required: true
 pages:
