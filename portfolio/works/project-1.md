@@ -8,11 +8,11 @@ categories:
 description: A brand in constant flux
 
 ---
+![](/upload/compo_image_1.jpg)
+
 # A brand in constant flux
 
 Compos customer base was getting old. We saw an opportunity in a younger cohort and were assigned to come up with ideas.
-
-![](/upload/compo_image_1.jpg)
 
 We screened their touchpoints, checked the content and overall visual coherence and found they lacked recognisability and content strategy. They had to evolve if they wanted to close the gap.
 
