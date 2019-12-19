@@ -12,6 +12,6 @@ categories:
 
 Carglass' online service were not performing well. We needed to boost their leads and update the company's website.
 
-![](/upload/photo-1516906736502-5d3fedc3019a.jpeg)
+![](/upload/Carglass_Images_4.jpg)
 
 jbjbjbjbjbjbj
