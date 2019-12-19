@@ -2,6 +2,11 @@
 label: works
 hide_body: false
 fields:
+- type: textarea
+  name: description
+  label: Description
+  config:
+    required: true
 - name: title
   default: ''
   label: Title
@@ -22,11 +27,6 @@ fields:
 - type: file
   name: thumbnail
   label: Thumbnail
-- type: textarea
-  name: description
-  label: Description
-  config:
-    required: true
 - name: date
   default: ''
   label: Date
