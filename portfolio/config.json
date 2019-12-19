@@ -6,12 +6,6 @@
   "favicon": "/upload/logo.png",
   "navigation": [
     {
-      "text": "",
-      "link": "",
-      "external": false,
-      "position": ""
-    },
-    {
       "text": "Work",
       "link": "/",
       "position": "left",
