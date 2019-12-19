@@ -2,14 +2,6 @@
 label: works
 hide_body: true
 fields:
-- type: file
-  name: thumbnail
-  label: Thumbnail
-- type: textarea
-  name: description
-  label: Description
-  config:
-    required: true
 - type: tag_list
   name: categories
   label: Categories
@@ -20,18 +12,26 @@ fields:
   type: number
   config:
     required: true
-- name: date
-  default: ''
-  label: Date
-  hidden: true
-  type: datetime
-  config:
-    required: true
+- type: file
+  name: thumbnail
+  label: Thumbnail
 - name: title
   default: ''
   label: Title
   hidden: false
   type: text
+  config:
+    required: true
+- type: textarea
+  name: description
+  label: Description
+  config:
+    required: true
+- name: date
+  default: ''
+  label: Date
+  hidden: true
+  type: datetime
   config:
     required: true
 pages:
