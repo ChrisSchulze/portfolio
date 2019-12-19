@@ -1,7 +1,8 @@
 ---
 title: MSD
 year: 2019
-categories: []
+categories:
+- UX
 thumbnail: "/upload/MSD_Design_3.jpg"
 description: 'Putting the museums on the map '
 date: 
