@@ -2,19 +2,6 @@
 label: works
 hide_body: true
 fields:
-- type: tag_list
-  name: categories
-  label: Categories
-- name: year
-  default: 
-  label: Year
-  hidden: false
-  type: number
-  config:
-    required: true
-- type: file
-  name: thumbnail
-  label: Thumbnail
 - name: title
   default: ''
   label: Title
@@ -22,6 +9,19 @@ fields:
   type: text
   config:
     required: true
+- name: year
+  default: 
+  label: Year
+  hidden: false
+  type: number
+  config:
+    required: true
+- type: tag_list
+  name: categories
+  label: Categories
+- type: file
+  name: thumbnail
+  label: Thumbnail
 - type: textarea
   name: description
   label: Description
