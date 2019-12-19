@@ -19,3 +19,9 @@ For the self service validated UX was key. We went through several iterations of
 ![](/upload/Carglass_Images_3.jpg)
 
 We came up with a onepager checkout. It is easier to use, faster, more flexible and robust than the old one. We were able to improve the scheduling as well**:** Today we can assure bookings directly.
+
+![](/upload/Carglass_Images_9.jpg)
+
+For the corporate site we followed the idea that **„**Carglass is always close**“**. Visually and technichal wise we heavily relied on location based services.
+
+When TNS Kantar checked the sites brand fit in 2017 it had the best score of all of carglass touchpoints at that time.
