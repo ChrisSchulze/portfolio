@@ -1,7 +1,7 @@
 ---
 works_index: true
-hero_text: "<strong>I'm a Digitalmensch</strong>, I give sense and form to digital
-  services."
+hero_text: I give <strong>sense and form</strong> to digital services. By thinking
+  human first, data driven, hands down.
 title: Hero
 
 ---
