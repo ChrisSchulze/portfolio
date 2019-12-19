@@ -1,7 +1,7 @@
 ---
 works_index: true
-hero_text: "<strong>I'm a Digitalmensch</strong>, I imagine digital services that
-  integrate seamlessly into daily life."
+hero_text: "<strong>I'm a Digitalmensch</strong>, I give sense and form to digital
+  services."
 title: Hero
 
 ---
