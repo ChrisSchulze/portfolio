@@ -22,12 +22,6 @@
       "link": "mailto:jan.christian.schulze@gmail.com",
       "position": "right",
       "external": true
-    },
-    {
-      "text": "Journal",
-      "link": "/journal/",
-      "position": "right",
-      "external": false
     }
   ]
 }
