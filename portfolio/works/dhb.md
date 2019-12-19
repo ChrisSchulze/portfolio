@@ -8,11 +8,9 @@ categories:
 description: Dresden Museums
 
 ---
-# Putting the museums on the map
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
 ![](/upload/MSD_Design_3.jpg)
+
+# Putting the museums on the map
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
