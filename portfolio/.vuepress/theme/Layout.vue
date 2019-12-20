@@ -20,10 +20,13 @@
       
 
       
-        <div>
-        {{ post.frontmatter.title }
-        {{ post.frontmatter.description }}
-        <img src="/upload/compo_image_1.jpg" alt=""></div>
+        <div
+        :title="$page.frontmatter.title"
+        
+        :description="$page.frontmatter.description"
+        />
+        
+        <div><img src="/upload/compo_image_1.jpg" alt=""></div>
         
         <SingleProjectHeader
           :title="$page.frontmatter.title"
