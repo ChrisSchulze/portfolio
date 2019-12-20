@@ -29,6 +29,7 @@
           :year="$page.frontmatter.year.toString()"
           :categories="$page.frontmatter.categories"
         />
+        
         <Content/>
       </div>
 
