@@ -3,7 +3,7 @@ title: Carglass
 date: 2018-08-09T18:05:37.000+00:00
 thumbnail: "/upload/Carglass_Images_4.jpg"
 year: '2017'
-description: A broken
+description: A broken service
 categories:
 - Branding & UX
 
