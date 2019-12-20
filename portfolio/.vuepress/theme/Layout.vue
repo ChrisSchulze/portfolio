@@ -20,9 +20,8 @@
       
 
       
-        <div
+        <SingleProjectHeader
         :title="$page.frontmatter.title"
-        
         :description="$page.frontmatter.description"
         />
         
