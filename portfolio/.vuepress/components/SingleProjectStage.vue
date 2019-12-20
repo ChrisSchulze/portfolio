@@ -5,7 +5,7 @@
   <div class="header">
   
       <div>
-      <img src={{ thumb }}>
+      <img src="{{ thumb }}">
     </div>
 
     <div class="column">
