@@ -21,7 +21,7 @@
 
       
         <SingleProjectStage
-        :thumb="$page.frontmatter.thumbnail"
+        :thumb="$post.frontmatter.thumbnail"
         :title="$page.frontmatter.title"
         :description="$page.frontmatter.description"
         />
