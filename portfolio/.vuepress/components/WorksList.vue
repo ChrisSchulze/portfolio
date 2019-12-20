@@ -36,10 +36,9 @@
 
   .post {
     position: relative;
-    width: 100%;
-    height: 70vh;
+
     background-size: cover;
-    background-position: center;
+    background-position: center center;
     background-repeat: no-repeat;
     margin-bottom: 5vw;
     cursor: pointer;
