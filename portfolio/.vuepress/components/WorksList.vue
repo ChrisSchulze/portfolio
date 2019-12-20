@@ -37,6 +37,7 @@
   .post {
     position: relative;
     width: 100%;
+    height: 400px;
     background-size: auto;
     
     background-position: center center;
