@@ -37,7 +37,7 @@
   .post {
     position: relative;
     width: 100%;
-    height: 400px;
+    padding-top: 56.25%;
     background-size: auto;
     
     background-position: center center;
