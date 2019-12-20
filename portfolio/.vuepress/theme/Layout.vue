@@ -21,6 +21,7 @@
         <SingleProjectStage  
         :title="$page.frontmatter.title"
         :description="$page.frontmatter.description"
+        :thumbs="$page.frontmatter.thumbnail"
         />
         
             <router-link
