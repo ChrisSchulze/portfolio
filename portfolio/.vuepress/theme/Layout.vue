@@ -21,7 +21,7 @@
         <SingleProjectStage  
         :title="$page.frontmatter.title"
         :description="$page.frontmatter.description"
-        :thumbs="$page.frontmatter.thumbnail"
+        :path="$page.frontmatter.thumbnail"
         />
         
         <SingleProjectHeader
