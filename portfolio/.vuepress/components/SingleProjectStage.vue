@@ -10,7 +10,7 @@
       <span class="value">{{ description }}</span>
     </div>
     <div class="column">
-      <span class="value"><img src="{{ thumbs }}"</span>
+      <span class="picture"><img src="{{ thumbs }}"</span>
       </div>
   </div>
 
@@ -62,15 +62,9 @@
     content: '';
   }
   
-    .post {
-    position: relative;
-    width: 100%;
-    padding-top: 56.25%;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    margin-bottom: 5vw;
-    cursor: pointer;
+    .picture {
+    width: 20px;
+    height: auto;
   }
 
 </style>
