@@ -36,7 +36,7 @@
 
   .post {
     position: relative;
-    max-width: 100%;
+    width: 100%;
     height: auto;   
     margin-bottom: 5vw;
     cursor: pointer;
