@@ -9,13 +9,9 @@
     <div class="column">
       <span class="value">{{ description }}</span>
     </div>
-
-  </div>
-  
-        <div class="post">
       <span class="img"><img src="(${post.frontmatter.thumbnail})"</span>
-      
-    </div>
+  </div>
+
 </template>
 
 <script>
