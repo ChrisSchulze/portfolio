@@ -24,6 +24,8 @@
         :thumbs="$page.frontmatter.thumbnail"
         />
         
+        <div><img src="$page.frontmatter.thumbnail"></div>
+        
         <SingleProjectHeader
           :title="$page.frontmatter.title"
           :year="$page.frontmatter.year.toString()"
