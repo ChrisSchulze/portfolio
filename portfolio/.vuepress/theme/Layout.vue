@@ -17,7 +17,7 @@
 
       <!-- Single project view -->
       <div v-if="isSingleProject">
-        
+        <div><img src="/upload/compo_image_1.jpg" alt=""></div>
         <SingleProjectHeader
           :title="$page.frontmatter.title"
           :year="$page.frontmatter.year.toString()"
