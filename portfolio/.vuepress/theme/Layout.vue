@@ -20,7 +20,11 @@
       
 
       
-        <div><img src="/upload/compo_image_1.jpg" alt=""></div>
+        <div>
+        <h2>{{ post.frontmatter.title }}</h2>
+        <h2>{{ post.frontmatter.description }}</h2>
+        <img src="/upload/compo_image_1.jpg" alt=""></div>
+        
         <SingleProjectHeader
           :title="$page.frontmatter.title"
           :year="$page.frontmatter.year.toString()"
