@@ -38,9 +38,8 @@
     position: relative;
     width: 100%;
     padding-top: 56.25%;
-    background-size: auto;
-    
-    background-position: center center;
+    background-size: cover;
+    background-position: center;
     background-repeat: no-repeat;
     margin-bottom: 5vw;
     cursor: pointer;
