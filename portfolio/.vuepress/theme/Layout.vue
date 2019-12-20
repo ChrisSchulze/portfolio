@@ -19,7 +19,6 @@
       <div v-if="isSingleProject">
         
         <SingleProjectHeader
-        :style="{ backgroundImage: `url(${post.frontmatter.thumbnail})` }"
           :title="$page.frontmatter.title"
           :year="$page.frontmatter.year.toString()"
           :categories="$page.frontmatter.categories"
