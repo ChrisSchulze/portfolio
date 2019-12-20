@@ -24,6 +24,22 @@
         :thumbs="$page.frontmatter.thumbnail"
         />
         
+            <router-link
+      :to="post.path"
+      tag="div"
+      v-for="post in posts"
+      :key="post.title"
+      class="post"
+      :style="{ backgroundImage: `url(${post.frontmatter.thumbnail})` }"
+    >
+
+      <div class="info">
+        <h2>{{ post.frontmatter.title }}</h2>
+        <span v-if="post.frontmatter.description">{{ post.frontmatter.description }}</span>
+      </div>
+
+    </router-link>
+        
         <div><img src="/upload/compo_image_1.jpg" alt=""></div>
         
         <SingleProjectHeader
@@ -183,6 +199,17 @@
     font-size: 0.8rem;
     padding: 0.05rem 0.25rem;
     font-weight: 400;
+  }
+  
+    .post {
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-bottom: 5vw;
+    cursor: pointer;
   }
 
 </style>
