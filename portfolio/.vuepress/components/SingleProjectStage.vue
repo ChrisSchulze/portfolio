@@ -1,8 +1,11 @@
 <template>
 
-  <div class="header">
+<div class="StageImage">
 
 <img src="{{ title }}">
+</div>
+
+  <div class="header">
 
     <div class="column">
       <span class="value">{{ title }}</span>
@@ -10,8 +13,7 @@
 
     <div class="column">
       <span class="value">{{ description }}</span>
-    </div>
-    
+    </div>  
 
   </div>
 
