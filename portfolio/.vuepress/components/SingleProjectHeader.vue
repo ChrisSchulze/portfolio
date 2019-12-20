@@ -2,18 +2,18 @@
   <div class="header">
 
     <div class="column">
-      <Label class="label">Project</Label>
+      <Label class="label">What we did</Label>
       <span class="value">{{ title }}</span>
+    </div>
+
+    <div class="column">
+      <Label class="label">My role</Label>
+      <span class="value categories" v-for="category in categories" v-text="category" />
     </div>
 
     <div class="column">
       <Label class="label">Year</Label>
       <span class="value">{{ year }}</span>
-    </div>
-
-    <div class="column">
-      <Label class="label">Categories</Label>
-      <span class="value categories" v-for="category in categories" v-text="category" />
     </div>
 
   </div>
