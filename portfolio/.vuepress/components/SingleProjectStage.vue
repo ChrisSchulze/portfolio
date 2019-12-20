@@ -1,10 +1,12 @@
 <template>
 
-    <div>
-      <img src=`url(${post.frontmatter.thumbnail})`>
-    </div>
+
 
   <div class="header">
+  
+      <div>
+      <img src=`url(${post.frontmatter.thumbnail})`>
+    </div>
 
     <div class="column">
       <span class="value">{{ title }}</span>
