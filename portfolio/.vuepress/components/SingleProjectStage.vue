@@ -2,7 +2,7 @@
 
 <div class="StageImage">
 
-<img src="{{ title }}">
+<img src="{{ path }}">
 </div>
 
   <div class="header">
