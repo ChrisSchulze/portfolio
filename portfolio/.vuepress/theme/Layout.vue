@@ -24,7 +24,7 @@
         />
         
         <div><img src="/upload/compo_image_1.jpg" alt=""></div>
-        <div><img src="(${post.frontmatter.thumbnail})"></div>
+        <div><img src="(${page.frontmatter.thumbnail})"></div>
         
         <SingleProjectHeader
           :title="$page.frontmatter.title"
