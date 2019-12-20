@@ -5,7 +5,7 @@ thumbnail: "/upload/KNF_Images_1_2.jpg"
 year: '2020'
 categories:
 - UX
-description: KNF
+description: A Single Source of truth
 
 ---
 ![](/upload/KNF_Images_1_2.jpg)
