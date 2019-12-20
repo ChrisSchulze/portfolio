@@ -38,10 +38,6 @@
     position: relative;
     max-width: 100%;
     height: auto;   
-
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
     margin-bottom: 5vw;
     cursor: pointer;
   }
