@@ -17,6 +17,7 @@
 
       <!-- Single project view -->
       <div v-if="isSingleProject">
+        :style="{ backgroundImage: `url(${post.frontmatter.thumbnail})` }"
         <SingleProjectHeader
           :title="$page.frontmatter.title"
           :year="$page.frontmatter.year.toString()"
