@@ -4,8 +4,9 @@
 
   <div class="header">
   
-      <div>
-      <img src="(${post.frontmatter.thumbnail})"
+      <div class="column">
+      <span class="img"><img src="(${post.frontmatter.thumbnail})</span>
+      
     </div>
 
     <div class="column">
