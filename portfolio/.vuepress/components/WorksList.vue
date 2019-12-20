@@ -7,7 +7,7 @@
       v-for="post in posts"
       :key="post.title"
       class="post"
-      :style="{ img: `url(${post.frontmatter.thumbnail})` }"
+      :style="{ img src: `url(${post.frontmatter.thumbnail})` }"
     >
 
       <div class="info">
