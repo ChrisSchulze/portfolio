@@ -1,8 +1,8 @@
 <template>
 
-    <div
-      :style="{ backgroundImage: `url(${post.frontmatter.thumbnail})` }"
-    >
+    <div>
+      <img src=`url(${post.frontmatter.thumbnail})`>
+    </div>
 
   <div class="header">
 
