@@ -21,8 +21,8 @@
 
       
         <div>
-        <h2>{{ post.frontmatter.title }}</h2>
-        <h2>{{ post.frontmatter.description }}</h2>
+        {{ post.frontmatter.title }
+        {{ post.frontmatter.description }}
         <img src="/upload/compo_image_1.jpg" alt=""></div>
         
         <SingleProjectHeader
