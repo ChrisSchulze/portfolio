@@ -9,8 +9,9 @@
     <div class="column">
       <span class="value">{{ description }}</span>
     </div>
+    
     <div class="column">
-      <span class="picture"><img src="{{ thumbs }}"</span>
+      <img src="{{ thumbs }}"
       </div>
   </div>
 
