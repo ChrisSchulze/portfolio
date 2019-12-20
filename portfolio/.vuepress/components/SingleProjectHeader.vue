@@ -1,4 +1,9 @@
 <template>
+
+<div class="headerimage">
+backgroundImage: `url(${post.frontmatter.thumbnail})` 
+</div>
+
   <div class="header">
 
     <div class="column">
