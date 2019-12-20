@@ -9,7 +9,9 @@
     <div class="column">
       <span class="value">{{ description }}</span>
     </div>
-      <span class="img"><img src="(${post.frontmatter.thumbnail})"</span>
+    <div class="column">
+      <span class="img"><img src="{{ thumbs }}"</span>
+      </div>
   </div>
 
 </template>
