@@ -1,13 +1,6 @@
 <template>
 
-
-
   <div class="header">
-  
-      <div class="img">
-      <span class="img"><img src="(${post.frontmatter.thumbnail})"</span>
-      
-    </div>
 
     <div class="column">
       <span class="value">{{ title }}</span>
@@ -18,6 +11,11 @@
     </div>
 
   </div>
+  
+        <div class="post">
+      <span class="img"><img src="(${post.frontmatter.thumbnail})"</span>
+      
+    </div>
 </template>
 
 <script>
@@ -64,6 +62,17 @@
 
   .categories:last-of-type:after {
     content: '';
+  }
+  
+    .post {
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-bottom: 5vw;
+    cursor: pointer;
   }
 
 </style>
