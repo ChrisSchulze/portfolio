@@ -7,7 +7,7 @@
       v-for="post in posts"
       :key="post.title"
       class="post"
-      :style="{ backgroundImage: `url(${post.frontmatter.thumbnail})` }"
+      :style="{ img: `url(${post.frontmatter.thumbnail})` }"
     >
 
       <div class="info">
@@ -36,7 +36,7 @@
 
   .post {
     position: relative;
-    width: 100%;
+    max-width: 100%;
     height: auto;   
     margin-bottom: 5vw;
     cursor: pointer;
