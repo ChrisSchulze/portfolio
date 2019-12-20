@@ -5,7 +5,7 @@
   <div class="header">
   
       <div class="column">
-      <span class="img"><img src="(${post.frontmatter.thumbnail})</span>
+      <span class="img"><img src="(${post.frontmatter.thumbnail})"</span>
       
     </div>
 
