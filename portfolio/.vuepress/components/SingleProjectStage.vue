@@ -1,5 +1,14 @@
 <template>
 
+    <router-link
+      :to="post.path"
+      tag="div"
+      v-for="post in posts"
+      :key="post.title"
+      class="post"
+      :style="{ backgroundImage: `url(${post.frontmatter.thumbnail})` }"
+    >
+
   <div class="header">
 
     <div class="column">
