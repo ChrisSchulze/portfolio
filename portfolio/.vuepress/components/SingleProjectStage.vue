@@ -2,6 +2,8 @@
 
   <div class="header">
 
+<img src="{{ title }}">
+
     <div class="column">
       <span class="value">{{ title }}</span>
     </div>
