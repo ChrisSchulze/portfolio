@@ -1,27 +1,27 @@
 ---
-title: MSD
+title: KNF
 date: 2017-02-04T00:00:00.000+00:00
-thumbnail: "/upload/MSD_Design_3.jpg"
-year: '2018'
+thumbnail: "/upload/KNF_Images_1.jpg"
+year: '2020'
 categories:
 - UX
-description: Dresden Museums
+description: KNF
 
 ---
-![](/upload/MSD_Design_3.jpg)
+![](/upload/KNF_Images_1.jpg)
 
-# Putting the museums on the map
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-![](/upload/MSD_Overview_3.jpg)
+# A Single Source of truth
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-![](/upload/MSD_Design_1.jpg)
+![](/upload/KNF_Images_9.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-![](/upload/MSD_Design_2.jpg)
+![](/upload/KNF_Images_8.jpg)
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+![](/upload/KNF_Images.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
