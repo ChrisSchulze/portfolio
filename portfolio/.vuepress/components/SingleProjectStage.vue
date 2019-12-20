@@ -5,7 +5,7 @@
   <div class="header">
   
       <div>
-      <img src=`url(${post.frontmatter.thumbnail})`>
+      <img src=`{{ thumb }}`>
     </div>
 
     <div class="column">
