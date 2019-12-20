@@ -10,9 +10,7 @@
       <span class="value">{{ description }}</span>
     </div>
     
-    <div class="column">
-      <img src="{{ thumbs }}"
-      </div>
+
   </div>
 
 </template>
