@@ -18,7 +18,7 @@
       <!-- Single project view -->
       <div v-if="isSingleProject">
       
-      <div class="info">
+      <div>
         <h2>{{ post.frontmatter.title }}</h2>
         <span v-if="post.frontmatter.description">{{ post.frontmatter.description }}</span>
       </div>
