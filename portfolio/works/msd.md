@@ -1,14 +1,14 @@
 ---
 title: KNF
 date: 2017-02-04T00:00:00.000+00:00
-thumbnail: "/upload/KNF_Images_1.jpg"
+thumbnail: "/upload/KNF_Images_1_2.jpg"
 year: '2020'
 categories:
 - UX
 description: KNF
 
 ---
-![](/upload/KNF_Images_1.jpg)
+![](/upload/KNF_Images_1_2.jpg)
 
 # A Single Source of truth
 
