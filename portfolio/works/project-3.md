@@ -18,4 +18,4 @@ I developed a look & feel bringing the new font and layout pattern to exemplary 
 
 ![](/upload/DHB_Images_Ergebnisse_2.jpg)
 
-I**’**m glad we could improve some of the sites UX and design flaws. Wish we could have developed the whole site though**…**
+I’m glad we could improve some of the sites UX and design flaws. Wish we could have developed the whole site though…
