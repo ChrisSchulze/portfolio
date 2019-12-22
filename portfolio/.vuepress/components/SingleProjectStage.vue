@@ -7,9 +7,7 @@
     <div class="column">
       <span class="value">{{ description }}</span>
     </div>  
-        <div class="column">
-      <span class="value"><img src="{{ path }}" height="42" width="42"></span>
-    </div>    
+
   </div>
 
 <div       class="post"
