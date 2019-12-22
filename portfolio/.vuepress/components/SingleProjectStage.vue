@@ -9,6 +9,23 @@
     </div>  
   </div>
 
+
+    <router-link
+      :to="post.path"
+      tag="div"
+      v-for="post in posts"
+      :key="post.title"
+      class="post"
+      :style="{ backgroundImage: `url(${post.frontmatter.thumbnail})` }"
+    >
+
+      <div class="info">
+        <h2>{{ post.frontmatter.title }}</h2>
+        <span v-if="post.frontmatter.description">{{ post.frontmatter.description }}</span>
+      </div>
+
+    </router-link>
+
 <div class="StageImage">
 
 <span class="value"><img src="{{ path }}" height="42" width="42"></span>
