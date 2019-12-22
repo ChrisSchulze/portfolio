@@ -8,7 +8,7 @@
       <span class="value">{{ description }}</span>
     </div>  
         <div class="column">
-      <img src="{{ path }}" height="42" width="42">
+      <span class="value"><img src="{{ path }}" height="42" width="42"></span>
     </div>  
     
     
