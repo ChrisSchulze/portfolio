@@ -9,10 +9,13 @@
     </div>  
         <div class="column">
       <span class="value"><img src="{{ path }}" height="42" width="42"></span>
-    </div>  
-    
-    
+    </div>    
   </div>
+
+<div       class="post"
+      :style="{ backgroundImage: `url(${post.frontmatter.thumbnail})` }"
+    >
+
 
       <div class="info">
         <h2>{{ post.frontmatter.title }}</h2>
@@ -72,6 +75,17 @@
     .picture {
     width: 20px;
     height: auto;
+  }
+
+  .post {
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-bottom: 5vw;
+    cursor: pointer;
   }
 
 </style>
