@@ -8,8 +8,6 @@ categories:
 description: A brand in constant flux
 
 ---
-![](/upload/compo_image_1.jpg)
-
 # A brand in constant flux
 
 Compos customer base was getting old. We saw an opportunity in a younger cohort and were assigned to come up with ideas.
