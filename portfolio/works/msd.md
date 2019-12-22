@@ -8,10 +8,6 @@ categories:
 description: A Single Source of truth
 
 ---
-![](/upload/KNF_Images_1_2.jpg)
-
-# A Single Source of truth
-
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 ![](/upload/KNF_Images_9.jpg)
