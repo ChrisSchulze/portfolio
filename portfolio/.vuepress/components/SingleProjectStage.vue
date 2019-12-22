@@ -7,20 +7,14 @@
     <div class="column">
       <span class="value">{{ description }}</span>
     </div>  
-
   </div>
 
-<div       class="post"
-      :style="{ backgroundImage: `url(${post.frontmatter.thumbnail})` }"
-    >
-
+<div class="content custom">< :img src="{ `url(${post.frontmatter.thumbnail})` }"></div>
 
       <div class="info">
         <h2>{{ post.frontmatter.title }}</h2>
         <span v-if="post.frontmatter.description">{{ post.frontmatter.description }}</span>
       </div>
-
-
 
 </template>
 
