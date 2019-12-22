@@ -5,7 +5,7 @@ thumbnail: "/upload/DHB_Images.jpg"
 year: '2018'
 categories:
 - UX
-description: Dresden Museums
+description: A bold and ballsy brand
 
 ---
 ![](/upload/DHB_Images_Overview_2.jpg)
