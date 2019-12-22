@@ -8,7 +8,6 @@ categories:
 - Branding & UX
 
 ---
-![](/upload/Carglass_Images_4.jpg)
 
 # A broken Service
 
