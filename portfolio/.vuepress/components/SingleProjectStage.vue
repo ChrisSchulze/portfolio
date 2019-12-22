@@ -9,7 +9,7 @@
     </div>  
   </div>
 
-<div class="content custom">< :img src="{ `url(${post.frontmatter.thumbnail})` }"></div>
+<div class="content custom" :img src="{ `url(${post.frontmatter.thumbnail})` }">
 
       <div class="info">
         <h2>{{ post.frontmatter.title }}</h2>
