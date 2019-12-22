@@ -23,7 +23,7 @@
         :description="$page.frontmatter.description"
         />
         
-        <div id="custom"><img src="$page.frontmatter.thumbnail"></div>
+        <div id="custom"><img :src="$page.frontmatter.thumbnail"></div>
         
         <SingleProjectHeader
           :title="$page.frontmatter.title"
