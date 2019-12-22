@@ -8,16 +8,16 @@ categories:
 description: Putting the museums on the map
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The museums lacked visibility. Finding them was difficult. Once you found them finding interesting exhibitions was even more difficult.
+
+We held two workshops. First we took care of the branding. Second we looked after the visitor journey. We deviated the information architecture and UX Design from there.
 
 ![](/upload/MSD_Overview_3.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+To put the museums on the map we developed a logo system and a layout pattern derived from the museums floor plans. This reflects in the information architecture.
 
-![](/upload/MSD_Design_1.jpg)
+![](/upload/MSD_Design_1.jpg)![](/upload/MSD_Design_2.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+From experience I know exhibitions are most valuable if visitors can relate. That**’**s why we give the opportunity to browse exhibitions by subjective categories.
 
-![](/upload/MSD_Design_2.jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+![](/upload/MSD_Design_3.jpg)
