@@ -20,4 +20,6 @@ We came up with a onepager checkout. It is easier to use, faster, more flexible 
 
 For the corporate site we followed the idea that **„Carglass is always close**“. Visually and technichal wise we heavily relied on location based services.
 
+![](/upload/Carglass_Images_4.jpg)
+
 When TNS Kantar checked the sites brand fit in 2017 it had the best score of all of carglass touchpoints at that time.
