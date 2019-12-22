@@ -7,13 +7,12 @@
     <div class="column">
       <span class="value">{{ description }}</span>
     </div>  
-  </div>
-
-
-    <div>
-
+        <div class="column">
       <img src="{{ path }}" height="42" width="42">
-   </div>
+    </div>  
+    
+    
+  </div>
 
       <div class="info">
         <h2>{{ post.frontmatter.title }}</h2>
