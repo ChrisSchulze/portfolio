@@ -19,12 +19,7 @@
         <span v-if="post.frontmatter.description">{{ post.frontmatter.description }}</span>
       </div>
 
-    </router-link>
 
-<div class="StageImage">
-
-<span class="value"><img src="{{ path }}" height="42" width="42"></span>
-</div>
 
 </template>
 
