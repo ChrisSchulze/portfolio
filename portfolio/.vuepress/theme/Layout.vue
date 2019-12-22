@@ -21,9 +21,10 @@
         <SingleProjectStage  
         :title="$page.frontmatter.title"
         :description="$page.frontmatter.description"
-        :path="$page.frontmatter.thumbnail"
         />
-             
+        
+        <div id="custom"><img src="$page.frontmatter.thumbnail"></div>
+        
         <SingleProjectHeader
           :title="$page.frontmatter.title"
           :year="$page.frontmatter.year.toString()"
