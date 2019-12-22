@@ -8,14 +8,14 @@ categories:
 description: A bold and ballsy brand
 
 ---
+When we rebranded the DHB their new website was already in the making. The design was a mess and the information architecture was obscure.
+
+If we wanted to make a difference we had to be quick. We agreed to work in three one-week sprints and see what we could come up with.
+
 ![](/upload/DHB_Images_Overview_2.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-![](/upload/DHB_Images_Flyout.jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I developed a look & feel bringing the new font and layout pattern to exemplary modules. Also I revised the sitemap and came up with one that has less depth and brings player and game scores up front.
 
 ![](/upload/DHB_Images_Ergebnisse_2.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I**’**m glad we could improve some of the sites UX and design flaws. Wish we could have developed the whole site though**…**
