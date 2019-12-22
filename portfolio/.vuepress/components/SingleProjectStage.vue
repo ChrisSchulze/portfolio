@@ -10,10 +10,10 @@
   </div>
 
 
-    <div
+    <div>
 
-      :style="{ backgroundImage: `url( path })` }"
-    >
+      <img src="{{ path }}" height="42" width="42">
+   </div>
 
       <div class="info">
         <h2>{{ post.frontmatter.title }}</h2>
