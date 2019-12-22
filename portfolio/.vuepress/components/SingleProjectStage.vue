@@ -12,7 +12,7 @@
 
     <div
 
-      :style="{ backgroundImage: `url(${post.frontmatter.thumbnail})` }"
+      :style="{ backgroundImage: `url( path })` }"
     >
 
       <div class="info">
