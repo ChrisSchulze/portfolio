@@ -1,5 +1,5 @@
 ---
-about_index: false
+about_index: true
 hero_text: |-
   I create lovable digital services
   for companies and people
