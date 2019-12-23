@@ -1,0 +1,13 @@
+---
+label: About
+hide_body: false
+fields:
+- type: boolean
+  name: about_index
+  label: about_index
+- type: textarea
+  name: hero_text
+  label: hero_text
+- type: text
+  name: title
+  label: title
