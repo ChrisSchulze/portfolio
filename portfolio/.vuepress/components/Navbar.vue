@@ -114,7 +114,7 @@
     height: 6rem;
     padding: 5vw;
     font-size: 0.8rem;
-    font-weight: 600;
+    font-weight: 400;
     z-index: 10;
   }
 
