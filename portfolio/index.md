@@ -5,6 +5,6 @@ hero_text: <strong>Lorem ipsum</strong> dolor sit amet. Please have a look at my
 title: Hero
 
 ---
-<Hero :text="$page.frontmatter.hero_text" /> :point_down:
+<Hero :text="$page.frontmatter.hero_text" />
 
 <WorksList />
