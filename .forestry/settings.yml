@@ -7,7 +7,7 @@ sections:
 - type: heading
   label: Pages
 - type: document
-  path: ''
+  path: portfolio/about.md
   label: About
 - type: document
   path: portfolio/index.md
