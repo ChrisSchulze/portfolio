@@ -7,7 +7,7 @@
   "navigation": [
     {
       "text": "About",
-      "link": " about.html",
+      "link": "about.html",
       "position": "left",
       "external": false
     },
