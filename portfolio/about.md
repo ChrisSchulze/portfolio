@@ -1,7 +1,17 @@
 ---
 about_index: true
-hero_text: I give <strong>sense and form</strong> to digital services. By thinking
-  human first, data driven, hands down.
+hero_text: |-
+  I create lovable digital services
+  for companies and people
+
+  By thinking
+  human first, data second.
+
+  I build
+  bold hypotheses
+  to test & learn.
+
+  Have a look at my work.
 title: Hero
 
 ---
