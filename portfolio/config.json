@@ -1,10 +1,16 @@
 {
-  "title": " ",
+  "title": " Portfolio Christian Schulze ",
   "description": "Digital Services & Products",
   "logo": "",
   "footer": "Ⓒ Christian Schulze 2020",
   "favicon": "/upload/logo.png",
   "navigation": [
+    {
+      "text": "About",
+      "link": "",
+      "position": "left",
+      "external": false
+    },
     {
       "text": "Work",
       "link": "/",
