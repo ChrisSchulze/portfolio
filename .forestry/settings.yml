@@ -7,6 +7,10 @@ sections:
 - type: heading
   label: Pages
 - type: document
+  path: ''
+  label: About
+  match: "**/*"
+- type: document
   path: portfolio/index.md
   label: Work Overview
   templates:
