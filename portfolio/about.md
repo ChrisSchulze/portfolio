@@ -12,7 +12,7 @@ hero_text: |-
   to test & learn.
 
   Have a look at my work.
-title: Hero
+title: About
 
 ---
 <Hero :text="$page.frontmatter.hero_text" />
