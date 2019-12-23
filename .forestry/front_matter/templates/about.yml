@@ -11,3 +11,5 @@ fields:
     schema:
       format: markdown
   label: Main copy
+pages:
+- portfolio/about.md
