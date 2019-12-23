@@ -7,7 +7,7 @@
   "navigation": [
     {
       "text": "About",
-      "link": "/",
+      "link": "portfolio/about.md",
       "position": "left",
       "external": false
     },
