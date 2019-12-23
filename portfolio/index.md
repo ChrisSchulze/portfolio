@@ -1,7 +1,7 @@
 ---
 works_index: true
 hero_text: <strong>Lorem ipsum</strong> dolor sit amet. Please have a look at my work
-  **:**<span class="s1"><br></span>
+  <code>:point_down:</code><br><span class="s1"><br></span>
 title: Hero
 
 ---
