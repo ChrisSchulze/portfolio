@@ -1,4 +1,8 @@
++++
+copy = ""
+title = "About"
 
++++
 I create lovable digital services
 
 for companies and people
