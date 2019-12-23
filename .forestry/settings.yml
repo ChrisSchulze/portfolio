@@ -4,14 +4,8 @@ auto_deploy: true
 admin_path: "/admin"
 webhook_url: 
 sections:
-- type: document
-  path: portfolio/about/about.md
-  label: About 2
 - type: heading
   label: Pages
-- type: document
-  path: portfolio/about.md
-  label: About
 - type: document
   path: portfolio/index.md
   label: Work Overview
