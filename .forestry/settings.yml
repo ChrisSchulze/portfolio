@@ -7,7 +7,6 @@ sections:
 - type: document
   path: portfolio/about/about.md
   label: About 2
-  match: "**/*"
 - type: heading
   label: Pages
 - type: document
