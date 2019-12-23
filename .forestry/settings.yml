@@ -8,7 +8,7 @@ sections:
   label: Pages
 - type: document
   path: portfolio/index.md
-  label: Homepage
+  label: Work Overview
   templates:
   - settings
 - type: directory
