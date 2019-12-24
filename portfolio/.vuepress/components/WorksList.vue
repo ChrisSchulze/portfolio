@@ -70,4 +70,11 @@
     font-size: 0.8rem;
   }
 
+text{
+  fill: none;
+  stroke: black;
+  stroke-width:0.5px;
+
+}
+
 </style>
