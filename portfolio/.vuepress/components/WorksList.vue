@@ -10,7 +10,7 @@
       class="post"    
       >
       <svg>
-        <text y="40">{{ post.frontmatter.title }} {{ post.frontmatter.description }}</text>
+        <text y="40">carglass</text>
       </svg>
     </router-link>
 
