@@ -48,22 +48,6 @@
   }
 
 
-  .info h2 {
-    display: inline-block;
-    width: auto;
-    font-size: 0.8rem;
-    font-weight: 700;
-    margin: 0;
-  }
-
-  .info span {
-    display: inline-block;
-    width: auto;
-    margin: 0;
-    margin-left: 0.5rem;
-    font-size: 0.8rem;
-  }
-
 text{
   fill: none;
   stroke: black;
