@@ -17,9 +17,7 @@
         {{ post.frontmatter.description }}</text>
       </svg>
       
-            <svg width="1000" height="500" xmlns="http://www.w3.org/2000/svg">
-        <text>hallo</text>
-      </svg>
+
 </div>
 
     </router-link>
