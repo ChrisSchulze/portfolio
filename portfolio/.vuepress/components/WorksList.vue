@@ -10,7 +10,7 @@
     >
 
 <div class="info">
-      <svg>
+      <svg viewBox="0 0 240 80" xmlns="http://www.w3.org/2000/svg">
         <text>{{ post.frontmatter.title }}
         {{ post.frontmatter.description }}</text>
       </svg>
