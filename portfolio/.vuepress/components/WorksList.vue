@@ -11,8 +11,8 @@
 
       <div class="info">
         <svg width="800px" height="500px">
-        <text y="0">{{ post.frontmatter.title }}</text>
-        <text y="140" extent="870">{{ post.frontmatter.description }}</text>
+        <text y="100">{{ post.frontmatter.title }}</text>
+        <text y="240" extent="870">{{ post.frontmatter.description }}</text>
         </svg>
       </div>
 
