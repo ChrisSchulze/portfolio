@@ -10,10 +10,10 @@
     >
 
 <div class="svg-container">
-	<svg version="1.1" viewBox="0 0 500 500" 
+	<svg version="1.1" viewBox="0 0 870 870" 
 preserveAspectRatio="xMinYMin meet" class="svg-content">
-        <text y="100">{{ post.frontmatter.title }}</text>
-        <text class="outline" y="240" extent="870">{{ post.frontmatter.description }}</text>
+        <text y="90">{{ post.frontmatter.title }}</text>
+        <text class="outline" y="180" extent="870">{{ post.frontmatter.description }}</text>
         </svg>
       </div>
 
@@ -39,7 +39,7 @@ preserveAspectRatio="xMinYMin meet" class="svg-content">
   .post {
     position: relative;
     width: 100%;
-    height: 600px;
+    height: auto;
     padding-top: 0;
     margin-bottom: 5vw;
     cursor: pointer;
@@ -64,9 +64,9 @@ preserveAspectRatio="xMinYMin meet" class="svg-content">
   text {
     fill: none;
     stroke: #D1D1D2;
-    stroke-width:0.5px;
+    stroke-width:0.25px;
     stroke-linejoin: round;
-    font-size: 100px;
+    font-size: 90px;
   }
 
 </style>
