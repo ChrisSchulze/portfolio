@@ -44,7 +44,7 @@
     cursor: pointer;
   }
 
-svg {
+.info {
     top: 0;
     left: 0;
     }
