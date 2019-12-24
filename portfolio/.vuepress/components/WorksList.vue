@@ -9,8 +9,9 @@
       class="post"
     >
 
-      <div class="info">
-        <svg width="870px" height="500px">
+<div class="svg-container">
+	<svg version="1.1" viewBox="0 0 500 500" 
+preserveAspectRatio="xMinYMin meet" class="svg-content">
         <text y="100">{{ post.frontmatter.title }}</text>
         <text class="outline" y="240" extent="870">{{ post.frontmatter.description }}</text>
         </svg>
@@ -44,14 +45,28 @@
     cursor: pointer;
   }
   
-
+  .svg-container { 
+	  display: inline-block;
+	  position: relative;
+	  width: 100%;
+	  padding-bottom: 100%; 
+	  vertical-align: middle; 
+	  overflow: hidden;
+    }
+    
+  .svg-content { 
+	  display: inline-block;
+	  position: absolute;
+	  top: 0;
+	  left: 0;
+    }  
   
-text{
-  fill: none;
-  stroke: #D1D1D2;
-  stroke-width:0.5px;
-  stroke-linejoin: round;
-  font-size: 100px;
-}
+  text {
+    fill: none;
+    stroke: #D1D1D2;
+    stroke-width:0.5px;
+    stroke-linejoin: round;
+    font-size: 100px;
+  }
 
 </style>
