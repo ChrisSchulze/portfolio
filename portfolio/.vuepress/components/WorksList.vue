@@ -43,9 +43,16 @@
     background-color: red;
   }
 
+  .info {
+    position: absolute;
+    left: 0;
+    top: 2rem;
+    padding: 0.5rem 1rem;
+    background: rgba(255,255,255, 1);
+    
+  }
 
-
-text{
+text {
   fill: none;
   stroke: #D1D1D2;
   stroke-width:0.25px;
