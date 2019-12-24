@@ -66,6 +66,8 @@
     display: inline-block;
     width: auto;
     margin: 0;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 1px white;
   }
 
 </style>
