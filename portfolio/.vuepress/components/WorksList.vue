@@ -40,6 +40,7 @@
     width: 100%;
     height: 600px;
     background: rgba(255,255,255, 1);
+    padding-top: 0;
     margin-bottom: 5vw;
     cursor: pointer;
   }
