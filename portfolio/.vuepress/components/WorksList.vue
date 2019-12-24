@@ -39,7 +39,7 @@
   .post {
     position: relative;
     width: 100%;
-    height: 70vh;
+    height: 50vh;
     padding-top: 0;
     margin-bottom: 5vw;
     cursor: pointer;
