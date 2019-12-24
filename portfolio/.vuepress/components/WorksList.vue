@@ -11,8 +11,8 @@
     >
 
       <div class="info">
-        <h2>{{ post.frontmatter.title }}</h2>
-        <span v-if="post.frontmatter.description">{{ post.frontmatter.description }}</span>
+        <h1>{{ post.frontmatter.title }}</h1>
+        <h2><span v-if="post.frontmatter.description">{{ post.frontmatter.description }}</span></h2>
       </div>
 
     </router-link>
