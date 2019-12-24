@@ -62,15 +62,6 @@
     margin: 0;
   }
 
-  .info span {
-    display: inline-block;
-    width: auto;
-    margin: 0;
-    margin-left: 0.5rem;
-    font-size: 0.8rem;
-  }
-  
-
 text{
   fill: none;
   stroke: #D1D1D2;
@@ -80,7 +71,7 @@ text{
 
 svg{
   width: 100%;
-  height: 120px;
+  height: auto;
 }
 
 </style>
