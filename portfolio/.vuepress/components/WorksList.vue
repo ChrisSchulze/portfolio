@@ -61,12 +61,17 @@
 	  left: 0;
     }  
   
+  
   text {
-    fill: none;
+      font-size: 90px;
+      fill: #D1D1D2;
+      }
+      
+  .outline {
+    fill: none !important;
     stroke: #D1D1D2;
-    stroke-width:0.5px;
+    stroke-width:0.25px;
     stroke-linejoin: round;
-    font-size: 90px;
   }
 
 </style>
