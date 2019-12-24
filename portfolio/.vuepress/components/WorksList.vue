@@ -44,7 +44,10 @@
     cursor: pointer;
   }
   
-  .info {position: absolute;
+  .info {
+    position: absolute;
+    top: 0;
+    left: 0;
   }
   
 text{
