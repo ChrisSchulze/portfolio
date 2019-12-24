@@ -9,9 +9,12 @@
       :key="post.title"
       class="post"    
       >
-      <svg>
-        <text y="40">carglass</text>
-      </svg>
+      
+   <div class="info">
+        <h2>{{ post.frontmatter.title }}</h2>
+        <span v-if="post.frontmatter.description">{{ post.frontmatter.description }}</span>
+      </div>
+      
     </router-link>
 
   </div>
