@@ -38,7 +38,7 @@
   .post {
     position: relative;
     width: 100%;
-    height: 900px;
+    height: 600px;
     background: rgba(255,255,255, 1);
     margin-bottom: 5vw;
     cursor: pointer;
