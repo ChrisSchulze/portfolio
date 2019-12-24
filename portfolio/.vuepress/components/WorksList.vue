@@ -11,7 +11,7 @@
 
       <div class="info">
         <svg width="100%" height="500px">
-        <text y="40">{{ post.frontmatter.title }}</text>
+        <text y="0">{{ post.frontmatter.title }}</text>
         <text y="140" extent="870">{{ post.frontmatter.description }}</text>
         </svg>
       </div>
@@ -43,8 +43,10 @@
     margin-bottom: 5vw;
     cursor: pointer;
   }
-
-    
+  
+  .info {position: absolute;
+  }
+  
 text{
   fill: none;
   stroke: black;
