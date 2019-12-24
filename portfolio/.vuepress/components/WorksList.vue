@@ -45,7 +45,10 @@
   }
   
   .info {
-    position: absolute;
+
+    width: 870öx;
+    margin-left: auto;
+    margin-right: auto;
     top: 0;
     left: 0;
   }
