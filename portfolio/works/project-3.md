@@ -5,8 +5,8 @@ thumbnail: "/upload/DHB_Images.jpg"
 year: '2018'
 categories:
 - UX
-description: 'A bold '
-description_second_line: and ballsy brand
+description: A bold and ballsy
+description_second_line: brand
 
 ---
 When we rebranded the DHB their new website was already in the making. The design was a mess and the information architecture was obscure.
