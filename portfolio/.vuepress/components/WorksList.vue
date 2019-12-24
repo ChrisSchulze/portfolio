@@ -9,10 +9,12 @@
       class="post"
     >
 
+<div class="info">
       <svg>
         <text>{{ post.frontmatter.title }}
         {{ post.frontmatter.description }}</text>
       </svg>
+</div>
 
     </router-link>
 
