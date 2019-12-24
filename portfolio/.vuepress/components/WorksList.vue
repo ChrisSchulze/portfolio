@@ -47,8 +47,7 @@
   .info {
     position: absolute;
     left: 0;
-    top: 2rem;
-    padding: 0.5rem 1rem;
+    top: 0;
     background: rgba(255,255,255, 1);
     
   }
