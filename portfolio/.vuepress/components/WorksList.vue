@@ -1,8 +1,5 @@
 <template>
 
-      <svg width="1000" height="500" xmlns="http://www.w3.org/2000/svg">
-        <text>hallo</text>
-      </svg>
 
   <div class="project-list">
 
@@ -18,6 +15,10 @@
       <svg viewBox="0 0 240 80" xmlns="http://www.w3.org/2000/svg">
         <text>{{ post.frontmatter.title }}
         {{ post.frontmatter.description }}</text>
+      </svg>
+      
+            <svg width="1000" height="500" xmlns="http://www.w3.org/2000/svg">
+        <text>hallo</text>
       </svg>
 </div>
 
