@@ -65,6 +65,7 @@
   text {
       font-size: 90px;
       fill: #D1D1D2;
+      text-rendering: geometricPrecision;
       }
       
   .outline {
