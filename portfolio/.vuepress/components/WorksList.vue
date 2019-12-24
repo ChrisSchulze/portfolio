@@ -10,8 +10,7 @@
       class="post"    
       >
       <svg viewBox="0 0 450 50">
-        <h1>{{ post.frontmatter.title }}</h1>
-        <text y="40"> {{ post.frontmatter.description }}</text>
+        <text y="40">{{ post.frontmatter.title }} {{ post.frontmatter.description }}</text>
       </svg>
     </router-link>
 
