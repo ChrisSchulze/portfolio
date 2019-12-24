@@ -10,7 +10,7 @@
     >
 
       <div class="info">
-        <svg width="800px" height="500px">
+        <svg width="870px" height="500px">
         <text y="100">{{ post.frontmatter.title }}</text>
         <text class="outline" y="240" extent="870">{{ post.frontmatter.description }}</text>
         </svg>
