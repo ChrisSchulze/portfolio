@@ -53,13 +53,19 @@
     
   }
 
-text {
-  fill: none;
-  stroke: #0000FF;
-  stroke-width:0.25px;
-
+svg{
+  font: bold 70px Century Gothic, Arial;
+  width: 100%;
+  height: 120px;
 }
 
+text{
+  fill: none;
+  stroke: black;
+  stroke-width:0.5px;
+  // stroke-dasharray: 2,2;
+  stroke-linejoin: round;
+}
 
 
 </style>
