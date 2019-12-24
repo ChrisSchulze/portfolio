@@ -1,5 +1,4 @@
 <template>
-
   <div class="project-list">
 
     <router-link
@@ -9,19 +8,15 @@
       :key="post.title"
       class="post"
     >
-    
 
-    
-      <svg xmlns="http://www.w3.org/2000/svg">
-        <text>{{ post.frontmatter.title }}</text>
-        <text>{{ post.frontmatter.description }}</text>
-      </svg>
-
+      <div class="info">
+        <h2>{{ post.frontmatter.title }}</h2>
+        <span>{{ post.frontmatter.description }}</span>
+      </div>
 
     </router-link>
 
   </div>
-  
 </template>
 
 <script>
@@ -41,23 +36,34 @@
   .post {
     position: relative;
     width: 100%;
+    padding-top: 56.25%;
+    background: rgba(255,255,255, 1);
     margin-bottom: 5vw;
     cursor: pointer;
-    background-color: red;
   }
 
+  .info {
+    position: absolute;
+    left: 0;
+    top: 2rem;
+    padding: 0.5rem 1rem;
+    max-width: 400px;
+  }
 
-svg{
+  .info h2 {
+    display: inline-block;
+    width: auto;
+    font-size: 0.8rem;
+    font-weight: 700;
+    margin: 0;
+  }
 
-}
-
-text{
-  fill: none;
-  stroke: black;
-  stroke-width:0.5px;
-  // stroke-dasharray: 2,2;
-  stroke-linejoin: round;
-}
-
+  .info span {
+    display: inline-block;
+    width: auto;
+    margin: 0;
+    margin-left: 0.5rem;
+    font-size: 0.8rem;
+  }
 
 </style>
