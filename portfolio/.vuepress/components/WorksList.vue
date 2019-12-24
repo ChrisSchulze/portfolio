@@ -64,7 +64,7 @@
   text {
     fill: none;
     stroke: #D1D1D2;
-    stroke-width:0.25px;
+    stroke-width:0.5px;
     stroke-linejoin: round;
     font-size: 90px;
   }
