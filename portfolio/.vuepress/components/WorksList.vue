@@ -1,20 +1,18 @@
 <template>
+  
   <div class="project-list">
-
+  
     <router-link
       :to="post.path"
       tag="div"
       v-for="post in posts"
       :key="post.title"
-      class="post"
-      
-    >
-
-      <div class="info">
-        <h1>{{ post.frontmatter.title }}
-        <span v-if="post.frontmatter.description">{{ post.frontmatter.description }}</span></h1>
-      </div>
-
+      class="post"    
+      >
+      <svg viewBox="0 0 450 50">
+        <h1>{{ post.frontmatter.title }}</h1>
+        <text y="40"> {{ post.frontmatter.description }}</text>
+      </svg>
     </router-link>
 
   </div>
@@ -69,5 +67,18 @@
     -webkit-text-fill-color: transparent;
     -webkit-text-stroke: 1px #D1D1D2;
   }
+
+svg{
+  width: 100%;
+  height: 120px;
+}
+
+text{
+  fill: none;
+  stroke: white;
+  stroke-width:0.5px;
+  // stroke-dasharray: 2,2;
+  stroke-linejoin: round;
+}
 
 </style>
