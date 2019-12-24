@@ -11,8 +11,8 @@
 
       <div class="info">
         <svg viewBox="0 0 450 100" width="100%" height="100%">
-        <text y="40">{{ post.frontmatter.title }}<br>{{ post.frontmatter.description }}</text>
-        <text y="40"></text>
+        <text y="40">{{ post.frontmatter.title }}</text>
+        <text y="40">{{ post.frontmatter.description }}</text>
         </svg>
       </div>
 
