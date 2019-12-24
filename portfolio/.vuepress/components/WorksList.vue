@@ -9,7 +9,7 @@
       :key="post.title"
       class="post"    
       >
-      <svg viewBox="0 0 450 50">
+      <svg>
         <text y="40">{{ post.frontmatter.title }} {{ post.frontmatter.description }}</text>
       </svg>
     </router-link>
