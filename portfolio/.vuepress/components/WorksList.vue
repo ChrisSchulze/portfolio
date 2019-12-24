@@ -55,7 +55,7 @@
 
 text {
   fill: none;
-  stroke: #D1D1D2;
+  stroke: blue;
   stroke-width:0.25px;
 
 }
