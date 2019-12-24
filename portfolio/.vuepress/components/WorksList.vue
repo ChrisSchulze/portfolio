@@ -11,7 +11,7 @@
       class="post"
     >
 
-<div class="info">
+<div>
 <h1>{{ post.frontmatter.title }}</h1>
       <svg xmlns="http://www.w3.org/2000/svg">
         
@@ -47,13 +47,7 @@
     cursor: pointer;
   }
 
-  .info {
-    position: relative;
-    left: 0;
-    top: 0;
-    
-    
-  }
+
 
 text{
   fill: none;
