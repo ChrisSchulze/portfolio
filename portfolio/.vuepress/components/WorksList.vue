@@ -47,13 +47,6 @@
     cursor: pointer;
   }
 
-  .info {
-    position: absolute;
-    left: 0;
-    top: 2rem;
-    padding: 0.5rem 1rem;
-    max-width: 400px;
-  }
 
   .info h2 {
     display: inline-block;
