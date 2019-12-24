@@ -9,12 +9,14 @@
       :key="post.title"
       class="post"
     >
+    
     <div class="info">
     
       <svg xmlns="http://www.w3.org/2000/svg">
         <text>{{ post.frontmatter.title }}</text>
         <text>{{ post.frontmatter.description }}</text>
       </svg>
+      
     </div>
 
     </router-link>
@@ -54,7 +56,7 @@
   }
 
 svg{
-  font: bold 70px Century Gothic, Arial;
+
   width: 100%;
   height: 120px;
 }
