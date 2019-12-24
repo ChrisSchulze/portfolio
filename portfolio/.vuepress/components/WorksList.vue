@@ -47,19 +47,7 @@
   }
 
   .info {
-    position: absolute;
-    left: 0;
-    top: 2rem;
-    padding: 0.5rem 1rem;
-    max-width: 400px;
-  }
 
-  .info h2 {
-    display: inline-block;
-    width: auto;
-    font-size: 0.8rem;
-    font-weight: 700;
-    margin: 0;
   }
 
 text{
