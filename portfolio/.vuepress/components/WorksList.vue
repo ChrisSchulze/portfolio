@@ -53,6 +53,12 @@
     
   }
 
+svg {
+    width: 200px;
+    height: 200px;
+    
+    }
+
 text {
   fill: none;
   stroke: blue;
