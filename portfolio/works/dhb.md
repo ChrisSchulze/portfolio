@@ -5,7 +5,8 @@ thumbnail: "/upload/MSD_Design_3.jpg"
 year: '2018'
 categories:
 - UX
-description: Putting the museums on the map
+description: Putting the museums
+description_second_line: on the map
 
 ---
 The museums lacked visibility. Finding them was difficult. Once you found them finding interesting exhibitions was even more difficult.
