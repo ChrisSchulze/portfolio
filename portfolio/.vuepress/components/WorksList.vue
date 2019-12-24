@@ -10,7 +10,7 @@
       class="post"
     >
     <div class="info">
-    <h1>{{ post.frontmatter.title }}</h1>
+    <text>{{ post.frontmatter.title }}</text>
       <svg xmlns="http://www.w3.org/2000/svg">
         <text>{{ post.frontmatter.description }}</text>
       </svg>
