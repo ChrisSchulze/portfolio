@@ -2,6 +2,13 @@
 label: works
 hide_body: false
 fields:
+- name: title
+  default: ''
+  label: Title
+  hidden: false
+  type: text
+  config:
+    required: true
 - type: textarea
   name: description
   label: Description
@@ -16,13 +23,6 @@ fields:
     schema:
       format: markdown
   label: Description second line
-- name: title
-  default: ''
-  label: Title
-  hidden: false
-  type: text
-  config:
-    required: true
 - name: year
   default: 
   label: Year
