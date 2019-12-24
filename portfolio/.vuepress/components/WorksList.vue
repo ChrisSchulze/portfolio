@@ -68,5 +68,20 @@
     margin-left: 0.5rem;
     font-size: 0.8rem;
   }
+  
+  svg{
+  font: bold 70px Century Gothic, Arial;
+  width: 100%;
+  height: 120px;
+}
+
+text{
+  fill: none;
+  stroke: black;
+  stroke-width:0.5px;
+  // stroke-dasharray: 2,2;
+  stroke-linejoin: round;
+  animation: 2s pulsate infinite;
+}
 
 </style>
