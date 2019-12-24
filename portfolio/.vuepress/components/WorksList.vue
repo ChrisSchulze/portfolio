@@ -67,7 +67,7 @@
     width: auto;
     margin: 0;
     -webkit-text-fill-color: transparent;
-    -webkit-text-stroke: 1px white;
+    -webkit-text-stroke: 1px #D1D1D2;
   }
 
 </style>
