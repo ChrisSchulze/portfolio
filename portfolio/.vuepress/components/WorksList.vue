@@ -44,14 +44,7 @@
     cursor: pointer;
   }
   
-  .info {
 
-    width: 870öx;
-    margin-left: auto;
-    margin-right: auto;
-    top: 0;
-    left: 0;
-  }
   
 text{
   fill: none;
