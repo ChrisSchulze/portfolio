@@ -48,16 +48,16 @@
   .info {
     position: absolute;
     left: 0;
-    top: 2rem;
+    top: 0;
     padding: 0.5rem 1rem;
-    background: rgba(255,255,255, 1);
+    
     max-width: 400px;
   }
 
-  .info h2 {
+  .info h1 {
     display: inline-block;
     width: auto;
-    font-size: 0.8rem;
+    font-size: 1.6rem;
     font-weight: 700;
     margin: 0;
   }
