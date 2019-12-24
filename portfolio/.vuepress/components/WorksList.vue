@@ -9,11 +9,12 @@
       :key="post.title"
       class="post"
     >
-
+    <div class="info">
     <h1>{{ post.frontmatter.title }}</h1>
       <svg xmlns="http://www.w3.org/2000/svg">
         <text>{{ post.frontmatter.description }}</text>
       </svg>
+    </div>
 
     </router-link>
 
