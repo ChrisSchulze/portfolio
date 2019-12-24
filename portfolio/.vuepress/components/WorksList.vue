@@ -75,7 +75,8 @@ text{
   fill: none;
   stroke: black;
   stroke-width:0.5px;
-
+  stroke-linejoin: round;
+  font-size: 100px;
 }
 
 </style>
