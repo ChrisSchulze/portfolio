@@ -7,13 +7,12 @@
       v-for="post in posts"
       :key="post.title"
       class="post"
-      :style="{ backgroundImage: `url(${post.frontmatter.thumbnail})` }"
     >
 
-      <div class="info">
-        <h2>{{ post.frontmatter.title }}</h2>
-        <span v-if="post.frontmatter.description">{{ post.frontmatter.description }}</span>
-      </div>
+      <svg>
+        <text>{{ post.frontmatter.title }}
+        {{ post.frontmatter.description }}</text>
+      </svg>
 
     </router-link>
 
