@@ -47,13 +47,6 @@
     background-color: red;
   }
 
-  .info {
-    position: absolute;
-    left: 0;
-    top: 0;
-    background: rgba(255,255,255, 1);
-    
-  }
 
 svg{
 
