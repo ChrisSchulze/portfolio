@@ -14,9 +14,6 @@
         <text y="40">{{ post.frontmatter.title }}</text>
         <text y="40">{{ post.frontmatter.description }}</text>
         </svg>
-
-        <h2>{{ post.frontmatter.title }}</h2>
-        <span>{{ post.frontmatter.description }}</span>
       </div>
 
     </router-link>
@@ -41,7 +38,7 @@
   .post {
     position: relative;
     width: 100%;
-    padding-top: 56.25%;
+    height: 900px;
     background: rgba(255,255,255, 1);
     margin-bottom: 5vw;
     cursor: pointer;
