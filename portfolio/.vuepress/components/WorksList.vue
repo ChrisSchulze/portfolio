@@ -39,7 +39,7 @@ preserveAspectRatio="xMinYMin meet" class="svg-content">
   .post {
     position: relative;
     width: 100%;
-    height: auto;
+    height: 70vh;
     padding-top: 0;
     margin-bottom: 5vw;
     cursor: pointer;
