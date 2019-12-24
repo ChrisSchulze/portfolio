@@ -74,7 +74,7 @@
 
 text{
   fill: none;
-  stroke: black;
+  stroke: white;
   stroke-width:0.5px;
 
 }
