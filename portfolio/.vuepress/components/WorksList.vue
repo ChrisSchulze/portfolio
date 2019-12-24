@@ -47,7 +47,11 @@
   }
 
   .info {
-
+    position: relative;
+    left: 0;
+    top: 4rem;
+    padding: 0.5rem 1rem;
+    
   }
 
 text{
