@@ -12,7 +12,7 @@
       <div class="info">
         <svg width="800px" height="500px">
         <text y="100">{{ post.frontmatter.title }}</text>
-        <text y="240" extent="870">{{ post.frontmatter.description }}</text>
+        <text class="outline" y="240" extent="870">{{ post.frontmatter.description }}</text>
         </svg>
       </div>
 
@@ -39,7 +39,6 @@
     position: relative;
     width: 100%;
     height: 600px;
-    background: rgba(255,255,255, 1);
     padding-top: 0;
     margin-bottom: 5vw;
     cursor: pointer;
@@ -49,7 +48,7 @@
   
 text{
   fill: none;
-  stroke: black;
+  stroke: #D1D1D2;
   stroke-width:0.5px;
   stroke-linejoin: round;
   font-size: 100px;
