@@ -61,7 +61,7 @@ svg {
 
 text {
   fill: none;
-  stroke: blue;
+  stroke: #0000FF;
   stroke-width:0.25px;
 
 }
