@@ -57,7 +57,7 @@
   .info h1 {
     display: inline-block;
     width: auto;
-    font-size: 1.6rem;
+    font-size: 4rem;
     font-weight: 700;
     margin: 0;
   }
@@ -66,8 +66,6 @@
     display: inline-block;
     width: auto;
     margin: 0;
-    margin-left: 0.5rem;
-    font-size: 0.8rem;
   }
 
 </style>
