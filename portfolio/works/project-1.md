@@ -5,7 +5,8 @@ thumbnail: "/upload/compo_image_1.jpg"
 year: 2018
 categories:
 - Branding & UX
-description: A brand in constant flux
+description: 'A brand '
+description_second_line: in constant flux
 
 ---
 Compos customer base was getting old. We saw an opportunity in a younger cohort and were assigned to come up with ideas.
