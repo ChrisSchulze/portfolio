@@ -71,7 +71,7 @@
   .outline {
     fill: none !important;
     stroke: #D1D1D2;
-    stroke-width:1px;
+    stroke-width:0.5px;
     stroke-linejoin: round;
   }
 
