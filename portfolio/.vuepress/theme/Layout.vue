@@ -1,9 +1,7 @@
 <template>
-  <div class="wrapper">
-
-    <Navbar :logo="$site.themeConfig.logo"/>
-
-    <div class="container">
+      <div class="wrapper">
+        <Navbar :logo="$site.themeConfig.logo"/>
+          <div class="container">
 
       <!-- Works list -->
       <div v-if="$route.path === '/'"
@@ -11,6 +9,7 @@
         >
       
         <Content/>
+      
       </div>
 
       <!-- Single project view -->
