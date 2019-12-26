@@ -7,7 +7,7 @@
 
       <!-- Works list -->
       <div v-if="$route.path === '/'"
-        :style="{ marginTop: '17vw' }"
+        :style="{ marginTop: '20vw' }"
         >
       
         <Content/>
@@ -15,7 +15,7 @@
 
       <!-- Single project view -->
       <div v-if="isSingleProject"
-      :style="{ marginTop: '3vw' }"
+      :style="{ marginTop: '6vw' }"
       >
       
         <SingleProjectStage  
