@@ -168,7 +168,7 @@
       color: #D1D1D2;
       text-stroke: 0px rgba(210,210,210, 1);
       -webkit-text-stroke: 0px rgba(210,210,210, 1);
-      transition: 1.2s ease-out; 
+      transition: 1.2s; 
       }
   
   .post h1::after {
