@@ -14,15 +14,6 @@ fields:
   label: Description
   config:
     required: true
-- name: description_second_line
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Description second line
 - name: year
   default: 
   label: Year
