@@ -1,12 +1,12 @@
 <template>
   <header
     class="header"
-    :style="sticky && {
+    style="
       position: 'fixed',
       top: '0',
       left: '0',
       width: '100%',
-    }"
+    "
   >
 
     <nav v-if="navLinks" class="navigation left desktop-nav">
