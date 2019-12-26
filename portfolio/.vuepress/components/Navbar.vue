@@ -134,6 +134,7 @@
     display: inline-block;
     list-style: none;
     margin-right: 1rem;
+    color: #4A4A4B;
     user-select: none;
     cursor: pointer;
     border-bottom: 1px solid transparent;
@@ -144,11 +145,11 @@
   }
 
   .navigation li:hover {
-    border-bottom: 1px solid #000;
+    border-bottom: 1px solid transparent;
   }
 
   .active {
-    border-bottom: 1px solid #000;
+    border-bottom: 1px solid #D1D1D2;
   }
 
   a {
@@ -156,8 +157,8 @@
     color: inherit;
   }
 
-  a:active { color: inherit; }
-  a:visited { color: inherit; }
+  a:active { color: #D1D1D2; }
+  a:visited { color: #4A4A4B;}
 
   .desktop-nav {
     display: none;
