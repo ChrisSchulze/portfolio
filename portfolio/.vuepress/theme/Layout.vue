@@ -168,6 +168,12 @@
   font-size: 1rem !important;
   content: "More +"; }
      
+     
+  .post:hover .outline {   color: #D1D1D2;
+  text-stroke: 0px rgba(210,210,210, 1);
+  -webkit-text-stroke: 0px rgba(210,210,210, 1);
+  transition: 0.9s; }
+  
   .post .outline:hover {
   color: #D1D1D2;
   text-stroke: 0px rgba(210,210,210, 1);
