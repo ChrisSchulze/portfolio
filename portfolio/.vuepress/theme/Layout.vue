@@ -7,14 +7,16 @@
 
       <!-- Works list -->
       <div v-if="$route.path === '/'"
-        :style="{ marginTop: '14vw' }"
+        :style="{ marginTop: '17vw' }"
         >
       
         <Content/>
       </div>
 
       <!-- Single project view -->
-      <div v-if="isSingleProject">
+      <div v-if="isSingleProject"
+      :style="{ marginTop: '3vw' }"
+      >
       
         <SingleProjectStage  
         :title="$page.frontmatter.title"
