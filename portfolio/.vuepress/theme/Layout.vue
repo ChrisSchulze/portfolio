@@ -152,7 +152,7 @@
   }
 
   h1 {
-    font-size: 6rem;
+    font-size: 6.5rem;
     line-height: 1;
     font-weight: 700;
     margin: 0 auto 3rem auto;
