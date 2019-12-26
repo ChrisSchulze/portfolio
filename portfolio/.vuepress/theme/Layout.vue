@@ -8,13 +8,13 @@
       <!-- Works list -->
       <div v-if="$route.path === '/'"
         :style="{ marginTop: '14vw' }"
-        class="work">
+        >
       
         <Content/>
       </div>
 
       <!-- Single project view -->
-      <div v-if="isSingleProject" class="work">
+      <div v-if="isSingleProject">
       
         <SingleProjectStage  
         :title="$page.frontmatter.title"
