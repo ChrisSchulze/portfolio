@@ -1,6 +1,6 @@
 <template>
-  <header class="header" style="position: fixed; top: 0; left: 0; width: 100%;"
-
+  <header class="header" style="position: fixed; top: 0; left: 0; width: 100%; height: 6rem;
+    padding: 5vw;"
   >
 
     <nav v-if="navLinks" class="navigation left desktop-nav">
