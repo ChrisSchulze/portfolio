@@ -122,6 +122,8 @@
     font-size: 16px;
     background: #1D1D1F;
     color: #434343;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
   }
 
   img {
@@ -147,10 +149,15 @@
   }
 
   h1 {
-    font-size: 3rem;
-    line-height: 1.15;
-    font-weight: 300;
+    font-size: 9rem;
+    line-height: 1;
+    font-weight: 700;
     margin: 0 auto 3rem auto;
+  }
+  
+  .outline {
+  text-stroke: 0.1rem rgba(255,255,255, 0.5);
+  -webkit-text-stroke: 0.1rem rgba(255,255,255, 0.5); 
   }
 
   h2 {
