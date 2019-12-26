@@ -164,8 +164,8 @@
   -webkit-text-stroke: 0.5px rgba(210,210,210, 1); 
   }
   
-  .outline:hover::after { 
-            content: "-after"; }
+  .post .outline:hover::after { 
+            content: "+"; }
 
   h2 {
     font-size: 2rem;
