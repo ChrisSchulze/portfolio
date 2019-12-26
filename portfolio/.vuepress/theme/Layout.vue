@@ -117,9 +117,12 @@
     color: var(--color-black);
   }
 
+  html {
+        font-size: 16px;
+        }
+
   body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Noto Sans", "Ubuntu", "Droid Sans", "Helvetica Neue", sans-serif;
-    font-size: 16px;
     background: #1D1D1F;
     color: #434343;
     -webkit-font-smoothing: antialiased;
@@ -149,13 +152,14 @@
   }
 
   h1 {
-    font-size: 9rem;
+    font-size: 6rem;
     line-height: 1;
     font-weight: 700;
     margin: 0 auto 3rem auto;
   }
   
   .outline {
+  color: transparent !important;
   text-stroke: 0.1rem rgba(255,255,255, 0.5);
   -webkit-text-stroke: 0.1rem rgba(255,255,255, 0.5); 
   }
