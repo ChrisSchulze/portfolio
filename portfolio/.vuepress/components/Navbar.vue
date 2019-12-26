@@ -1,5 +1,13 @@
 <template>
-  <header class="header" }">
+  <header
+    class="header"
+    :style="sticky && {
+      position: 'fixed',
+      top: '0',
+      left: '0',
+      width: '100%',
+    }"
+  >
 
     <nav v-if="navLinks" class="navigation left desktop-nav">
       <ul>
@@ -20,6 +28,7 @@
     </nav>
 
     <div class="brand">
+
     </div>
 
     <nav v-if="navLinks" class="navigation right desktop-nav">
@@ -125,7 +134,6 @@
     display: inline-block;
     list-style: none;
     margin-right: 1rem;
-    color: #4A4A4B;
     user-select: none;
     cursor: pointer;
     border-bottom: 1px solid transparent;
@@ -136,11 +144,11 @@
   }
 
   .navigation li:hover {
-    border-bottom: 1px solid transparent;
+    border-bottom: 1px solid #000;
   }
 
   .active {
-    border-bottom: 1px solid #D1D1D2;
+    border-bottom: 1px solid #000;
   }
 
   a {
@@ -148,8 +156,8 @@
     color: inherit;
   }
 
-  a:active { color: #D1D1D2; }
-  a:visited { color: #4A4A4B;}
+  a:active { color: inherit; }
+  a:visited { color: inherit; }
 
   .desktop-nav {
     display: none;
