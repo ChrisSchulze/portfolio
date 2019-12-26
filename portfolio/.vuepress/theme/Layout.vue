@@ -160,8 +160,8 @@
   
   .outline {
   color: transparent !important;
-  text-stroke: 0.1rem rgba(210,210,210, 1);
-  -webkit-text-stroke: 0.1rem rgba(210,210,210, 1); 
+  text-stroke: 0.1rem rgba(210,210,210, 0.5);
+  -webkit-text-stroke: 0.1rem rgba(210,210,210, 0.5); 
   }
 
   h2 {
