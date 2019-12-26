@@ -42,6 +42,11 @@
     cursor: pointer;
   }
   
-  .small {font-size: 1rem;}
+  .small {
+      font-size: 1rem;
+      color: transparent;
+      text-stroke: 0.5px rgba(210,210,210, 1);
+      -webkit-text-stroke: 0.5px rgba(210,210,210, 1); 
+  }
 
 </style>
