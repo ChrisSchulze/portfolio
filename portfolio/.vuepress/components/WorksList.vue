@@ -11,7 +11,6 @@
     
     <h1>{{ post.frontmatter.title }}<br>
     <span class="outline">{{ post.frontmatter.description }}</span>
-    <span class="more">More +</span>
     </h1>
     
         
