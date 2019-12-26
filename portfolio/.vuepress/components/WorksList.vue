@@ -7,11 +7,10 @@
       v-for="post in posts"
       :key="post.title"
       class="post"
-    >
+      >
     
-    <h1>{{ post.frontmatter.title }}<br>
-    <span class="outline">{{ post.frontmatter.description }}</span>
-    </h1>
+        <h1>{{ post.frontmatter.title }}<br><span class="outline">{{ post.frontmatter.description }}</span>
+        </h1>
        
     </router-link>
 
