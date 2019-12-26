@@ -46,21 +46,20 @@
   }
   
   .svg-container { 
-	  display: inline-block;
-	  position: relative;
-	  width: 100%;
-	  padding-bottom: 100%; 
-	  vertical-align: middle; 
-	  overflow: hidden;
+	display: inline-block;
+	position: relative;
+	width: 100%;
+	padding-bottom: 100%; 
+	vertical-align: middle; 
+	overflow: hidden;
     }
     
   .svg-content { 
-	  display: inline-block;
-	  position: absolute;
-	  top: 0;
-	  left: 0;
+	display: inline-block;
+	position: absolute;
+	top: 0;
+	left: 0;
     }  
-  
   
   text {
       font-size: 90px;
