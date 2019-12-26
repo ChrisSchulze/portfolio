@@ -159,16 +159,16 @@
   }
   
   .outline {
-  color: transparent !important;
+  color: transparent;
   text-stroke: 0.5px rgba(210,210,210, 1);
   -webkit-text-stroke: 0.5px rgba(210,210,210, 1); 
   }
   
   .post .outline::after { 
-            content: "<span>&#10230;</span>";
+            content: ">";
             }
             
-  .post .outline:hover: { color: #D1D1D2 !important;
+.outline:hover: { color: #D1D1D2 !important;
              }
 
   h2 {
