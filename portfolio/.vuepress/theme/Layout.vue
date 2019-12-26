@@ -169,7 +169,7 @@
             }
             
   .outline:hover {
-  color: transparent;
+  color: white;
   text-stroke: 2px rgba(210,210,210, 1);
   -webkit-text-stroke: 2px rgba(210,210,210, 1); 
   }
