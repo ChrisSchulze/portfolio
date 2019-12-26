@@ -11,7 +11,7 @@
     
     <h1>{{ post.frontmatter.title }}<br>
     <span class="outline">{{ post.frontmatter.description }}</span>
-    <span>&#10132;</span>
+    <span class="small">&#10132;</span>
     </h1>
         
     </router-link>
@@ -41,5 +41,7 @@
     margin-bottom: 5vw;
     cursor: pointer;
   }
+  
+  .small {font-size: 1rem;}
 
 </style>
