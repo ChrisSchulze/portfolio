@@ -1,8 +1,7 @@
 <template>
 
  <div class="header">
-<h1>
-{{ title }}
+<h1>{{ title }}<br>
 <span class="outline">{{ description }}</span>
 </h1>
   </div>
