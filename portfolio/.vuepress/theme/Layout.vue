@@ -119,13 +119,14 @@
 
   html {
       font-size: 16px;
+      background: #1D1D1F;
       color: #D1D1D2;
   }
   
   body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Noto Sans", "Ubuntu", "Droid Sans", "Helvetica Neue", sans-serif;
-    background: #1D1D1F;
-
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
   }
 
   img {
@@ -166,8 +167,7 @@
   .post h1::after {
   font-size: 1rem !important;
   content: " More +"; }
-     
-
+ 
 
   h2 {
     font-size: 2rem;
