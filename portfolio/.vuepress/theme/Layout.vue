@@ -3,26 +3,24 @@
         <Navbar :logo="$site.themeConfig.logo"/>
           <div class="container">
 
-      <!-- Works list -->
-      <div v-if="$route.path === '/'"
-        :style="{ marginTop: '16vw' }"
-        >
-      
-        <Content/>
-      
-      </div>
+                        <!-- Works list -->
+                              <div v-if="$route.path === '/'"
+                              :style="{ marginTop: '16vw' }"
+                        >
+                  <Content/>
+          </div>
 
-      <!-- Single project view -->
-      <div v-if="isSingleProject"
-      :style="{ marginTop: '16vw' }"
-      >
+                        <!-- Single project view -->
+                              <div v-if="isSingleProject"
+                              :style="{ marginTop: '16vw' }"
+                        >
       
-        <SingleProjectStage  
-        :title="$page.frontmatter.title"
-        :description="$page.frontmatter.description"
-        />
+                        <SingleProjectStage  
+                              :title="$page.frontmatter.title"
+                              :description="$page.frontmatter.description"
+                        />
         
-        <div id="custom"><img :src="$page.frontmatter.thumbnail"></div>
+                        <div id="custom"><img :src="$page.frontmatter.thumbnail"></div>
         
         <SingleProjectHeader
           :title="$page.frontmatter.title"
