@@ -1,13 +1,12 @@
 <template>
 
-  <div class="header">
-    <div class="column">
-      <span class="value">{{ title }}</span>
-    </div>
-    <div class="column">
-      <span class="value">{{ description }}</span>
-    </div>  
-  </div>
+    <div class="svg-container">
+	      <svg version="1.1" viewBox="0 0 870 600" preserveAspectRatio="xMinYMin meet" class="svg-content">
+          <text y="90">{{ post.frontmatter.title }}</text>
+          <text class="outline" y="180" extent="870">{{ post.frontmatter.description }}</text>
+	        <text class="outline" y="270" extent="870">{{ post.frontmatter.description_second_line }}</text>
+        </svg>
+      </div>
 
 <div class="content custom" :img src="{{ `url(${post.frontmatter.thumbnail})` }}">
 
@@ -67,6 +66,35 @@
     .picture {
     width: 20px;
     height: auto;
+  }
+
+  .svg-container { 
+	  display: inline-block;
+	  position: relative;
+	  width: 100%;
+	  padding-bottom: 100%; 
+	  vertical-align: middle; 
+	  overflow: hidden;
+    }
+    
+  .svg-content { 
+	  display: inline-block;
+	  position: absolute;
+	  top: 0;
+	  left: 0;
+    }  
+  
+  text {
+      font-size: 90px;
+      fill: #D1D1D2;
+      text-rendering: geometricPrecision;
+      }
+      
+  .outline {
+    fill: none !important;
+    stroke: #D1D1D2;
+    stroke-width:0.5px;
+    stroke-linejoin: round;
   }
 
 </style>
