@@ -165,10 +165,10 @@
   }
   
   .post .outline::after { 
-            content: "More +";
+            content: "->";
             font-size: 1rem;}
             
-  .post .outline:hover::after { 
+  .outline:hover: { color: white !important;
              }
 
   h2 {
