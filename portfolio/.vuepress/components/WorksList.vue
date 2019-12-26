@@ -12,6 +12,7 @@
     <h1>{{ post.frontmatter.title }}<br>
     <span class="outline">{{ post.frontmatter.description }}</span>
     </h1>
+    <span class="more">More +</span>
         
     </router-link>
 
@@ -39,6 +40,10 @@
     padding-top: 0;
     margin-bottom: 5vw;
     cursor: pointer;
+  }
+  
+  .more {
+  font-size: 3em;
   }
   
 </style>
