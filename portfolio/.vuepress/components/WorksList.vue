@@ -10,7 +10,7 @@
     >
 
     <h1>{{ post.frontmatter.title }}<br>
-    <span class="outline">{{ post.frontmatter.description }}</span>
+    <span class="outline">{{ post.frontmatter.description }} &#8594;</span>
     </h1>
         
     </router-link>
