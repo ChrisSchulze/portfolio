@@ -108,7 +108,7 @@
 
   .header {
     display: flex;
-    position: fixed;
+    position: relative;
     align-items: center;
     justify-content: space-between;
     height: 6rem;
