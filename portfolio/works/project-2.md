@@ -3,10 +3,10 @@ title: Carglass
 date: 2018-08-09T18:05:37.000+00:00
 thumbnail: "/upload/Carglass_Images_4.jpg"
 year: '2017'
-description: How to fix a
+description: How to fix a broken service
 categories:
 - Branding & UX
-description_second_line: broken service
+description_second_line: ''
 
 ---
 Severe weather often resulted in overloads of the booking service. The funnel**’**s ux and the overall design needed improvement.
