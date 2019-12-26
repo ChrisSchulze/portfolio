@@ -19,6 +19,7 @@
           <div v-if="isSingleProject"
               :style="{
               marginTop: '16vw'
+              }"
           >
       
         <SingleProjectStage  
