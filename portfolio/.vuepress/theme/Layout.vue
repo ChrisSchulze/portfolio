@@ -154,22 +154,19 @@
   }
   
   .outline {
-    color: transparent;
-    text-stroke: 0.5px rgba(210,210,210, 1);
-    -webkit-text-stroke: 0.5px rgba(210,210,210, 1); 
+  color: transparent;
+  text-stroke: 0.5px rgba(210,210,210, 1);
+  -webkit-text-stroke: 0.5px rgba(210,210,210, 1); 
   }
   
   .post h1::after {
-    font-size: 1rem !important;
-    content: " More +"; 
-  }
-         
-  .post:hover .outline {   
-      color: #D1D1D2;
-      text-stroke: 0px rgba(210,210,210, 1);
-      -webkit-text-stroke: 0px rgba(210,210,210, 1);
-      transition ease-out: 1.2s; 
-  }
+  font-size: 1rem !important;
+  content: " More +"; }
+     
+  .post:hover .outline {   color: #D1D1D2;
+  text-stroke: 0px rgba(210,210,210, 1);
+  -webkit-text-stroke: 0px rgba(210,210,210, 1);
+  transition ease-out: 1.2s; }
 
   h2 {
     font-size: 2rem;
