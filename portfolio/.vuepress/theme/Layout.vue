@@ -170,8 +170,8 @@
             
   .outline:hover {
   color: #D1D1D2;
-  text-stroke: 2px rgba(210,210,210, 1);
-  -webkit-text-stroke: 2px rgba(210,210,210, 1); 
+  text-stroke: 0px rgba(210,210,210, 1);
+  -webkit-text-stroke: 0px rgba(210,210,210, 1); 
   }
 
   h2 {
