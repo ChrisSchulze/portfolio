@@ -1,16 +1,11 @@
 <template>
 
-
-  
-      <div class="header">
-	      <svg version="1.1" viewBox="0 0 870 600" preserveAspectRatio="xMinYMin meet" class="svg-content">
-          <text y="90">{{ post.frontmatter.title }}</text>
-          <text class="outline" y="180" extent="870">{{ post.frontmatter.description }}</text>
-	        <text class="outline" y="270" extent="870">{{ post.frontmatter.description_second_line }}</text>
-        </svg>
-      </div>
-
-
+ <div class="header">
+<h1>
+{{ title }}
+<span class="outline">{{ description }}</span>
+</h1>
+  </div>
 
 <div class="content custom" :img src="{{ `url(${post.frontmatter.thumbnail})` }}">
 
