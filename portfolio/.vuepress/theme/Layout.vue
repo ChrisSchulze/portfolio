@@ -166,9 +166,9 @@
   
   .post .outline::after { 
             content: "->";
-            font-size: 1rem;}
+            }
             
-  .outline:hover: { color: #D1D1D2 !important;
+  .post .outline:hover: { color: #D1D1D2 !important;
              }
 
   h2 {
