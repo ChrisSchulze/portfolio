@@ -166,13 +166,13 @@
   
   .post h1::after {
   font-size: 1rem !important;
-  content: "More +"; }
+  content: " More +"; }
      
      
   .post:hover .outline {   color: #D1D1D2;
   text-stroke: 0px rgba(210,210,210, 1);
   -webkit-text-stroke: 0px rgba(210,210,210, 1);
-  transition: 0.9s; }
+  transition: 1.2s; }
   
   .post .outline:hover {
   color: #D1D1D2;
