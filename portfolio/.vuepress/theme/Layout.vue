@@ -124,7 +124,7 @@
   body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Noto Sans", "Ubuntu", "Droid Sans", "Helvetica Neue", sans-serif;
     background: #1D1D1F;
-    color: #434343;
+    color: #D1D1D2;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }
@@ -160,8 +160,8 @@
   
   .outline {
   color: transparent !important;
-  text-stroke: 0.1rem rgba(255,255,255, 0.5);
-  -webkit-text-stroke: 0.1rem rgba(255,255,255, 0.5); 
+  text-stroke: 0.1rem rgba(210,210,210, 1);
+  -webkit-text-stroke: 0.1rem rgba(210,210,210, 1); 
   }
 
   h2 {
