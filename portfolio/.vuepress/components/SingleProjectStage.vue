@@ -1,13 +1,6 @@
 <template>
 
- <div class="header">
-    <div class="column">
-      <span class="value">{{ title }}</span>
-    </div>
-    <div class="column">
-      <span class="value">{{ description }}</span>
-    </div>  
-  </div>
+
   
       <div class="header">
 	      <svg version="1.1" viewBox="0 0 870 600" preserveAspectRatio="xMinYMin meet" class="svg-content">
