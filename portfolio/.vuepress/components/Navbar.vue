@@ -1,13 +1,5 @@
 <template>
-  <header
-    class="header"
-    :style="sticky && {
-      position: 'fixed',
-      top: '0',
-      left: '0',
-      width: '100%',
-    }"
-  >
+  <header class="header" }">
 
     <nav v-if="navLinks" class="navigation left desktop-nav">
       <ul>
@@ -28,7 +20,6 @@
     </nav>
 
     <div class="brand">
-
     </div>
 
     <nav v-if="navLinks" class="navigation right desktop-nav">
@@ -107,15 +98,18 @@
 <style scoped>
 
   .header {
+    position: fixed;
+    top: '0',
+    left: '0',
+    width: '100%',
     display: flex;
-    position: relative;
     align-items: center;
     justify-content: space-between;
     height: 6rem;
     padding: 5vw;
     font-size: 0.8rem;
     font-weight: 400;
-    z-index: 10;
+    z-index: 10;    
   }
 
   .logo {
