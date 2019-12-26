@@ -11,7 +11,7 @@
     
     <h1>{{ post.frontmatter.title }}<br>
     <span class="outline">{{ post.frontmatter.description }}</span>
-    <span class="outline">&#10132;</span>
+    <span>&#10132;</span>
     </h1>
         
     </router-link>
