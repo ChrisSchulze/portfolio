@@ -141,14 +141,14 @@
   }
 
   .journal-list, .single-journal {
-    width: 800px;
+    width: 870px;
     max-width: 100%;
     margin: 0 auto;
   }
 
   h1,h2,h3,h4,h5,h6,p {
     width: 100%;
-    max-width: 800px;
+    max-width: 870px;
   }
 
   h1 {
