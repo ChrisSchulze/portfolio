@@ -1,5 +1,5 @@
 <template>
-  <header class="header" style="position: fixed; top: 0; left: 0; width: 100%; height: 6rem" >
+  <header class="header" >
 
     <nav v-if="navLinks" class="navigation left desktop-nav">
       <ul>
@@ -98,9 +98,11 @@
 
 <style scoped>
 
+
+
   .header {
     display: flex;
-    position: relative;
+    position: fixed;
     align-items: center;
     justify-content: space-between;
     height: 6rem;
