@@ -168,7 +168,7 @@
             content: ">";
             }
             
-.outline:hover: { color: #D1D1D2 !important;
+h1:hover { color: #D1D1D2 !important;
              }
 
   h2 {
