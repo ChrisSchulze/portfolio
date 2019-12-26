@@ -45,8 +45,8 @@
   .small {
       font-size: 3rem;
       color: transparent;
-      text-stroke: 0.5px rgba(210,210,210, 1);
-      -webkit-text-stroke: 0.5px rgba(210,210,210, 1); 
+      text-stroke: 0.25px rgba(210,210,210, 1);
+      -webkit-text-stroke: 0.25px rgba(210,210,210, 1); 
   }
 
 </style>
