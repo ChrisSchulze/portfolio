@@ -163,10 +163,7 @@
   font-size: 1rem !important;
   content: " More +"; }
      
-  .post:hover .outline {   color: #D1D1D2;
-  text-stroke: 0px rgba(210,210,210, 1);
-  -webkit-text-stroke: 0px rgba(210,210,210, 1);
-  transition ease-out: 1.2s; }
+
 
   h2 {
     font-size: 2rem;
