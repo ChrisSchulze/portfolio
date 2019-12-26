@@ -117,16 +117,11 @@
     color: var(--color-black);
   }
 
-  html {
-        font-size: 16px;
-        }
-        
   body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Noto Sans", "Ubuntu", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 16px;
     background: #1D1D1F;
-    color: #D1D1D2;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+    color: #434343;
   }
 
   img {
