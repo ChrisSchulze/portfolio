@@ -1,26 +1,29 @@
 <template>
-      <div class="wrapper">
-        <Navbar :logo="$site.themeConfig.logo"/>
-          <div class="container">
+  <div class="wrapper">
 
-                        <!-- Works list -->
-                              <div v-if="$route.path === '/'"
-                              :style="{ marginTop: '16vw' }"
-                        >
-                  <Content/>
-          </div>
+    <Navbar :logo="$site.themeConfig.logo" :sticky="$route.path === '/'" />
 
-                        <!-- Single project view -->
-                              <div v-if="isSingleProject"
-                              :style="{ marginTop: '16vw' }"
-                        >
+    <div class="container">
+
+      <!-- Works list -->
+      <div
+        v-if="$route.path === '/'"
+        :style="{
+          marginTop: '14vw'
+        }"
+      >
+        <Content/>
+      </div>
+
+      <!-- Single project view -->
+      <div v-if="isSingleProject">
       
-                        <SingleProjectStage  
-                              :title="$page.frontmatter.title"
-                              :description="$page.frontmatter.description"
-                        />
+        <SingleProjectStage  
+        :title="$page.frontmatter.title"
+        :description="$page.frontmatter.description"
+        />
         
-                        <div id="custom"><img :src="$page.frontmatter.thumbnail"></div>
+        <div id="custom"><img :src="$page.frontmatter.thumbnail"></div>
         
         <SingleProjectHeader
           :title="$page.frontmatter.title"
@@ -114,16 +117,11 @@
     color: var(--color-black);
   }
 
-  html {
-        font-size: 16px;
-        }
-
   body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Noto Sans", "Ubuntu", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 16px;
     background: #1D1D1F;
-    color: #D1D1D2;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+    color: #434343;
   }
 
   img {
@@ -138,38 +136,22 @@
   }
 
   .journal-list, .single-journal {
-    width: 870px;
+    width: 800px;
     max-width: 100%;
     margin: 0 auto;
   }
 
   h1,h2,h3,h4,h5,h6,p {
     width: 100%;
-    max-width: 870px;
+    max-width: 800px;
   }
 
   h1 {
-    font-size: 6.5rem;
-    line-height: 1;
-    font-weight: 700;
+    font-size: 3rem;
+    line-height: 1.15;
+    font-weight: 300;
     margin: 0 auto 3rem auto;
   }
-  
-  .outline {
-  color: transparent;
-  text-stroke: 0.5px rgba(210,210,210, 1);
-  -webkit-text-stroke: 0.5px rgba(210,210,210, 1); 
-  }
-  
-  .post h1::after {
-  font-size: 1rem !important;
-  content: " More +"; }
-     
-     
-  .post:hover .outline {   color: #D1D1D2;
-  text-stroke: 0px rgba(210,210,210, 1);
-  -webkit-text-stroke: 0px rgba(210,210,210, 1);
-  transition ease-out: 1.2s; }
 
   h2 {
     font-size: 2rem;
