@@ -164,6 +164,13 @@
   -webkit-text-stroke: 0.5px rgba(210,210,210, 1); 
   }
   
+  .post .outline:hover . {   
+      color: #D1D1D2;
+      text-stroke: 0px rgba(210,210,210, 1);
+      -webkit-text-stroke: 0px rgba(210,210,210, 1);
+      transition: 1.2s ease-out; 
+      }
+  
   .post h1::after {
   font-size: 1rem !important;
   content: " More +"; }
@@ -205,9 +212,6 @@
     position: relative;
     width: 100%;
     padding-top: 56.25%;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
     margin-bottom: 5vw;
     cursor: pointer;
   }
