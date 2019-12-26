@@ -11,7 +11,6 @@
     
     <h1>{{ post.frontmatter.title }}<br>
     <span class="outline">{{ post.frontmatter.description }}</span>
-    <span class="small">&#10132;</span>
     </h1>
         
     </router-link>
@@ -42,11 +41,4 @@
     cursor: pointer;
   }
   
-  .small {
-      font-size: 3rem;
-      color: transparent;
-      text-stroke: 0.25px rgba(210,210,210, 1);
-      -webkit-text-stroke: 0.25px rgba(210,210,210, 1); 
-  }
-
 </style>
