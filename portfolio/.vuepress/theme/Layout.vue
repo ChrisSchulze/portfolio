@@ -168,8 +168,11 @@
             content: ">";
             }
             
-h1:hover { color: #D1D1D2 !important;
-             }
+  .outline:hover {
+  color: transparent;
+  text-stroke: 2px rgba(210,210,210, 1);
+  -webkit-text-stroke: 2px rgba(210,210,210, 1); 
+  }
 
   h2 {
     font-size: 2rem;
