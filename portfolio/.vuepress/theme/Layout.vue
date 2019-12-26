@@ -117,11 +117,16 @@
     color: var(--color-black);
   }
 
+  html {
+        font-size: 16px;
+        }
+        
   body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Noto Sans", "Ubuntu", "Droid Sans", "Helvetica Neue", sans-serif;
-    font-size: 16px;
     background: #1D1D1F;
-    color: #434343;
+    color: #D1D1D2;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
   }
 
   img {
@@ -164,7 +169,12 @@
     content: " More +"; 
   }
          
-
+  .post:hover .outline {   
+      color: #D1D1D2;
+      text-stroke: 0px rgba(210,210,210, 1);
+      -webkit-text-stroke: 0px rgba(210,210,210, 1);
+      transition ease-out: 1.2s; 
+  }
 
   h2 {
     font-size: 2rem;
