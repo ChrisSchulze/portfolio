@@ -9,10 +9,10 @@
       class="post"
     >
 
-    <h1>{{ title }}<br>
-    <span class="outline">{{ description }}</span>
+    <h1>{{ post.frontmatter.title }}<br>
+    <span class="outline">{{ post.frontmatter.description }}</span>
     </h1>
-
+        
     </router-link>
 
   </div>
