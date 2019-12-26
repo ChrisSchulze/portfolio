@@ -81,18 +81,5 @@
 	  top: 0;
 	  left: 0;
     }  
-  
-  text {
-      font-size: 90px;
-      fill: #D1D1D2;
-      text-rendering: geometricPrecision;
-      }
-      
-  .outline {
-    fill: none !important;
-    stroke: #D1D1D2;
-    stroke-width:0.5px;
-    stroke-linejoin: round;
-  }
 
 </style>
