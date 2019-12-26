@@ -165,10 +165,10 @@
   }
   
   .post h1::after {
-  font-size: 1em !important;
+  font-size: 1rem !important;
   content: "More +"; }
      
-  .outline:hover {
+  .post .outline:hover {
   color: #D1D1D2;
   text-stroke: 0px rgba(210,210,210, 1);
   -webkit-text-stroke: 0px rgba(210,210,210, 1);
