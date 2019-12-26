@@ -168,7 +168,7 @@
             content: "->";
             font-size: 1rem;}
             
-  .outline:hover: { color: white !important;
+  .outline:hover: { color: #D1D1D2 !important;
              }
 
   h2 {
