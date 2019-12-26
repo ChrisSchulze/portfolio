@@ -165,7 +165,7 @@
   }
   
   .post .outline::after { 
-            content: "&#x2B95";
+            content: "&#x2B95;";
             }
             
   .post .outline:hover: { color: #D1D1D2 !important;
