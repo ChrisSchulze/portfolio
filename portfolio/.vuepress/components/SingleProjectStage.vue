@@ -9,7 +9,7 @@
     </div>  
   </div>
   
-      <div class="svg-container">
+      <div class="header">
 	      <svg version="1.1" viewBox="0 0 870 600" preserveAspectRatio="xMinYMin meet" class="svg-content">
           <text y="90">{{ post.frontmatter.title }}</text>
           <text class="outline" y="180" extent="870">{{ post.frontmatter.description }}</text>
