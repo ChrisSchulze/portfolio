@@ -164,8 +164,12 @@
   -webkit-text-stroke: 0.5px rgba(210,210,210, 1); 
   }
   
+  .post .outline::after { 
+            content: "More +";
+            font-size: 1rem;}
+            
   .post .outline:hover::after { 
-            content: "+"; }
+             }
 
   h2 {
     font-size: 2rem;
