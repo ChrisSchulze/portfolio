@@ -147,11 +147,24 @@
   }
 
   h1 {
-    font-size: 3rem;
-    line-height: 1.15;
-    font-weight: 300;
+    font-size: 6.5rem;
+    line-height: 1;
+    font-weight: 700;
     margin: 0 auto 3rem auto;
   }
+  
+  .outline {
+    color: transparent;
+    text-stroke: 0.5px rgba(210,210,210, 1);
+    -webkit-text-stroke: 0.5px rgba(210,210,210, 1); 
+  }
+  
+  .post h1::after {
+    font-size: 1rem !important;
+    content: " More +"; 
+  }
+         
+
 
   h2 {
     font-size: 2rem;
