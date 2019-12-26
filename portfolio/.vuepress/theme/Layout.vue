@@ -163,6 +163,12 @@
   text-stroke: 0.5px rgba(210,210,210, 1);
   -webkit-text-stroke: 0.5px rgba(210,210,210, 1); 
   }
+  
+  .post .outline::after {
+  font-size: 1em;
+  content: "More +"; }
+  
+
              
   .outline:hover {
   color: #D1D1D2;
