@@ -14,6 +14,9 @@ fields:
   label: Description
   config:
     required: true
+- type: file
+  name: thumbnail
+  label: Thumbnail
 - name: product
   type: text
   config:
@@ -29,9 +32,6 @@ fields:
   type: number
   config:
     required: true
-- type: file
-  name: thumbnail
-  label: Thumbnail
 - name: date
   default: ''
   label: Date
