@@ -184,26 +184,26 @@
   h2 {
     font-size: 2rem;
     font-weight: 300;
-    margin: 2rem auto 2rem auto;
+    margin: auto auto 2rem auto;
   }
 
   h3 {
     font-size: 0.75rem;
     font-weight: 700;
     color: #434343;
-    margin: 2rem auto 0rem auto;
+    margin: auto auto 2rem auto;
   }
 
   p {
     font-size: 1rem;
-    line-height: 1.5;
+    line-height: 1.25;
     margin: auto auto 2rem auto;
   }
   
   .lead {
     font-size: 2rem;
-    line-height: 1.5;
-    margin: 1rem auto 2rem auto;
+    line-height: 1.25;
+    margin: auto auto 2rem auto;
   }
 
   pre {
