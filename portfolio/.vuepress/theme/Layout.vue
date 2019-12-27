@@ -196,7 +196,7 @@
   p {
     font-size: 1rem;
     line-height: 1.5;
-    margin: 1rem auto 2rem auto;
+    margin: auto auto 2rem auto;
   }
   
   .lead {
