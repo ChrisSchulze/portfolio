@@ -6,7 +6,6 @@ year: '2020'
 categories:
 - UX
 description: A Single Source of truth
-description_second_line: ''
 
 ---
 In the past KNFs digital services had grown like a sprawl: Lots of touchpoints, lots of differing product data, no clear purpose.
