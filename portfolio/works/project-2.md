@@ -13,11 +13,11 @@ product: Booking Service, Corporate Site
 ---
 Issue
 
-Severe weather often resulted in overloads of the booking service. The funnel was difficult to use and the design was outdated.
+Severe weather often resulted in overloads of the booking service. The funnel was difficult to use and the design deeded improvement.
 
 Approach
 
-For the self service validated UX was key. We went through several iterations of prototypes, reworked userflows and improved wording and design. Until we got it right.
+For the self service validated UX was key. We went through several iterations of prototypes. In each step we reworked user flows, improved wording and design. Until we got it right.
 
 ![](/upload/Carglass_Images_2.jpg)
 
