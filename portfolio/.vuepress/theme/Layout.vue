@@ -124,7 +124,7 @@
   html {
       font-size: 16px;
       background: #1D1D1F;
-      color: #D1D1D2;
+      color: #434343;
   }
   
   body {
