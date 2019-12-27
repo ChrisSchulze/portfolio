@@ -159,6 +159,7 @@
     font-size: 6.5rem;
     line-height: 1;
     font-weight: 700;
+    color: #D1D1D2;
     margin: 0 auto 3rem auto;
   }
   
@@ -189,7 +190,7 @@
   h3 {
     font-size: 0.75rem;
     font-weight: 700;
-    color: #333333;
+    color: #434343;
     margin: 2rem auto 0rem auto;
   }
 
