@@ -35,7 +35,7 @@
     position: relative;
     width: 100%;
     padding: 6rem 0rem 6rem 0rem;
-    margin-bottom: 8rem;
+    margin-bottom: 2rem;
     cursor: pointer;
   }
   
