@@ -17,7 +17,7 @@ product: Relaunch, Booking Service, Corporate Site
 
 ### Approach
 
-For the self service a validated UX was key. We went through several iterations of prototypes. In each step we tested our assumptions in lab tests with our target audiences. Afterwards we reworked user flows, improved wording and design. Until we got it right.
+For the self service a validated UX was key. We went through several iterations of prototypes. In each step we tested our assumptions in lab tests with our target audiences. Then we reworked user flows, improved wording and design. Until we got it right.
 
 ![](/upload/Carglass_Images_2.jpg)
 
