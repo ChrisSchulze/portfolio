@@ -13,7 +13,7 @@ services: Branding, Museum Hub
 ---
 ### Issue
 
-<p class ="lead">Finding the museums was difficult. The lacked visibility both in the city and in the web. Once found there was no sense of belonging. Visually the museums looked separated. Finding interesting exhibitions was even more difficult. It was a maze.</p>
+<p class ="lead">Finding the museums was difficult. They lacked visibility both in the city and in the web. Once found there was no sense of belonging. Visually the museums looked separated. Finding interesting exhibitions was even more difficult. It was a maze.</p>
 
 ### Approach
 
@@ -29,6 +29,6 @@ We developed a new brand architecture (house of houses), a logo system and a lay
 
 ### One more thing
 
-Exhibitions are most valuable if visitors can relate. That's why we try to personalize the web services as far as possible: from newsletter, to shop to "subjective" search terms (i.E. Are you the adventurous type?). In this respect museums can learn from e-commerce.
+Exhibitions are most valuable if visitors can relate. That's why we try to personalize the web services as far as possible: from newsletter, to shop to "subjective" search terms (i.E. Are you the adventurous type?). In my opinion museums can learn a lot from e-commerce.
 
 ![](/upload/MSD_Design_1-1.jpg)
