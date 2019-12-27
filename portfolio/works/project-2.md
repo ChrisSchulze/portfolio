@@ -13,7 +13,7 @@ product: Booking Service, Corporate Site
 ---
 Issue
 
-Severe weather often resulted in overloads of the booking service. Also the funnel's UX and the overall design had flaws.
+Severe weather often resulted in overloads of the booking service. The funnel was difficult to use and the design was outdated.
 
 Approach
 
