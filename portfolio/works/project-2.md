@@ -8,7 +8,7 @@ categories:
 - UX
 - Design Lead
 description_second_line: ''
-product: Relaunch, Booking Service, Corporate Site
+product: ''
 services: Relaunch, Booking Service, Corporate Site
 
 ---
