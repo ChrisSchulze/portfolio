@@ -23,7 +23,7 @@
 <script>
   export default {
     props: {
-      title: {
+      services: {
         type: String,
         required: true
       },
