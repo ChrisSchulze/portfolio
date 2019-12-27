@@ -21,7 +21,7 @@ For the self service validated UX was key. We went through several iterations of
 
 ![](/upload/Carglass_Images_2.jpg)
 
-We came up with a onepager checkout. It is easier to use, faster, more flexible and robust than the old one. We were able to improve the scheduling as well**:** Today we can assure bookings directly.
+For the funnel we came up with a onepager checkout. It is easier to use, faster, more flexible and robust than the old one. We were able to improve the scheduling as well. Today we can assure bookings directly.
 
 ![](/upload/Carglass_Images_9-1.jpg)
 
