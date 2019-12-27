@@ -27,6 +27,8 @@ To put the museums on the map we developed a logo system and a layout pattern de
 
 ![](/upload/MSD_Design_3-1.jpg)![](/upload/MSD_Design_4.jpg)
 
-From experience I know exhibitions are most valuable if visitors can relate. That**’**s why we give the opportunity to browse exhibitions by subjective categories.
+### One more thing
+
+From experience I know exhibitions are most valuable if visitors can relate. That's why we give the opportunity to browse exhibitions by subjective categories.
 
 ![](/upload/MSD_Design_1-1.jpg)
