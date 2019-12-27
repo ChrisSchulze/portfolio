@@ -29,4 +29,4 @@ I developed a look & feel bringing the new font and layout pattern to exemplary 
 
 ### One more thing
 
-I’m glad we could improve some of the sites UX and design flaws. I wish we could have developed the whole site though… It is always a it unsatisfying to let go of a half finished project. 
+I’m glad we could improve some of the sites UX and design flaws. I wish we could have developed the whole site though… It is always unsatisfying to let go of a half finished project. 
