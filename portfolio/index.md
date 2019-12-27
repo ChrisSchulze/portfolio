@@ -1,7 +1,6 @@
 ---
 works_index: true
-hero_text: <strong>Lorem ipsum</strong> dolor sit amet. Please have a look at my work<br><span
-  class="s1"><br></span>
+hero_text: <span class="s1">I create lovable digital services.<br></span>
 title: Hero
 
 ---
