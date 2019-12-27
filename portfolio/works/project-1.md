@@ -29,4 +29,4 @@ We came up with a brand pattern that consists of adaptive, leaflike structures. 
 
 ### Outcome
 
-Unfortunately our proposal was not implemented. From design perspective this still is one of my favourite projects though. To me it proved we could do Branding digital first. Digital style tiles and a focus on content strategy in favour of brand strategy could work.
+Unfortunately our proposal was not implemented. From design perspective this still is one of my favourite projects though. To me it proved we could do Branding Digital First. Digital style tiles and a focus on content strategy in favour of brand strategy and classic brand manuals could work.
