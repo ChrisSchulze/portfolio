@@ -13,11 +13,11 @@ services: Service Design, PIM, Corporate Site
 ---
 ### Issue
 
-In the past KNFs digital services had grown like sprawl: Lots of touchpoints, lots of differing product data and no clear purpose behind.
+<p class="lead">In the past KNFs digital services had grown like sprawl: Lots of touchpoints, lots of differing product data, lots of people involved but no clear purpose behind.</p>
 
 ### Approach
 
-We held stakeholder workshops with participants from switzerland, china and the US to get everyone aligned on a mission**:** To build a single source of truth.
+We held stakeholder workshops with participants from switzerland, china and the US to get everyone aligned on a mission: To build a single source of truth for their product data and to give the company a "face" to the outside world.
 
 ![](/upload/KNF_Designs_2.jpg)
 
