@@ -13,11 +13,11 @@ services: Information Architecture, Look & Feel
 ---
 ### Issue
 
-<p class="lead">When we rebranded the DHB their new website was already in the making. The design was a faceless and the information architecture needed to be improved.</p>
+<p class="lead">When we rebranded the DHB their new website was already in the making. The design was generic and the information architecture needed improvement.</p>
 
 ### Approach
 
-If we wanted to make a difference we had to be quick. We agreed to work in three one-week sprints and see what we could come up with.
+If we wanted to make a difference we had to be quick. We agreed to work in three one-week sprints and see what we could come up with in that time period.
 
 ![](/upload/DHB_Designs_2.jpg)
 
@@ -29,4 +29,4 @@ I developed a look & feel bringing the new font and layout pattern to exemplary 
 
 ### One more thing
 
-I’m glad we could improve some of the sites UX and design flaws. Wish we could have developed the whole site though…
+I’m glad we could improve some of the sites UX and design flaws. I wish we could have developed the whole site though… It is always a it unsatisfying to let go of a half finished project. 
