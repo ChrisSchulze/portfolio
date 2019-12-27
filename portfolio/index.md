@@ -7,7 +7,7 @@ title: Portfolio
 ---
 ### Hi! I'm Christian. 
 
-# I create <br><span class="outline">lovable digital services.</span>
+# I create <br><span class="outline">maximum lovable products.</span>
 
 ### Please have a look at my work.
 
