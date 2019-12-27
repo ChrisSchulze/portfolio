@@ -8,7 +8,6 @@ categories:
 - Design Lead
 - UX
 description: A brand in constant flux
-description_second_line: ''
 services: Digital Rebranding, Look and feel, Content Strategy
 
 ---
