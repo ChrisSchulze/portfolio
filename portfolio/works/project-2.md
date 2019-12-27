@@ -7,7 +7,7 @@ description: How to fix a broken service
 categories:
 - UX
 - Design Lead
-services: Relaunch
+services: Relaunch, Booking Service, Corporate Site
 
 ---
 ### Issue
