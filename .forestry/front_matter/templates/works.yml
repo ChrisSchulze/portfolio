@@ -14,6 +14,14 @@ fields:
   label: Description
   config:
     required: true
+- name: product
+  type: text
+  config:
+    required: false
+  label: Product
+- type: tag_list
+  name: categories
+  label: Categories
 - name: year
   default: 
   label: Year
@@ -21,9 +29,6 @@ fields:
   type: number
   config:
     required: true
-- type: tag_list
-  name: categories
-  label: Categories
 - type: file
   name: thumbnail
   label: Thumbnail
