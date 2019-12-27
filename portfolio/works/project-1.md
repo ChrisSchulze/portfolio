@@ -7,6 +7,7 @@ categories:
 - Branding & UX
 description: A brand in constant flux
 description_second_line: ''
+services: Digital Rebranding, Look and feel, Content Strategy
 
 ---
 Compos customer base was getting old. We saw an opportunity in a younger cohort and were assigned to come up with ideas.
