@@ -191,7 +191,7 @@
     font-size: 0.75rem;
     font-weight: 700;
     color: #434343;
-    margin: auto auto 2rem auto;
+    margin: auto auto 0.25rem auto;
   }
 
   p {
