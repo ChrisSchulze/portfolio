@@ -11,7 +11,7 @@ description_second_line: ''
 product: Relaunch, Booking Service, Corporate Site
 
 ---
-<Label class="label">Issue</Label>
+<p class="label">Issue</p>
 
 Severe weather often resulted in overloads of the online booking service. If you could reach it it was difficult to use because the user flow had flaws. Also the overall design needed improvement.
 
