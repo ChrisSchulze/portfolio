@@ -6,7 +6,6 @@ year: '2018'
 categories:
 - UX
 description: Putting the museums on the map
-description_second_line: ''
 
 ---
 The museums lacked visibility. Finding them was difficult. Once you found them finding interesting exhibitions was even more difficult.
