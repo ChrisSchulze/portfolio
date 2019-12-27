@@ -40,4 +40,8 @@
     cursor: pointer;
   }
   
+  .project-list {
+    margin-top: 8rem;
+    }
+  
 </style>
