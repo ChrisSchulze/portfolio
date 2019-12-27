@@ -189,7 +189,8 @@
   h3 {
     font-size: 0.75rem;
     font-weight: 700;
-    margin: 0rem auto 1rem auto;
+    color: #333333;
+    margin: 2rem 0rem 1rem auto;
   }
 
   p {
