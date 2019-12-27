@@ -9,9 +9,7 @@ title: Portfolio
 
 ### Hi! I'm Christian. 
 
-# I create 
-
-# <span class="outline">lovable digital services.</span>
+# I create <br><span class="outline">lovable digital services.</span>
 
 ### Please have a look at my work.
 
