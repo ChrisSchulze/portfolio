@@ -137,7 +137,7 @@
     width: 100%;
     max-width: 100%;
     line-height: 0;
-    margin: 2rem 0;
+    margin: auto auto 4rem auto;
   }
 
   .container {
@@ -184,7 +184,7 @@
   h2 {
     font-size: 2rem;
     font-weight: 300;
-    margin: auto auto 2rem auto;
+    margin: auto auto 4rem auto;
   }
 
   h3 {
@@ -197,13 +197,13 @@
   p {
     font-size: 1rem;
     line-height: 1.25;
-    margin: auto auto 2rem auto;
+    margin: auto auto 4rem auto;
   }
   
   .lead {
     font-size: 2rem;
     line-height: 1.25;
-    margin: auto auto 2rem auto;
+    margin: auto auto 4rem auto;
   }
 
   pre {
