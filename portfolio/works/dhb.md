@@ -5,7 +5,10 @@ thumbnail: "/upload/MSD_Design_1-1.jpg"
 year: '2018'
 categories:
 - UX
+- Workshops
+- " Design Lead"
 description: Putting the museums on the map
+services: Branding, Museum Hub
 
 ---
 The museums lacked visibility. Finding them was difficult. Once you found them finding interesting exhibitions was even more difficult.
