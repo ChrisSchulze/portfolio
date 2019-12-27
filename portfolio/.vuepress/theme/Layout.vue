@@ -187,9 +187,9 @@
   }
 
   h3 {
-    font-size: 1rem;
+    font-size: 0.75rem;
     font-weight: 700;
-    margin: 2rem auto 1rem auto;
+    margin: 0rem auto 1rem auto;
   }
 
   p {
