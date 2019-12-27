@@ -4,14 +4,16 @@ date: 2017-02-04T00:00:00.000+00:00
 thumbnail: "/upload/DHB_Designs_1.jpg"
 year: '2018'
 categories:
-- UX
+- UX Concept
+- " Design Lead"
 description: A bold and ballsy brand
 description_second_line: ''
+services: Information Architecture, Look & Feel
 
 ---
 ### Issue
 
-<p class="lead">When we rebranded the DHB their new website was already in the making. The design was a mess and the information architecture was obscure.</p>
+<p class="lead">When we rebranded the DHB their new website was already in the making. The design was a faceless and the information architecture needed to be improved.</p>
 
 ### Approach
 
