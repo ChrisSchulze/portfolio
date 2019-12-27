@@ -2,9 +2,11 @@
 title: KNF
 date: 2017-02-04T00:00:00.000+00:00
 thumbnail: "/upload/KNF_Designs_1.jpg"
-year: '2020'
+year: '2019'
 categories:
-- UX
+- UX Lead
+- Design Lead
+- Digital Strategy
 description: A Single Source of truth
 services: Service Design, PIM, Corporate Site
 
