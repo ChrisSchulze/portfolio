@@ -18,13 +18,13 @@ services: Digital Rebranding, Look and feel, Content Strategy
 
 ### Approach
 
-We screened their touchpoints, checked the content and overall visual coherence and found they lacked recognisability and content strategy. They had to evolve if they wanted to close the gap.
+We screened COMPO's touchpoints, checked their content and overall visual coherence and found they lacked recognizability. Also they had no content strategy. They had to evolve if they wanted to close the gap.
 
 ![](/upload/compo_image_2-1.jpg)
 
 ### Solution
 
-We came up with a brand pattern that is highly recognisable. It consists of adaptive, leaflike structures. Content wise we went for gardening stories, knowledge and DIY manuals.
+We came up with a brand pattern that consists of adaptive, leaflike structures. They can be used as text stages or backgrounds and are highly recognizable. Also I proposed a new set of fonts and a new image world. Regarding content strategy we went for gardening stories, knowledge and DIY manuals. Which lead to a their online shop.
 
 ![](/upload/compo_image_3.jpg)
 
