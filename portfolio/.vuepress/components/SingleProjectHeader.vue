@@ -4,7 +4,7 @@
 
     <div class="column">
       <Label class="label">What we did</Label>
-      <span class="value">{{ services }}</span>
+      <span class="value">{{ product }}</span>
     </div>
 
     <div class="column">
