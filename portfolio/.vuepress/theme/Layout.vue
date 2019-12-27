@@ -30,7 +30,7 @@
         <div id="custom"><img :src="$page.frontmatter.thumbnail"></div>
         
         <SingleProjectHeader
-          :title="$page.frontmatter.title"
+          :services="$page.frontmatter.title"
           :year="$page.frontmatter.year.toString()"
           :categories="$page.frontmatter.categories"
         />
