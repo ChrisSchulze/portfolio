@@ -23,7 +23,7 @@ We screened COMPO's existing touchpoints, checked their contents and overall vis
 
 ### Solution
 
-We came up with a brand pattern that consists of adaptive, leaflike structures. They can be used as text stages or backgrounds and are highly recognizable. Also I proposed a new set of fonts and a new image world. Regarding content strategy we went for gardening stories, knowledge and DIY manuals. Which lead to a their online shop.
+We came up with a brand pattern that consists of adaptive, leaflike structures. They can be used as text stages or backgrounds and are highly recognizable. Also I proposed a new set of fonts and a new image world. Regarding content strategy we went for gardening stories, knowledge and DIY manuals. Which would channel users to COMPO's prefered partners.
 
 ![](/upload/compo_image_3.jpg)
 
