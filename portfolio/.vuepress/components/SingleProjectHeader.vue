@@ -8,7 +8,7 @@
     </div>
 
     <div class="column">
-      <Label class="label">My role</Label>
+      <Label class="label">My Role</Label>
       <span class="value categories" v-for="category in categories" v-text="category" />
     </div>
 
