@@ -17,7 +17,7 @@ services: Service Design, PIM, Corporate Site
 
 ### Approach
 
-We held stakeholder workshops with participants from switzerland, china and the US to get everyone aligned on a mission: To build a single source of truth for their product data and to give the company a "face" to the outside world.
+We held stakeholder workshops with participants from all over the world to get everyone aligned on a mission: To build a single source of truth for their product data and to give the company a "face" to the outside world.
 
 ![](/upload/KNF_Designs_2.jpg)
 
