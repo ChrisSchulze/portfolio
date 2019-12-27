@@ -11,11 +11,17 @@ description: Putting the museums on the map
 services: Branding, Museum Hub
 
 ---
-The museums lacked visibility. Finding them was difficult. Once you found them finding interesting exhibitions was even more difficult.
+### Issue
+
+<p class ="lead">The museums lacked visibility. Finding them was difficult. Once you found them finding interesting exhibitions was even more difficult.</p>
+
+### Approach
 
 We held two workshops. First we took care of the branding. Second we looked after the visitor journey. We deviated the information architecture and UX Design from there.
 
 ![](/upload/MSD_Design_2-1.jpg)
+
+### Solution
 
 To put the museums on the map we developed a logo system and a layout pattern derived from the museums floor plans. This reflects in the information architecture.
 
