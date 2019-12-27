@@ -34,3 +34,8 @@ fields:
   type: datetime
   config:
     required: true
+- name: services
+  type: text
+  config:
+    required: false
+  label: services
