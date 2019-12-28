@@ -61,8 +61,7 @@
 	 transition: all 0.2s;
 }
  .the-arrow.-left {
-	 position: absolute;
-	 top: 60%;
+
 	 left: 0;
 }
  .the-arrow.-left > .shaft {
