@@ -177,8 +177,7 @@
       }
   
   .post h1::after {
-  font-size: 1rem !important;
-  content: " More +"; }
+ }
  
 
   h2 {
