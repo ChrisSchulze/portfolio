@@ -12,7 +12,7 @@
         <h1>{{ post.frontmatter.title }}<br>
               <span class="outline">{{ post.frontmatter.description }}</span>
         </h1>
-	<p><a class="animated-arrow" href="https://google.com">
+	<p><a class="animated-arrow" href="">
                 <span class="the-arrow -left">
                   <span class="shaft"></span>
                 </span>
@@ -50,7 +50,7 @@
     width: 100%;
     padding: 6rem 0rem 6rem 0rem;
     margin-bottom: 2rem;
-    cursor: pointer;
+    
   }
   
   .project-list {
