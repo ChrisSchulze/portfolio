@@ -1,7 +1,7 @@
 ---
 title: MSD
 description: Putting the museums on the map
-thumbnail: "/upload/KNF_Designs_1.jpg"
+thumbnail: "/upload/MSD_Design_1-1.jpg"
 services: Branding, Museum Hub
 categories:
 - UX Lead
@@ -15,19 +15,19 @@ date:
 
 <p class ="lead">Finding the museums was difficult. They lacked visibility both in the city and in the web. Once found there was no sense of belonging. Visually the museums looked separated. Finding interesting exhibitions was even more difficult. It was a maze.</p>
 
-![](/upload/KNF_Designs_3.jpg)
+![](/upload/MSD_Design_2-1.jpg)
 
 ### **Approach**
 
 We reviewed the existing brandings and started developing a new brand architecture. Simultaneously we developed personas and took a deep dive into the visitor journey to identify sweet spots.
 
-![](/upload/KNF_Designs_2.jpg)
+![](/upload/MSD_Design_3-1.jpg)
 
 ### **Solution**
 
 We developed a new brand architecture (house of houses), a logo system and a layout pattern derived from the museums floor plans. We literally put the museums on the map. This reflects in the information architecture. The museums are nested into each other; just like a matryoshka.
 
-![](/upload/KNF_Designs_4.jpg)
+![](/upload/MSD_Design_4.jpg)
 
 ### **One more thing**
 
