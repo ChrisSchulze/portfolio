@@ -12,19 +12,7 @@
         <h1>{{ post.frontmatter.title }}<br>
               <span class="outline">{{ post.frontmatter.description }}</span>
         </h1>
-	<p><a class="animated-arrow" href="">
-                <span class="the-arrow -left">
-                  <span class="shaft"></span>
-                </span>
-                <span class="main">
-                  <span class="text">
-                    Explore
-                  </span>
-                  <span class="the-arrow -right">
-                    <span class="shaft"></span>
-                  </span>
-                </span>
-              </a></p>
+
 
     </router-link>
 
