@@ -12,7 +12,7 @@
         <h1>{{ post.frontmatter.title }}<br>
               <span class="outline">{{ post.frontmatter.description }}</span>
         </h1>
-	<a class="animated-arrow" href="https://google.com">
+	<p><a class="animated-arrow" href="https://google.com">
                 <span class="the-arrow -left">
                   <span class="shaft"></span>
                 </span>
@@ -24,7 +24,7 @@
                     <span class="shaft"></span>
                   </span>
                 </span>
-              </a>
+              </a></p>
 
     </router-link>
 
