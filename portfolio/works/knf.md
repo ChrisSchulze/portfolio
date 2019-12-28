@@ -3,7 +3,10 @@ title: KNF
 description: A Single Source of truth
 thumbnail: "/upload/KNF_Designs_1.jpg"
 services: Service Design, PIM, Corporate Site
-categories: []
+categories:
+- UX Lead
+- Design Lead
+- " Digital Strategy"
 year: 2019
 date: 
 
