@@ -1,21 +1,31 @@
 <template>
   <div class="project-list">
-
-    <router-link
-      tag="div"
-      :to="post.path"
-      v-for="post in posts"
-      :key="post.title"
-      class="post"
-      >
+    <router-link 
+    	tag="div"
+      	:to="post.path"
+      	v-for="post in posts"
+      	:key="post.title"
+      	class="post"
+      	>
     
         <h1>{{ post.frontmatter.title }}<br>
               <span class="outline">{{ post.frontmatter.description }}</span>
         </h1>
-
+		<p><a class="animated-arrow" href="">
+                <span class="the-arrow -left">
+                  <span class="shaft"></span>
+                </span>
+                <span class="main">
+                  <span class="text">
+                    Explore
+                  </span>
+                  <span class="the-arrow -right">
+                    <span class="shaft"></span>
+                  </span>
+                </span>
+              </a></p>
 
     </router-link>
-
   </div>
 </template>
 
@@ -38,7 +48,7 @@
     width: 100%;
     padding: 6rem 0rem 6rem 0rem;
     margin-bottom: 2rem;
-
+    cursor: none;
   }
   
   .project-list {
