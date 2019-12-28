@@ -2,7 +2,6 @@
   <div class="project-list">
 
     <router-link
-      :to="post.path"
       tag="div"
       v-for="post in posts"
       :key="post.title"
@@ -12,7 +11,7 @@
         <h1>{{ post.frontmatter.title }}<br>
               <span class="outline">{{ post.frontmatter.description }}</span>
         </h1>
-	<p><a class="animated-arrow" href="">
+	<p><a class="animated-arrow" href=":to="post.path"">
                 <span class="the-arrow -left">
                   <span class="shaft"></span>
                 </span>
