@@ -1,7 +1,7 @@
 ---
 title: KNF
 description: A Single Source of truth
-thumbnail: ''
+thumbnail: "/upload/KNF_Designs_1.jpg"
 services: Service Design, PIM, Corporate Site
 categories: []
 year: 2019
