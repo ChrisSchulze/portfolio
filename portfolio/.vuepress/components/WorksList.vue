@@ -127,7 +127,7 @@
  .animated-arrow {
 	 display: inline-block;
 	 color: #999;
-	 font-size: 1em;
+	 font-size: 1em !important;
 	 text-decoration: none;
 	 position: relative;
 	 transition: all 0.2s;
