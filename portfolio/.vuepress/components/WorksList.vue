@@ -63,7 +63,7 @@
  .the-arrow.-left {
 	 position: absolute;
 	 top: 60%;
-	 left: 2rem;
+	 left: 0rem;
 }
  .the-arrow.-left > .shaft {
 	 width: 0;
