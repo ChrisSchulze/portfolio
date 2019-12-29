@@ -12,7 +12,7 @@
           marginTop: '16vw'
         }"
       >
-      <h3>Please have a look at my work.</>
+      <h3>Please have a look at my work.</h3>
         <Content/>
       </div>
 
