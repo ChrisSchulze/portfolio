@@ -15,11 +15,11 @@ date:
 
 <p class="lead">In the past KNFs digital services had grown like sprawl: Lots of touchpoints, lots of differing product data, lots of people involved but no clear purpose behind.</p>
 
+![](/upload/KNF_Designs_2.jpg)
+
 ### Approach
 
 We held stakeholder workshops with participants from all over the world to get everyone aligned on a mission: To build a single source of truth for their product data and to give the company a "face" to the outside world.
-
-![](/upload/KNF_Designs_2.jpg)
 
 ### Solution
 
