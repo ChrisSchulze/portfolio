@@ -9,10 +9,9 @@
       <div
         v-if="$route.path === '/'"
         :style="{
-          marginTop: '16vw'
+          marginTop: '8vw'
         }"
       >
-      <h3>Please have a look at my work.</h3>
         <Content/>
       </div>
 
