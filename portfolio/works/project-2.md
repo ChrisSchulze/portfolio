@@ -14,11 +14,11 @@ services: Relaunch, Booking Service, Corporate Site
 
 <p class="lead">Severe weather often resulted in overloads of the online booking service. If you could reach it it was difficult to use because the user flow had flaws. Also the overall design needed improvement.</p>
 
+![](/upload/Carglass_Images_2.jpg)
+
 ### Approach
 
 For the self service a validated UX was key. We went through several iterations of prototypes. In each step we tested our assumptions in lab tests with our target audiences. Then we reworked user flows, improved wording and design. Until we got it right.
-
-![](/upload/Carglass_Images_2.jpg)
 
 ### Solution
 
