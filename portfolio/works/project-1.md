@@ -15,11 +15,11 @@ services: Digital Rebranding, Look & feel, Content Strategy
 
 <p class="lead">COMPO wanted to grow their customer base. We saw an opportunity in a younger audience. Alongside Jung von Matt we were assigned to come up with ideas for the digital touchpoints.</p>
 
+![](/upload/compo_image_2-1.jpg)
+
 ### Approach
 
 We screened COMPO's existing touchpoints, checked their contents and overall visual coherence. We found they lacked recognizability. Also they had no content strategy. They had to evolve if they wanted to close the gap.
-
-![](/upload/compo_image_2-1.jpg)
 
 ### Solution
 
