@@ -46,7 +46,7 @@
     padding: 2rem 0;
     width: 100%;
     max-width: 870px;
-    margin: 0 auto 3rem auto;
+    margin: 0 auto 0 auto;
   }
 
   .column {
