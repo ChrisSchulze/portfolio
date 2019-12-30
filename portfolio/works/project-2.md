@@ -18,7 +18,7 @@ Severe weather often resulted in overloads of the online booking service. If you
 
 ### Approach
 
-For the self service a validated UX was key. We went through several iterations of prototypes. In each step we tested our assumptions in lab tests with our target audiences. Then we reworked user flows, improved wording and design. Until we got it right.
+<p class="einleser">For the self service a validated UX was key. We went through several iterations of prototypes. In each step we tested our assumptions in lab tests with our target audiences. Then we reworked user flows, improved wording and design. Until we got it right.</p>
 
 ### Solution
 
