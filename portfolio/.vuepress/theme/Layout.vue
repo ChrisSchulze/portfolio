@@ -156,7 +156,7 @@
     max-width: 870px;
   }
 
-  h2,h3,h4,h5,h6,p {
+  h3,h4,h5,h6,p {
     width: 100%;
     max-width: 600px;
   }
@@ -181,7 +181,9 @@
  }
  
   h2 {
-    font-size: 2rem;
+      width: 100%;
+    max-width: 870px;
+    font-size: 1rem;
     font-weight: 300;
     margin: auto auto 4rem auto;
   }
