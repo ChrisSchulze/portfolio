@@ -123,6 +123,7 @@
 
   html {
       font-size: 16px;
+      line-height: 21.5px
       background: #1D1D1F;
       color: #434343;
   }
@@ -188,7 +189,7 @@
 
   p {
     font-size: 1.5rem;
-    line-height: 2;
+    line-height: 1.5;
     margin: auto auto 10rem auto;
   }
   
