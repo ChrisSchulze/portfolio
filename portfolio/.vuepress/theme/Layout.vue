@@ -203,6 +203,7 @@
   h4 {
       width: 100%;
       max-width: 870px;
+      margin: 0 auto 3rem auto;
       }
 
   p {
