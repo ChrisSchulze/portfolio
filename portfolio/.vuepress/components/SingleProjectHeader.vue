@@ -50,7 +50,7 @@
   }
 
   .column {
-    flex: 0 0 33.33%;
+    flex: 1 1 0%;
   }
 
   .label {
