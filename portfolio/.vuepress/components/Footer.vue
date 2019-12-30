@@ -42,6 +42,36 @@
  
 </template>
 
+<script>
+  export default {
+    props: {
+      logo: {
+        type: String,
+        required: false,
+      },
+      sticky: {
+        type: Boolean,
+        required: false,
+      }
+    },
+    data() {
+      return {
+        mobileNavActive: false
+      }
+    },
+    computed: {
+      navLinks() {
+        return this.$site.themeConfig.nav
+      },
+    },
+    methods: {
+      toggleMobileNav() {
+        this.mobileNavActive = !this.mobileNavActive
+      }
+    }
+  }
+</script>
+
 <style scoped>
   .text {
     display: block;
