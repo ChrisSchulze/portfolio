@@ -1,5 +1,5 @@
 <template>
-  <span class="text">{{ $site.themeConfig.footer }}</span>
+  <span class="text">{{ $site.themeConfig.footer_copy }}</span>
   
  <div>
     <nav v-if="navLinks" class="navigation left desktop-nav">
