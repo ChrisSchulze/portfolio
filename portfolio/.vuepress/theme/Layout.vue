@@ -151,7 +151,7 @@
     margin: 0 auto;
   }
   
-    a, .label {
+    a {
     width: 100%;
     max-width: 870px;
   }
