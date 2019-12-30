@@ -50,12 +50,12 @@ fields:
     default: ''
   hidden: false
   default: ''
-- name: footer
-  label: Footer
+- name: footer_old
+  label: Footer_Old
   type: text
   hidden: false
   default: ''
-- name: footer_copy
+- name: footer
   type: field_group_list
   fields:
   - name: footer_headline
@@ -94,6 +94,6 @@ fields:
     min: 
     max: 
     labelField: 
-  label: Footer Copy
+  label: Footer
 pages:
 - portfolio/config.json
