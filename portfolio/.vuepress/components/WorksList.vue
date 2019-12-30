@@ -8,7 +8,6 @@
       	class="post"
       	>
     	
-	<div style="display:inline;"
         <h1>{{ post.frontmatter.title }}<br>
               <span class="outline">{{ post.frontmatter.description }}</span>
         </h1>
@@ -25,7 +24,6 @@
                   </span>
                 </span>
               </a>
-	</div>
 
     </router-link>
   </div>
@@ -47,6 +45,7 @@
 
   .post {
     position: relative;
+    display: inline-block;
     width: 100%;
     padding: 6rem 0rem 6rem 0rem;
     margin-bottom: 2rem;
