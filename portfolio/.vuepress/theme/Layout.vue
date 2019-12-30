@@ -151,12 +151,14 @@
     margin: 0 auto;
   }
 
-  h1,h2,h3,h4,h5,h6,p, a {
+  h2,h3,h4,h5,h6,p, a {
     width: 100%;
-    max-width: 870px;
+    max-width: 600px;
   }
 
   h1 {
+    width: 100%;
+    max-width: 870px;
     font-size: 6.25rem;
     line-height: 6.25rem;
     font-weight: 700;
