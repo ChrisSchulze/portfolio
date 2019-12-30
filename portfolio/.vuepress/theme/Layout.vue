@@ -138,7 +138,7 @@
     width: 100%;
     max-width: 100%;
     line-height: 0;
-    margin: auto auto 4rem auto;
+    margin: auto auto 10rem auto;
   }
 
   .container {
