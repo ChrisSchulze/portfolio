@@ -56,49 +56,14 @@ fields:
   hidden: false
   default: ''
 - name: footer_new
-  type: field_group_list
+  type: field_group
+  config: {}
   fields:
-  - name: footer_headline
-    type: text
-    config:
-      required: false
-    label: Footer Headline
   - name: footer_text
     type: text
     config:
       required: false
     label: Footer Text
-  - name: footer_copyright
-    type: text
-    config:
-      required: false
-    label: Footer Copyright
-  - name: link
-    type: text
-    config:
-      required: false
-    label: Link
-  - name: position
-    type: select
-    default: []
-    config:
-      required: false
-      options: []
-      source:
-        type: simple
-        section: 
-        file: 
-        path: 
-    label: Position
-  config:
-    min: 
-    max: 
-    labelField: 
-  label: Footer_new
-- name: footer_headline
-  type: text
-  config:
-    required: false
-  label: Footer Headline
+  label: Footer New
 pages:
 - portfolio/config.json
