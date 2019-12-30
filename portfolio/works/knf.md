@@ -13,7 +13,7 @@ date:
 ---
 ### Issue
 
-<p class="lead">In the past KNFs digital services had grown like sprawl: Lots of touchpoints, lots of differing product data, lots of people involved but no clear purpose behind.</p>
+In the past KNFs digital services had grown like sprawl: Lots of touchpoints, lots of differing product data, lots of people involved but no clear purpose behind.
 
 ![](/upload/KNF_Designs_2.jpg)
 
