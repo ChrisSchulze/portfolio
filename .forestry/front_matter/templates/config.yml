@@ -95,5 +95,10 @@ fields:
     max: 
     labelField: 
   label: Footer_new
+- name: footer_headline
+  type: text
+  config:
+    required: false
+  label: Footer Headline
 pages:
 - portfolio/config.json
