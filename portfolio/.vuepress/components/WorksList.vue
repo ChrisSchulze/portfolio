@@ -123,9 +123,7 @@
 	 transform-origin: bottom right;
 }
  .animated-arrow {
-	 display: inline;
-	     width: 100%;
-    max-width: 870px;
+	 display: inline-block;
 	 color: #999;
 	 font-size: 1em !important;
 	 text-decoration: none;
