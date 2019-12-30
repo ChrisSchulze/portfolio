@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- portfolio/works/carglass.md
 - portfolio/works/compo.md
 - portfolio/works/knf.md
 - portfolio/works/msd.md
