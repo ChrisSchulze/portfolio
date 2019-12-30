@@ -64,6 +64,6 @@ fields:
     config:
       required: false
     label: Footer Text
-  label: Footer New
+  label: Footer_New
 pages:
 - portfolio/config.json
