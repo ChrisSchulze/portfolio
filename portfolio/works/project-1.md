@@ -19,7 +19,7 @@ COMPO wanted to grow their customer base. We saw an opportunity in a younger aud
 
 ### Approach
 
-We screened COMPO's existing touchpoints, checked their contents and overall visual coherence. We found they lacked recognizability. Also they had no content strategy. They had to evolve if they wanted to close the gap.
+<p class="einleser">We screened COMPO's existing touchpoints, checked their contents and overall visual coherence. We found they lacked recognizability. Also they had no content strategy. They had to evolve if they wanted to close the gap.</p>
 
 ### Solution
 
