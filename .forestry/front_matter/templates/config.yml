@@ -50,8 +50,8 @@ fields:
     default: ''
   hidden: false
   default: ''
-- name: footer_old
-  label: Footer_Old
+- name: footer
+  label: Footer
   type: text
   hidden: false
   default: ''
