@@ -7,7 +7,8 @@
       	:key="post.title"
       	class="post"
       	>
-    
+    	
+	<div style="display:inline;"
         <h1>{{ post.frontmatter.title }}<br>
               <span class="outline">{{ post.frontmatter.description }}</span>
         </h1>
@@ -24,6 +25,7 @@
                   </span>
                 </span>
               </a>
+	</div>
 
     </router-link>
   </div>
