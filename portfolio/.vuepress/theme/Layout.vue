@@ -192,12 +192,6 @@
     line-height: 1.5;
     margin: auto auto 10rem auto;
   }
-  
-  .lead {
-    font-size: 2rem;
-    line-height: 1.25;
-    margin: auto auto 4rem auto;
-  }
 
   pre {
     background: var(--color-black);
