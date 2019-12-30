@@ -6,16 +6,6 @@
  
 </template>
 
-<script>
-  export default {
-    computed: {
-      navLinks() {
-        return this.$site.themeConfig.nav
-      },
-    },
-  }
-</script>
-
 <style scoped>
   .text {
     display: block;
