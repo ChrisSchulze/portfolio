@@ -150,8 +150,13 @@
     max-width: 100%;
     margin: 0 auto;
   }
+  
+    a, .label {
+    width: 100%;
+    max-width: 870px;
+  }
 
-  h2,h3,h4,h5,h6,p, a {
+  h2,h3,h4,h5,h6,p {
     width: 100%;
     max-width: 600px;
   }
@@ -175,7 +180,6 @@
   .post h1::after {
  }
  
-
   h2 {
     font-size: 2rem;
     font-weight: 300;
@@ -196,6 +200,15 @@
     line-height: 1.5;
     letter-spacing: 1.25px;
     margin: auto auto 10rem auto;
+  }
+  
+  .label {
+    font-size: 0.6rem;
+    line-height: 0.75rem;
+    letter-spacing: 0.75px;
+    font-weight: 700;
+    color: #333333;
+    margin: auto auto 0.25rem auto;
   }
 
   pre {
