@@ -50,7 +50,8 @@
   }
 
   .column {
-    flex: 2 1 1;
+    flex: 1 1 0%;
+    padding: 4px;
   }
 
   .label {
