@@ -11,7 +11,7 @@
         <h1>{{ post.frontmatter.title }}<br>
               <span class="outline">{{ post.frontmatter.description }}</span>
         </h1>
-		<p><a class="animated-arrow" href="">
+		<a class="animated-arrow" href="">
                 <span class="the-arrow -left">
                   <span class="shaft"></span>
                 </span>
@@ -23,7 +23,7 @@
                     <span class="shaft"></span>
                   </span>
                 </span>
-              </a></p>
+              </a>
 
     </router-link>
   </div>
@@ -124,6 +124,8 @@
 }
  .animated-arrow {
 	 display: inline-block;
+	     width: 100%;
+    max-width: 870px;
 	 color: #999;
 	 font-size: 1em !important;
 	 text-decoration: none;
