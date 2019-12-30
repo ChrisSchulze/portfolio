@@ -50,7 +50,12 @@
   }
 
   .value {
-    font-weight: 400;
+    font-size: 0.6rem;
+    line-height: 0.75rem;
+    letter-spacing: 0.75px;
+    font-weight: 700;
+    color: #333333;
+    margin: auto auto 0.25rem auto;
   }
 
   .categories:after {
