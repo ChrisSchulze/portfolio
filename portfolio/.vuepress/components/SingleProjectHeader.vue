@@ -2,7 +2,7 @@
 
   <div class="header">
 
-    <div class="column">
+    <div class="column-big">
       <Label class="label">What we did</Label>
       <span class="value">{{ services }}</span>
     </div>
@@ -49,9 +49,14 @@
     margin: 0 auto 0 auto;
   }
 
+  .column-big {
+    flex: 1 1 66%;
+    padding: 8px;
+  }
+  
   .column {
-    flex: 1 1 0%;
-    padding: 4px;
+    flex: 1 1 33%;
+    padding: 8px;
   }
 
   .label {
