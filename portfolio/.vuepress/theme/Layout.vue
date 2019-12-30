@@ -157,8 +157,8 @@
   }
 
   h1 {
-    font-size: 6.5rem;
-    line-height: 1;
+    font-size: 6.25rem;
+    line-height: 1.1rem;
     font-weight: 700;
     color: #D1D1D2;
     margin: 0 auto 3rem auto;
