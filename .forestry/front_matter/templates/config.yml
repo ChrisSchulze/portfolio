@@ -78,6 +78,18 @@ fields:
     config:
       required: false
     label: Link
+  - name: position
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Position
   config:
     min: 
     max: 
