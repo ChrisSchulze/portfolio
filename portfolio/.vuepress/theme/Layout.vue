@@ -187,9 +187,9 @@
   }
 
   p {
-    font-size: 1rem;
-    line-height: 1.25;
-    margin: auto auto 4rem auto;
+    font-size: 1,5rem;
+    line-height: 2;
+    margin: auto auto 10rem auto;
   }
   
   .lead {
