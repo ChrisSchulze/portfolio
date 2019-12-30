@@ -13,7 +13,7 @@ services: Information Architecture, Look & Feel
 ---
 ### Issue
 
-<p class="lead">When we rebranded the DHB their new website was already in the making. The design was generic and the information architecture needed improvement.</p>
+When we rebranded the DHB their new website was already in the making. The design was generic and the information architecture needed improvement.
 
 ![](/upload/DHB_Designs_2.jpg)
 
