@@ -41,3 +41,4 @@ fields:
     required: true
 pages:
 - portfolio/works/knf.md
+- portfolio/works/msd.md
