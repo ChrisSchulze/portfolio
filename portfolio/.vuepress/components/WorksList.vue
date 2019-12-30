@@ -8,9 +8,10 @@
       	class="post"
       	>
     	
+	<div style="float:left">
         <h1>{{ post.frontmatter.title }}<br>
               <span class="outline">{{ post.frontmatter.description }}</span>
-        
+        </h1>
 		<a class="animated-arrow" href="">
                 <span class="the-arrow -left">
                   <span class="shaft"></span>
@@ -24,7 +25,7 @@
                   </span>
                 </span>
               </a>
-	 </h1>
+	 </div>
 
     </router-link>
   </div>
