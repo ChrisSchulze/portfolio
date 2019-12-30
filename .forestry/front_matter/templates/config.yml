@@ -60,9 +60,13 @@ fields:
   config: {}
   fields:
   - name: footer_text
-    type: text
+    type: textarea
+    default: ''
     config:
       required: false
+      wysiwyg: false
+      schema:
+        format: markdown
     label: Footer Text
   label: Footer_New
 pages:
