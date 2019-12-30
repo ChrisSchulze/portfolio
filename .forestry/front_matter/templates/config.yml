@@ -15,11 +15,6 @@ fields:
 - type: file
   name: logo
   label: Logo
-- name: footer
-  label: Footer
-  type: text
-  hidden: false
-  default: ''
 - name: favicon
   label: Favicon
   type: file
@@ -53,6 +48,11 @@ fields:
     type: boolean
     hidden: false
     default: ''
+  hidden: false
+  default: ''
+- name: footer
+  label: Footer
+  type: text
   hidden: false
   default: ''
 - name: footer_copy
