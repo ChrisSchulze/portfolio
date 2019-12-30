@@ -187,7 +187,7 @@
   }
 
   p {
-    font-size: 1,5rem;
+    font-size: 1.5rem;
     line-height: 2;
     margin: auto auto 10rem auto;
   }
