@@ -156,7 +156,7 @@
     max-width: 870px;
   }
 
-  h3,h4,h5,h6,p {
+  h3,h5,h6,p {
     width: 100%;
     max-width: 600px;
   }
@@ -199,6 +199,11 @@
     color: #333333;
     margin: auto auto 0.25rem auto;
   }
+  
+  h4 {
+      width: 100%;
+      max-width: 870px;
+      }
 
   p {
     font-size: 1.5rem;
