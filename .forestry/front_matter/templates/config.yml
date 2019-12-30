@@ -55,7 +55,7 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: footer
+- name: footer_new
   type: field_group_list
   fields:
   - name: footer_headline
@@ -94,6 +94,6 @@ fields:
     min: 
     max: 
     labelField: 
-  label: Footer
+  label: Footer_new
 pages:
 - portfolio/config.json
