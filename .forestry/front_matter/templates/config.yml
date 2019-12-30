@@ -55,5 +55,33 @@ fields:
     default: ''
   hidden: false
   default: ''
+- name: footer_copy
+  type: field_group_list
+  fields:
+  - name: footer_headline
+    type: text
+    config:
+      required: false
+    label: Footer Headline
+  - name: footer_text
+    type: text
+    config:
+      required: false
+    label: Footer Text
+  - name: footer_copyright
+    type: text
+    config:
+      required: false
+    label: Footer Copyright
+  - name: link
+    type: text
+    config:
+      required: false
+    label: Link
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Footer Copy
 pages:
 - portfolio/config.json
