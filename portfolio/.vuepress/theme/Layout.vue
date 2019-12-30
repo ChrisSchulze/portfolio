@@ -181,9 +181,9 @@
   }
 
   h3 {
-    font-size: 0.75rem;
+    font-size: 0.6rem;
     font-weight: 700;
-    color: #434343;
+    color: #333333;
     margin: auto auto 0.25rem auto;
   }
 
