@@ -213,6 +213,10 @@
     margin: auto auto 10rem auto;
   }
   
+  .einleser {
+  margin: auto auto 2.25rem auto !important;
+  }
+  
   .label {
     font-size: 0.6rem;
     line-height: 0.75rem;
