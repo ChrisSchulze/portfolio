@@ -19,7 +19,7 @@ When we rebranded the DHB their new website was already in the making. The desig
 
 ### Approach
 
-If we wanted to make a difference we had to be quick. We agreed to work in three one-week sprints and see what we could come up with in that time period.
+<p class="einleser">If we wanted to make a difference we had to be quick. We agreed to work in three one-week sprints and see what we could come up with in that time period.</p>
 
 ### Solution
 
