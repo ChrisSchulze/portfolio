@@ -182,6 +182,7 @@
 
   h3 {
     font-size: 0.6rem;
+    line-height: 0.75rem;
     font-weight: 700;
     color: #333333;
     margin: auto auto 0.25rem auto;
