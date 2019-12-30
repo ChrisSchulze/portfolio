@@ -7,11 +7,11 @@
       	:key="post.title"
       	class="post"
       	>
-    	
+    
         <h1>{{ post.frontmatter.title }}<br>
               <span class="outline">{{ post.frontmatter.description }}</span>
         </h1>
-		<a class="animated-arrow" href="">
+		<p><a class="animated-arrow" href="">
                 <span class="the-arrow -left">
                   <span class="shaft"></span>
                 </span>
@@ -23,7 +23,7 @@
                     <span class="shaft"></span>
                   </span>
                 </span>
-              </a>
+              </a></p>
 
     </router-link>
   </div>
@@ -45,7 +45,6 @@
 
   .post {
     position: relative;
-    display: inline-block;
     width: 100%;
     padding: 6rem 0rem 6rem 0rem;
     margin-bottom: 2rem;
@@ -124,7 +123,7 @@
 	 transform-origin: bottom right;
 }
  .animated-arrow {
-
+	 display: inline-block;
 	 color: #999;
 	 font-size: 1em !important;
 	 text-decoration: none;
