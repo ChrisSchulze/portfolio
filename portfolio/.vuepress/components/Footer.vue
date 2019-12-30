@@ -1,6 +1,7 @@
 <template>
 
   <span class="text">{{ $site.themeConfig.footer }}</span>
+  <span class="text">{{ $site.themeConfig.footer_headline }}</span>
 </template>
 
 <style scoped>
