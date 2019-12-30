@@ -123,7 +123,7 @@
 
   html {
       font-size: 16px;
-      line-height: 21.5px
+      line-height: 21.5px;
       background: #1D1D1F;
       color: #434343;
   }
