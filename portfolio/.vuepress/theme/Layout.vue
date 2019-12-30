@@ -125,7 +125,7 @@
       font-size: 16px;
       line-height: 21.5px;
       background: #1D1D1F;
-      color: #434343;
+      color: #595959;
   }
   
   body {
