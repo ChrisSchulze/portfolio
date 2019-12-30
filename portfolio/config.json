@@ -17,5 +17,13 @@
       "position": "right",
       "external": true
     }
+  ],
+  "footer_copy": [
+    {
+      "footer_headline": "Get in contact",
+      "footer_text": "I'm  always happy to meet new people. Give me a call +49 157 39 240 376 or send me an email.",
+      "footer_copyright": "Christian Schulze 2020",
+      "link": "Work"
+    }
   ]
 }
