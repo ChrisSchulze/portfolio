@@ -12,7 +12,7 @@ services: Relaunch, Booking Service, Corporate Site
 ---
 ### Issue
 
-<p class="lead">Severe weather often resulted in overloads of the online booking service. If you could reach it it was difficult to use because the user flow had flaws. Also the overall design needed improvement.</p>
+Severe weather often resulted in overloads of the online booking service. If you could reach it it was difficult to use because the user flow had flaws. Also the overall design needed improvement.
 
 ![](/upload/Carglass_Images_2.jpg)
 
