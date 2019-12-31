@@ -34,8 +34,8 @@
   .einleser .contact {
   color: #333333; }
 
-.nav { display: inline; }
-  .links {
+#nav { display: inline; }
+  #ul_nav li {
     display: inline;
     list-style-type: none !important;
     margin-right: 1rem;
