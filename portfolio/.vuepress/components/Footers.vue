@@ -2,21 +2,14 @@
   <footer class="footers" >
   
   <column>
-    <nav>
-      <ul>
+      <ul class="links">
         <li>
-          <a href="">Link 1</a>
+          <a href="">Work</a>
         </li>
-      </ul>
-    </nav>
-
-    <nav>
-      <ul>
         <li>
-          <a href="">Link 2</a>
+          <a href="">Contact</a>
         </li>
-      </ul>
-    </nav>
+        </ul>
     </column>
     
     <column>
