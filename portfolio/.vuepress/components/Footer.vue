@@ -1,7 +1,7 @@
 <template>
   <footer class="footer" >
   
-  <column>
+  <column class="nav">
       <ul class="links">
         <li>
           <a href="">Work</a>
@@ -38,6 +38,7 @@
   .einleser .contact {
   color: #333333; }
 
+.nav { display: inline; }
   .links {
     display: inline;
     list-style-type: none !important;
