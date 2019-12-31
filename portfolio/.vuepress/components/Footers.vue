@@ -18,7 +18,7 @@
     </nav>
     
     <column>
-    <p>I'm always happy to meet new people. Give me a call +49 1157 39 240 376, email jan.christian.schulze@gmail.com or visit me. Ⓒ Christian Schulze 2020</p>
+    <p class="einleser">I'm always happy to meet new people. Give me a call +49 1157 39 240 376, email jan.christian.schulze@gmail.com or visit me. Ⓒ Christian Schulze 2020</p>
     </column>
     
     <column>
