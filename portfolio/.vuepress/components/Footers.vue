@@ -18,7 +18,7 @@
     </nav>
     
     <column>
-    <p class="einleser">I'm always happy to meet new people. Give me a call +49 1157 39 240 376, email. </p>
+    <p class="einleser">I'm always happy to meet new people. Give me a call +49 1157 39 240 376 or send me an email.</p>
     </column>
     
     <column>
