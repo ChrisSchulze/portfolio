@@ -13,7 +13,7 @@
     </column>
     
     <column>
-      <p class="einleser">I'm always happy to meet new people. Give me a call <span class="contact">+49 1157 39 240 376</span> or send me an email.</p>
+      <p class="einleser">I'm always happy to meet new people. Give me a call <span class="contact">+49 1157 39 240 376</span> or send me an <span class="contact">email.</span></p>
     </column>
     
     <column>
