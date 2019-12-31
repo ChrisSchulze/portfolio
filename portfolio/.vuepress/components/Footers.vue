@@ -41,9 +41,9 @@
 
   }
 
-  .li {
+  .links {
     display: inline-block;
-    list-style-type: none;
+    list-style-type: none !important;
     margin-right: 1rem;
     user-select: none;
     cursor: pointer;
