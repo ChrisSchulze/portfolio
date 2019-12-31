@@ -4,8 +4,8 @@
     <column id="nav">
     <div id="div_top_hypers">
     <ul id="ul_top_hypers">
-        <li><a href="" class="a_top_hypers"> Inbox</a></li>
-        <li><a href="" class="a_top_hypers"> Compose</a></li>
+        <li><a href="" class="a_top_hypers">Work</a></li>
+        <li><a href="" class="a_top_hypers">Contact</a></li>
     </ul>
 </div>
 
@@ -45,10 +45,9 @@
 }
 #ul_top_hypers li{
     display: inline;
+    margin-right: 1rem;
 }
 
-
-#nav { display: inline; }
   #ul_nav li {
     display: inline;
     list-style-type: none !important;
