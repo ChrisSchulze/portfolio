@@ -2,7 +2,7 @@
   <footer class="footer" >
   
     <column id="nav">
-    <ul id="links">
+    <ul id="nav">
         <li><a href="" class="links">Work</a></li>
         <li><a href="" class="links">Contact</a></li>
     </ul>
