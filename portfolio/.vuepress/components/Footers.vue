@@ -31,9 +31,6 @@
     width: 100%;
     margin: 0 auto 0 auto;
     
-
-    bottom: 0;
-    left: 0;
     align-items: center;
     justify-content: space-between;
     height: 6rem;
@@ -44,7 +41,7 @@
 
   }
 
-  .nav li {
+  .li {
     display: inline-block;
     list-style: none;
     margin-right: 1rem;
@@ -53,25 +50,9 @@
     border-bottom: 1px solid transparent;
   }
 
-  .navigation li:last-of-type {
-    margin: 0;
-  }
-
-  .navigation li:hover {
-    border-bottom: 1px solid #D1D1D2;
-  }
-
-  .active {
-    border-bottom: 1px solid #D1D1D2;
-  }
-
   a {
     text-decoration: none;
     color: inherit;
   }
-
-  a:active { color: inherit; }
-  a:visited { color: inherit; }
-
 
 </style>
