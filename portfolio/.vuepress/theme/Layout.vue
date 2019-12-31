@@ -36,6 +36,11 @@
         <div id="custom"><img :src="$page.frontmatter.thumbnail"></div>
         
         <Content/>
+        
+        <div class="more">
+        <h3>More Projects</h3>
+        <p>Explore</p>
+        </div>
       </div>
 
       <!-- Journal list -->
