@@ -9,8 +9,8 @@ categories:
 year: 2018
 date: 
 next_project:
-  project_name: ''
-  project_url: ''
+  project_name: Compo
+  project_url: http://www.janchristianschulze.de/works/compo.html
 
 ---
 ### Issue
