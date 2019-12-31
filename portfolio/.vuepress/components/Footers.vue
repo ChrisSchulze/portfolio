@@ -1,5 +1,5 @@
 <template>
-  <footer class="footer" >
+  <footer class="footers" >
 
     <nav>
       <ul>
@@ -26,7 +26,7 @@
     </column>
 
 
-  </footer>
+  </footers>
 </template>
 
 
@@ -34,7 +34,7 @@
 
 
 
-  .footer {
+  .footers {
     display: flex;
     align-items: flex-start;
     padding: 4rem 5vw;
@@ -44,7 +44,6 @@
     
     align-items: center;
     justify-content: space-between;
-    height: 6rem;
 
     
     font-size: 0.8rem;
