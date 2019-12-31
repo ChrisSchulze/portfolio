@@ -1,14 +1,14 @@
 ---
 title: DHB
-date: 2017-02-04T00:00:00.000+00:00
+description: A bold and ballsy brand
 thumbnail: "/upload/DHB_Designs_1.jpg"
-year: '2018'
+services: Information Architecture, Look & Feel
 categories:
 - UX Concept
 - " Design Lead"
-description: A bold and ballsy brand
+year: 2018
+date: 
 description_second_line: ''
-services: Information Architecture, Look & Feel
 
 ---
 ### Issue
