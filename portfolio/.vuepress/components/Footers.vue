@@ -27,17 +27,21 @@
 
   .footer {
     display: flex;
-    position: absolute;
+    padding: 2rem 0;
+    width: 100%;
+    margin: 0 auto 0 auto;
+    
+
     bottom: 0;
     left: 0;
-    width: 100%;
     align-items: center;
     justify-content: space-between;
     height: 6rem;
-    padding: 5vw;
+
+    
     font-size: 0.8rem;
     font-weight: 400;
-    z-index: 10;
+
   }
 
   .nav li {
