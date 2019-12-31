@@ -42,8 +42,7 @@
     width: 100%;
     margin: 0 auto 0 auto;
     
-    align-items: center;
-    justify-content: space-between;
+    justify-content:  center;
 
     
     font-size: 0.8rem;
