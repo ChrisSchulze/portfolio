@@ -35,15 +35,12 @@
 
 
   .footers {
-    
-    
-    
     display: flex;
-    align-items: flex-start;
+    align-items: space-between;
+    
     padding: 2rem 0;
     width: 100%;
-    margin: 0 auto 0 auto;
-    
+    margin: 0 auto 0 auto;    
     justify-content:  center;
 
     
@@ -52,18 +49,6 @@
 
   }
 
-  .li {
-    display: inline-block;
-    list-style: none;
-    margin-right: 1rem;
-    user-select: none;
-    cursor: pointer;
-    border-bottom: 1px solid transparent;
-  }
 
-  a {
-    text-decoration: none;
-    color: inherit;
-  }
 
 </style>
