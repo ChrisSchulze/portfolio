@@ -1,6 +1,7 @@
 <template>
   <footer class="footers" >
-
+  
+  <column>
     <nav>
       <ul>
         <li>
@@ -16,6 +17,7 @@
         </li>
       </ul>
     </nav>
+    </column>
     
     <column>
     <p class="einleser">I'm always happy to meet new people. Give me a call +49 1157 39 240 376 or send me an email.</p>
@@ -48,7 +50,7 @@
 
   .li {
     display: inline-block;
-    list-style: none;
+    list-style-type: none;
     margin-right: 1rem;
     user-select: none;
     cursor: pointer;
