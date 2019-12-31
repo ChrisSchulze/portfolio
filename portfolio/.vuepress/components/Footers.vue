@@ -1,10 +1,10 @@
 <template>
   <footer class="footer" >
 
-    <nav v-if="navLinks" class="navigation left desktop-nav">
+    <nav>
       <ul>
         <li>
-          <a :href="nav.link" target="_blank">{{ nav.text }}</a>
+          <a href="">Link 1</a>
         </li>
       </ul>
     </nav>
@@ -12,7 +12,7 @@
     <nav>
       <ul>
         <li>
-          <a :href="nav.link" target="_blank">{{ nav.text }}</a>
+          <a href="">Link 2</a>
         </li>
       </ul>
     </nav>
