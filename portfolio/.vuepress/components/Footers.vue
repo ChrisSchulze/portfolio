@@ -36,19 +36,29 @@
 
   .footers {
     display: flex;
-    align-items: space-between;
+    justify-content:  space-between;
     
     padding: 2rem 0;
     width: 100%;
-    margin: 0 auto 0 auto;    
-    justify-content:  center;
-
     
     font-size: 0.8rem;
     font-weight: 400;
 
   }
 
+  .li {
+    display: inline-block;
+    list-style: none;
+    margin-right: 1rem;
+    user-select: none;
+    cursor: pointer;
+    border-bottom: 1px solid transparent;
+  }
+
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
 
 
 </style>
