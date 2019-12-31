@@ -1,14 +1,14 @@
 ---
 title: Compo
-date: 2018-08-01T00:00:00.000+00:00
+description: A brand in constant flux
 thumbnail: "/upload/compo_image_1-2.jpg"
-year: 2018
+services: Digital Rebranding, Look & feel, Content Strategy
 categories:
 - Branding
 - Design Lead
 - UX
-description: A brand in constant flux
-services: Digital Rebranding, Look & feel, Content Strategy
+year: 2018
+date: 
 
 ---
 ### Issue
