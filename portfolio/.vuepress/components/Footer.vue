@@ -39,7 +39,7 @@
   color: #333333; }
 
   .links {
-    display: inline-block;
+    display: inline;
     list-style-type: none !important;
     margin-right: 1rem;
     user-select: none;
