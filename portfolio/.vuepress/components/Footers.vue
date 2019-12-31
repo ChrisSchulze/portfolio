@@ -36,6 +36,7 @@
 
   .footer {
     display: flex;
+    align-items: flex-start;
     padding: 4rem 5vw;
     
     width: 100%;
