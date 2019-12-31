@@ -1,15 +1,11 @@
 <template>
   <footer class="footer" >
   
-  <column class="nav">
-      <ul class="links">
-        <li>
-          <a href="">Work</a>
-        </li>
-        <li>
-          <a href="">Contact</a>
-        </li>
-        </ul>
+    <column id="nav">
+    <ul id="links">
+        <li><a href="" class="links">Work</a></li>
+        <li><a href="" class="links">Contact</a></li>
+    </ul>
     </column>
     
     <column>
