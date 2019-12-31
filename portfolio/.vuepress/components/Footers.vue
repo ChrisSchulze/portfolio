@@ -38,7 +38,7 @@
     display: flex;
     justify-content:  space-between;
     
-    padding: 2rem 0;
+    padding: 5vw;
     width: 100%;
     
     font-size: 0.8rem;
