@@ -6,7 +6,20 @@
         <li><a href="" class="links">Work</a></li>
         <li><a href="" class="links">Contact</a></li>
     </ul>
+    
+    <div id="div_top_hypers">
+    <ul id="ul_top_hypers">
+        <li>&#8227; <a href="" class="a_top_hypers"> Inbox</a></li>
+        <li>&#8227; <a href="" class="a_top_hypers"> Compose</a></li>
+        <li>&#8227; <a href="" class="a_top_hypers"> Reports</a></li>
+        <li>&#8227; <a href="" class="a_top_hypers"> Preferences</a></li>
+        <li>&#8227; <a href="" class="a_top_hypers"> logout</a></li>
+    </ul>
+</div>
+
     </column>
+    
+    
     
     <column>
       <p class="einleser">I'm always happy to meet new people. Give me a call <span class="contact">+49 1157 39 240 376</span> or send me an <span class="contact">email.</span></p>
@@ -33,6 +46,15 @@
   
   .einleser .contact {
   color: #333333; }
+
+#div_top_hypers {
+    background-color:#eeeeee;
+    display:inline;      
+}
+#ul_top_hypers li{
+    display: inline;
+}
+
 
 #nav { display: inline; }
   #ul_nav li {
