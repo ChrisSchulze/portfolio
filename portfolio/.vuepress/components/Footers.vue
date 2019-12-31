@@ -1,0 +1,73 @@
+<template>
+  <footer class="footer" >
+
+    <nav v-if="navLinks" class="navigation left desktop-nav">
+      <ul>
+        <li>
+          <a :href="nav.link" target="_blank">{{ nav.text }}</a>
+        </li>
+      </ul>
+    </nav>
+
+    <nav>
+      <ul>
+        <li>
+          <a :href="nav.link" target="_blank">{{ nav.text }}</a>
+        </li>
+      </ul>
+    </nav>
+
+  </footer>
+</template>
+
+
+<style scoped>
+
+
+
+  .footer {
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    height: 6rem;
+    padding: 5vw;
+    font-size: 0.8rem;
+    font-weight: 400;
+    z-index: 10;
+  }
+
+  .navigation li {
+    display: inline-block;
+    list-style: none;
+    margin-right: 1rem;
+    user-select: none;
+    cursor: pointer;
+    border-bottom: 1px solid transparent;
+  }
+
+  .navigation li:last-of-type {
+    margin: 0;
+  }
+
+  .navigation li:hover {
+    border-bottom: 1px solid #D1D1D2;
+  }
+
+  .active {
+    border-bottom: 1px solid #D1D1D2;
+  }
+
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+
+  a:active { color: inherit; }
+  a:visited { color: inherit; }
+
+
+</style>
