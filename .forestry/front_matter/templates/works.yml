@@ -39,6 +39,21 @@ fields:
   type: datetime
   config:
     required: true
+- name: next_project
+  type: field_group
+  config: {}
+  fields:
+  - name: project_name
+    type: text
+    config:
+      required: false
+    label: Project Name
+  - name: project_url
+    type: text
+    config:
+      required: false
+    label: Project URL
+  label: Next Project
 pages:
 - portfolio/works/carglass.md
 - portfolio/works/compo.md
