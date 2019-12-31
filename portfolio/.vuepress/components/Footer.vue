@@ -2,15 +2,10 @@
   <footer class="footer" >
   
     <column id="nav">
-    <ul id="nav">
-        <li><a href="" class="links">Work</a></li>
-        <li><a href="" class="links">Contact</a></li>
-    </ul>
-    
     <div id="div_top_hypers">
     <ul id="ul_top_hypers">
-        <li>&#8227; <a href="" class="a_top_hypers"> Inbox</a></li>
-        <li>&#8227; <a href="" class="a_top_hypers"> Compose</a></li>
+        <li><a href="" class="a_top_hypers"> Inbox</a></li>
+        <li><a href="" class="a_top_hypers"> Compose</a></li>
     </ul>
 </div>
 
