@@ -1,13 +1,13 @@
 ---
 title: Carglass
-date: 2018-08-09T18:05:37.000+00:00
-thumbnail: "/upload/Carglass_Images_1.jpg"
-year: '2018'
 description: How to fix a broken service
+thumbnail: "/upload/Carglass_Images_1.jpg"
+services: Relaunch, Booking Service, Corporate Site
 categories:
 - UX
 - Design Lead
-services: Relaunch, Booking Service, Corporate Site
+year: 2018
+date: 
 
 ---
 ### Issue
