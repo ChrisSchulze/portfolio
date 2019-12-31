@@ -40,7 +40,7 @@
     z-index: 10;
   }
 
-  .navigation li {
+  .nav li {
     display: inline-block;
     list-style: none;
     margin-right: 1rem;
