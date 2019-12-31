@@ -22,7 +22,7 @@
     </column>
     
     <column>
-    <img href="">
+    <img href="/upload/compo_image_1-2.jpg">
     </column>
 
 
