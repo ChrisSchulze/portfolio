@@ -39,7 +39,7 @@
         
         <div class="more">
         <h3>More Projects</h3>
-        <p>Explore</p>
+        <p><a href="$page.frontmatter.project_url">{{ $page.frontmatter.project_name }}</a></p>
         </div>
       </div>
 
