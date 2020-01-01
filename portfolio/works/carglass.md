@@ -42,6 +42,6 @@ For the corporate site we followed the idea that **„Carglass is always close**
 
 When TNS Kantar checked the sites brand fit in 2017 it had the best score of all of carglass' touchpoints at that time. Which made us especially proud. Unfortunately Carglass chose to implement a new branding shortly after. One year after launch the site had to be skinned. So I chose to focus on merging the disciplines of UX and branding in my future work.
 
-\### **Next Project**
+### **Next Project**
 
-\[Compo\](/works/compo.html)
+[Compo](/works/compo.html)
