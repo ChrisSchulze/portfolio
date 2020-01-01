@@ -13,6 +13,7 @@ next_project:
   project_name: Carglass
   project_url: http://www.janchristianschulze.de/works/carglass.html
 project_name: Carglass
+project_url: http://www.janchristianschulze.de/works/carglass.html
 
 ---
 ### **Issue**
