@@ -9,7 +9,7 @@
         </div>
       </column>
       <column>
-        <p style="padding-bottom:0 !important;">I'm always happy to meet new people. Give me a call <span class="contact">+49 1157 39 240 376</span> or send me an <span class="contact">email.</span></p>
+        <p class="hero">I'm always happy to meet new people. Give me a call <span class="contact">+49 1157 39 240 376</span> or send me an <span class="contact">email.</span></p>
       </column>
       <column>
         <img src="/upload/logo.png">
@@ -28,7 +28,11 @@
     padding-bottom: 10rem;
   }
   
-  .einleser .contact {
+  .hero {
+  margin: 0 0 0 0 !important;
+  }
+  
+  .hero .contact {
   color: #333333; }
 
 #div_top_hypers {
