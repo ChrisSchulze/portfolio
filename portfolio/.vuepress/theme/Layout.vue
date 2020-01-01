@@ -97,9 +97,6 @@
   :root {
     --color-black: #1c1c1c;
     --color-highlight: rgba(249, 233, 172, 0.99);
-    --padding-big: 160px;
-    --padding-medium: 120px;
-    --padding-small: 80px;
   }
 
   * {
@@ -128,13 +125,25 @@
       line-height: 21.5px;
       background: #1D1D1F;
       color: #595959;
+      --padding-big: 160px;
+      --padding-medium: 120px;
+      --padding-small: 80px;
   }
   
   @media (max-width: 900px) {
-      html { font-size: 15px; }
+      html { 
+        font-size: 15px; 
+        --padding-big: 120px;
+        --padding-medium: 80px;
+        --padding-small: 40px;}
   }
   @media (max-width: 400px) {
-      html { font-size: 13px; }
+  
+      html { 
+        font-size: 13px;
+        --padding-big: 80px;
+        --padding-medium: 40px;
+        --padding-small: 24px;}}
   }
   
   body {
