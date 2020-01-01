@@ -251,9 +251,9 @@
     .post {
     position: relative;
     width: 100%;
-    padding--bottom: 160px;
-    margin-bottom: 5vw;
-    cursor: pointer;
+    padding: 6rem 0rem 6rem 0rem;
+    margin-bottom: 2rem;
+    cursor: default;
   }
 
 </style>
