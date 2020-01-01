@@ -150,9 +150,10 @@
     margin: 0 auto;
   }
   
-    a {
+  a, a:link, a:visited {
     width: 100%;
     max-width: 870px;
+    color: #595959;
   }
 
   h3,h5,h6,p {
