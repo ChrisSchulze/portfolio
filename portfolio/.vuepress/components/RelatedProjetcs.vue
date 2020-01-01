@@ -1,8 +1,13 @@
 <template>
-        <div class="header>
+
+  <div class="header">
+
+    <div class="column-big">
         <h3>More Projects</h3>
         <p>{{ title }}</p>
-        </div>
+    </div>
+
+  </div>
 </template>
 
 <script>
