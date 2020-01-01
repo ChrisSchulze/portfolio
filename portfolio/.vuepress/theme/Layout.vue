@@ -97,10 +97,7 @@
   :root {
     --color-black: #1c1c1c;
     --color-highlight: rgba(249, 233, 172, 0.99);
-  }
-
-  :root {
-    --padding-big: padding(0rem 0rem 10rem 0rem);
+    --padding-big: 10rem;
   }
 
   * {
