@@ -4,7 +4,7 @@
 
     <div class="column-big">
         <h3>More Projects</h3>
-        <p>{{ title }}</p>
+        <p>{{ project_name }}</p>
     </div>
 
   </div>
@@ -13,7 +13,7 @@
 <script>
   export default {
     props: {
-      title: {
+      project_name: {
         type: String,
         required: true
       },
