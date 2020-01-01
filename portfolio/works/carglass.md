@@ -1,7 +1,7 @@
 ---
 title: Carglass
 description: How to fix a broken service
-permalink: /carglass
+permalink: "/carglass"
 thumbnail: "/upload/Carglass_Images_1.jpg"
 services: Relaunch, Booking Service, Corporate Site
 categories:
@@ -12,6 +12,8 @@ date:
 next_project:
   project_name: Compo
   project_url: http://www.janchristianschulze.de/works/compo.html
+project_name: ''
+project_url: ''
 
 ---
 ### Issue
@@ -39,3 +41,7 @@ For the corporate site we followed the idea that **„Carglass is always close**
 ### One more thing
 
 When TNS Kantar checked the sites brand fit in 2017 it had the best score of all of carglass' touchpoints at that time. Which made us especially proud. Unfortunately Carglass chose to implement a new branding shortly after. One year after launch the site had to be skinned. So I chose to focus on merging the disciplines of UX and branding in my future work.
+
+\### **Next Project**
+
+\[Compo\](/works/compo.html)
