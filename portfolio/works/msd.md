@@ -9,6 +9,9 @@ categories:
 - " Design Lead"
 year: 2019
 date: 
+next_project:
+  project_name: Carglass
+  project_url: http://www.janchristianschulze.de/works/carglass.html
 
 ---
 ### **Issue**
