@@ -25,7 +25,7 @@
     width: 100%;
     font-size: 0.8rem;
     font-weight: 400;
-    padding-bottom: 10rem;
+    padding-bottom: var(--padding-big);
   }
   
   .hero {
