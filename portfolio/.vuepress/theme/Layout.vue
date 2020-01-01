@@ -97,7 +97,7 @@
   :root {
     --color-black: #1c1c1c;
     --color-highlight: rgba(249, 233, 172, 0.99);
-    --padding-big: 10rem;
+    --padding-big: 160px;
   }
 
   * {
@@ -252,7 +252,7 @@
     .post {
     position: relative;
     width: 100%;
-    padding: var(--padding-big);
+    padding-bottom: var(--padding-big);
     margin-bottom: 2rem;
     cursor: default;
   }
