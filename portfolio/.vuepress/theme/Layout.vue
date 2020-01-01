@@ -161,6 +161,7 @@
     width: 100%;
     max-width: 870px;
     color: #595959;
+    text-decoration: none;
   }
 
   h3,h5,h6,p {
