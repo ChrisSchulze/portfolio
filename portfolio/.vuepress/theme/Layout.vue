@@ -38,8 +38,8 @@
         <Content/>
         
         <RelatedProjetcs
-        :project_url="$page.frontmatter.services"
-        :project_name="$page.frontmatter.services"
+        :project_url="$page.frontmatter.project_url"
+        :project_name="$page.frontmatter.project_name"
         />
 
       <!-- Journal list -->
