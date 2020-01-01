@@ -12,7 +12,7 @@
         <p class="hero">I'm always happy to meet new people. Give me a call <span class="contact">+49 1157 39 240 376</span> or send me an <span class="contact">email.</span></p>
       </column>
       <column>
-        <img src="/upload/logo.png">
+        <img class="logo" src="/upload/logo.png">
       </column>
   </footers>
 </template>
@@ -23,7 +23,6 @@
     display: flex;
     justify-content:  space-between;
     width: 100%;
-    height: auto;
     font-size: 0.8rem;
     font-weight: 400;
     padding-bottom: 10rem;
@@ -35,6 +34,10 @@
   
   .hero .contact {
   color: #333333; }
+  
+  .logo {
+  margin: 0 0 0 0;
+  }
 
 #div_top_hypers {
     background-color:#eeeeee;
