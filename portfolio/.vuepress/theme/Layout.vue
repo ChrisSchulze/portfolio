@@ -156,6 +156,7 @@
     width: 100%;
     max-width: 100%;
     line-height: 0;
+    margin: auto auto auto auto;
     padding-bottom: var(--padding-big);
   }
 
