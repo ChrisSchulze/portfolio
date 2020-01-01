@@ -128,6 +128,7 @@
       --padding-big: 160px;
       --padding-medium: 120px;
       --padding-small: 80px;
+      --padding-xsmall: 40px;
   }
   
   @media (max-width: 900px) {
@@ -135,7 +136,9 @@
         font-size: 15px; 
         --padding-big: 120px;
         --padding-medium: 80px;
-        --padding-small: 40px;}
+        --padding-small: 40px;
+        --padding-xsmall: 40px;
+        }
   }
   @media (max-width: 400px) {
   
@@ -143,7 +146,9 @@
         font-size: 13px;
         --padding-big: 80px;
         --padding-medium: 40px;
-        --padding-small: 24px;}
+        --padding-small: 24px;
+        --padding-xsmall: 24px;
+        }
   }
   
   body {
@@ -236,7 +241,7 @@
   }
   
   .einleser {
-  margin: auto auto 2.25rem auto !important;
+  padding-bottom: var(--padding-xsmall);
   }
   
   .label {
