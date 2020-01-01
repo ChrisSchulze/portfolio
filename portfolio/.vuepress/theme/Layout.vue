@@ -38,7 +38,6 @@
         <Content/>
         
         <RelatedProjetcs
-        :project_url="$page.frontmatter.project_url"
         :project_name="$page.frontmatter.project_name"
         />
 
