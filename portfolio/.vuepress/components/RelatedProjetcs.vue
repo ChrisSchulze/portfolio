@@ -1,10 +1,7 @@
 <template>
-
   <div class="header">
-
         <h3>More Projects</h3>
         <p><a href="{{ project_url }}">{{ project_name }}</a></p>
-
   </div>
 </template>
 
