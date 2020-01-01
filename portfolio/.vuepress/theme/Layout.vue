@@ -156,7 +156,7 @@
     width: 100%;
     max-width: 100%;
     line-height: 0;
-    margin: auto auto 10rem auto;
+    padding-bottom: var(--padding-big);
   }
 
   .container {
@@ -230,7 +230,7 @@
     font-size: 1.5rem;
     line-height: 1.5;
     letter-spacing: 1.25px;
-    margin: auto auto 10rem auto;
+    padding-bottom: var(--padding-big);
   }
   
   .einleser {
