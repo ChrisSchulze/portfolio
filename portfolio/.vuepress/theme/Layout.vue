@@ -37,11 +37,10 @@
         
         <Content/>
         
-        <div class="more">
-        <h3>More Projects</h3>
-        <p>{{ $page.frontmatter.project_name }}</p>
-        </div>
-      </div>
+        <RelatedProjetcs
+        :project_url="$page.frontmatter.services"
+        :project_name="$page.frontmatter.services"
+        />
 
       <!-- Journal list -->
       <div v-if="$route.path === '/journal/'" class="journal-list">
