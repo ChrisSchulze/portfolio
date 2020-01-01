@@ -36,11 +36,6 @@
         <div id="custom"><img :src="$page.frontmatter.thumbnail"></div>
         
         <Content/>
-        
-        <RelatedProjetcs
-        :project_name="$page.frontmatter.project_name"
-        :project_url="$page.frontmatter.project_url"
-        />
 
       <!-- Journal list -->
       <div v-if="$route.path === '/journal/'" class="journal-list">
