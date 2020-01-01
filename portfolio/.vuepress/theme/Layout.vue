@@ -98,6 +98,8 @@
     --color-black: #1c1c1c;
     --color-highlight: rgba(249, 233, 172, 0.99);
     --padding-big: 160px;
+    --padding-medium: 120px;
+    --padding-small: 80px;
   }
 
   * {
