@@ -230,6 +230,7 @@
     font-size: 1.5rem;
     line-height: 1.5;
     letter-spacing: 1.25px;
+    margin: auto auto auto auto;
     padding-bottom: var(--padding-big);
   }
   
