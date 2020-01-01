@@ -143,7 +143,7 @@
         font-size: 13px;
         --padding-big: 80px;
         --padding-medium: 40px;
-        --padding-small: 24px;}}
+        --padding-small: 24px;}
   }
   
   body {
