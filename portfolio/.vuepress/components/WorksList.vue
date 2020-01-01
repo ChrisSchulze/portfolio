@@ -42,14 +42,6 @@
 </script>
 
 <style scoped>
-
-  .post {
-    position: relative;
-    width: 100%;
-    padding: 6rem 0rem 6rem 0rem;
-    margin-bottom: 2rem;
-    cursor: default;
-  }
   
   .project-list {
     margin-top: 8rem;
