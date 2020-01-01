@@ -9,7 +9,7 @@
         </div>
       </column>
       <column>
-        <p class="einleser">I'm always happy to meet new people. Give me a call <span class="contact">+49 1157 39 240 376</span> or send me an <span class="contact">email.</span></p>
+        <p style="padding-bottm:0 !important;">I'm always happy to meet new people. Give me a call <span class="contact">+49 1157 39 240 376</span> or send me an <span class="contact">email.</span></p>
       </column>
       <column>
         <img src="/upload/logo.png">
