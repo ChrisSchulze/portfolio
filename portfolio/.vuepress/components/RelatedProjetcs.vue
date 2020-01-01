@@ -4,7 +4,7 @@
 
     <div class="column-big">
         <h3>More Projects</h3>
-        <p><a href="{{ project_url }}">{{ project_name }}</p>
+        <p><a href="{{ project_url }}">{{ project_name }}</a></p>
     </div>
 
   </div>
