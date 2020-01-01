@@ -99,6 +99,10 @@
     --color-highlight: rgba(249, 233, 172, 0.99);
   }
 
+  :root {
+    --padding-big: padding(0rem 0rem 10rem 0rem);
+  }
+
   * {
     box-sizing: border-box;
     margin: 0;
@@ -251,7 +255,7 @@
     .post {
     position: relative;
     width: 100%;
-    padding: 0rem 0rem 10rem 0rem;
+    padding: var(--padding-big);
     margin-bottom: 2rem;
     cursor: default;
   }
