@@ -23,6 +23,7 @@
     display: flex;
     justify-content:  space-between;
     width: 100%;
+    height: auto;
     font-size: 0.8rem;
     font-weight: 400;
     padding-bottom: 10rem;
