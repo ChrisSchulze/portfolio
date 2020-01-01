@@ -44,7 +44,7 @@
 <style scoped>
   
   .project-list {
-    margin-top: 8rem;
+    margin-top: 10rem;
     }
     
      .the-arrow {
