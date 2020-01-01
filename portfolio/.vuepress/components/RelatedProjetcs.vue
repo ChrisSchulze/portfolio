@@ -1,8 +1,8 @@
 <template>
-
+        <div class="header>
         <h3>More Projects</h3>
         <p>{{ title }}</p>
-
+        </div>
 </template>
 
 <script>
