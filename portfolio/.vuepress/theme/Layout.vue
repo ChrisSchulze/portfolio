@@ -39,6 +39,7 @@
         
         <RelatedProjetcs
         :project_name="$page.frontmatter.project_name"
+        :project_url="$page.frontmatter.project_url"
         />
 
       <!-- Journal list -->
