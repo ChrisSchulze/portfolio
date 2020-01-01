@@ -38,7 +38,7 @@
         <Content/>
         
         <RelatedProjetcs
-        :title="$page.frontmatter.title"
+        :project_name="$page.frontmatter.project_name"
         />
 
       <!-- Journal list -->
