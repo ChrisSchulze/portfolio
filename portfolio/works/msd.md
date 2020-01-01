@@ -40,4 +40,4 @@ Exhibitions are most valuable if visitors can relate. That's why we try to perso
 
 ### **Next Projects**
 
-[Carglass](/works/carglass)
+[Carglass](/works/carglass.html)
