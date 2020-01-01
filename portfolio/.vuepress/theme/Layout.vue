@@ -264,7 +264,6 @@
     position: relative;
     width: 100%;
     padding-bottom: var(--padding-big);
-    margin-bottom: 2rem;
     cursor: default;
   }
 
