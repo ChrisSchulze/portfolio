@@ -4,7 +4,7 @@
 
     <div class="column-big">
         <h3>More Projects</h3>
-        <p>{{ project_name }}</p>
+        <p><a href="{{ project_url }}">{{ project_name }}</p>
     </div>
 
   </div>
@@ -14,6 +14,10 @@
   export default {
     props: {
       project_name: {
+        type: String,
+        required: true
+      },
+      project_url: {
         type: String,
         required: true
       },
