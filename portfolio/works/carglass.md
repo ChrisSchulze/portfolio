@@ -1,6 +1,7 @@
 ---
 title: Carglass
 description: How to fix a broken service
+permalink: /carglass
 thumbnail: "/upload/Carglass_Images_1.jpg"
 services: Relaunch, Booking Service, Corporate Site
 categories:
