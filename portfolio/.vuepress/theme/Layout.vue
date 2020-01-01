@@ -127,6 +127,13 @@
       color: #595959;
   }
   
+  @media (max-width: 900px) {
+      html { font-size: 15px; }
+  }
+  @media (max-width: 400px) {
+      html { font-size: 13px; }
+  }
+  
   body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Noto Sans", "Ubuntu", "Droid Sans", "Helvetica Neue", sans-serif;
     -webkit-font-smoothing: antialiased;
