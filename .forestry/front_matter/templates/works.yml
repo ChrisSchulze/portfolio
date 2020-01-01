@@ -43,7 +43,12 @@ fields:
   type: text
   config:
     required: false
-  label: project name
+  label: Next Project Name
+- name: project_url
+  type: text
+  config:
+    required: false
+  label: Next Project URL
 pages:
 - portfolio/works/carglass.md
 - portfolio/works/compo.md
