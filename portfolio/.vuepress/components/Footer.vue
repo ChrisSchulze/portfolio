@@ -29,7 +29,7 @@
   }
   
   .hero {
-  margin: 0 0 0 0 !important;
+  padding-bottom: 0 !impotant;
   }
   
   .hero .contact {
