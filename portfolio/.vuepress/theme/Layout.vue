@@ -251,7 +251,7 @@
     .post {
     position: relative;
     width: 100%;
-    
+    padding: 0rem 0rem 10rem 0rem;
     margin-bottom: 2rem;
     cursor: default;
   }
