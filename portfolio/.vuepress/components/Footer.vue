@@ -1,36 +1,27 @@
 <template>
-  <footer class="footer" >
-  
-    <column id="nav">
-    <div id="div_top_hypers">
-    <ul id="ul_top_hypers">
-        <li><a href="" class="a_top_hypers">Work</a></li>
-        <li><a href="" class="a_top_hypers">Contact</a></li>
-    </ul>
-</div>
-
-    </column>
-    
-    
-    
-    <column>
-      <p class="einleser">I'm always happy to meet new people. Give me a call <span class="contact">+49 1157 39 240 376</span> or send me an <span class="contact">email.</span></p>
-    </column>
-    
-    <column>
-      <img src="/upload/logo.png">
-    </column>
-
+  <footer class="footer" >  
+      <column id="nav">
+        <div id="div_top_hypers">
+          <ul id="ul_top_hypers">
+            <li><a href="" class="a_top_hypers">Work</a></li>
+            <li><a href="" class="a_top_hypers">Contact</a></li>
+          </ul>
+        </div>
+      </column>
+      <column>
+        <p class="einleser">I'm always happy to meet new people. Give me a call <span class="contact">+49 1157 39 240 376</span> or send me an <span class="contact">email.</span></p>
+      </column>
+      <column>
+        <img src="/upload/logo.png">
+      </column>
   </footers>
 </template>
-
 
 <style scoped>
 
   .footer {
     display: flex;
     justify-content:  space-between;
-    padding: 5vw;
     width: 100%;
     font-size: 0.8rem;
     font-weight: 400;
