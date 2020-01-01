@@ -42,7 +42,6 @@
 
   .column {
     flex: 0 0 33.33%;
-    height: auto;
   }
 
   .label {
