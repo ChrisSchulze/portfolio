@@ -1,22 +1,16 @@
 <template>
   <div class="header">
         <h3>More Projects</h3>
-        <p><a href="{{ project_url }}">{{ project_name }}</a></p>
+        <p>{{ project_name }}</p>
   </div>
 </template>
 
 <script>
   export default {
-    props: {
-      project_url: {
-        type: String,
-        required: true
-      },
       year: {
         project_name: String,
         required: true
       },
-    }
   }
 </script>
 
