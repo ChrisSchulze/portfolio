@@ -61,7 +61,6 @@
 }
 
   .label {
-    margin-bottom: 0.25em;
     font-weight: 700;
   }
   
