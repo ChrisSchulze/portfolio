@@ -41,7 +41,7 @@
 
 <style scoped>
 
-  .desription {
+  .description {
     display: flex;
     width: 100%;
     max-width: 870px;
