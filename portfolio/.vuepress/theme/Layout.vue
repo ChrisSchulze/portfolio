@@ -253,8 +253,8 @@
       }
 
   p {
-    font-size: 1.5rem;
-    line-height: 1.5;
+    font-size: 1.5em;
+    line-height: 1.5em;
     letter-spacing: 1.25px;
     margin: auto auto auto auto;
     padding-bottom: var(--padding-big);
@@ -263,14 +263,14 @@
   @media (max-width: 900px) {
       p {
           font-size: 1.25em;
-          line-height: 1em;
+          line-height: 1.25em;
         }
   }
   
   @media (max-width: 400px) {
       p { 
-          font-size: 1.25em;
-          line-height: 1em;
+          font-size: 1em;
+          line-height: 1.25em;
         }
   }
   
