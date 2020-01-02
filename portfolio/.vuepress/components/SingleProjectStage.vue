@@ -56,7 +56,6 @@
     font-weight: 700;
     color: #333333;
     margin: 0 auto 0 auto;
-    padding-bottom: var(--padding-xsmall);
   }
 
   .categories:after {
