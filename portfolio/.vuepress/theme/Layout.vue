@@ -197,8 +197,8 @@
   h1 {
     width: 100%;
     max-width: 870px;
-    font-size: 6.854 em;
-    line-height: 6.854 em;
+    font-size: 6.854em;
+    line-height: 6.854em;
     font-weight: 700;
     color: #D1D1D2;
     margin: 0 auto 3rem auto;
