@@ -210,7 +210,6 @@
       h1 {
           font-size: 4.236em;
           line-height: 1em;
-          margin: auto auto auto auto;
           padding-bottom: var(--padding-big);
         }
   }
@@ -219,7 +218,6 @@
       h1 { 
           font-size: 2.618em;
           line-height: 1em;
-          margin: auto auto auto auto;
           padding-bottom: var(--padding-big);
         }
   }
