@@ -142,8 +142,6 @@
   
   @media (max-width: 900px) {
       html { 
-        font-size: 15px; 
-        
         --padding-big: 120px;
         --padding-medium: 80px;
         --padding-small: 40px;
@@ -153,8 +151,6 @@
   @media (max-width: 400px) {
   
       html { 
-        font-size: 13px;
-        
         --padding-big: 80px;
         --padding-medium: 40px;
         --padding-small: 24px;
@@ -208,14 +204,26 @@
     margin: 0 auto 3rem auto;
   }
   
+    @media (max-width: 900px) {
+      h1 {
+          font-size: 4.25rem;
+          line-height: 4.25rem;
+        }
+  }
+  
+    @media (max-width: 400px) {
+      h1 { 
+          font-size: 2.25rem;
+          line-height: 2.25rem;
+        }
+  }
+  
   .outline {
   color: transparent;
   text-stroke: 0.5px rgba(210,210,210, 1);
   -webkit-text-stroke: 0.5px rgba(210,210,210, 1); 
   }
   
-  .post h1::after {
- }
  
   h2 {
     width: 100%;
