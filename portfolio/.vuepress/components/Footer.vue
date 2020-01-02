@@ -1,6 +1,6 @@
 <template>
   <footer class="footer" >  
-      <column id="nav">
+      <column class="nav">
         <div id="div_top_hypers">
           <ul id="ul_top_hypers">
             <li><a href="/" class="a_top_hypers">Work</a></li>
@@ -11,8 +11,8 @@
       <column>
         <p class="hero">I'm always happy to meet new people. Give me a call <span class="contact">+49 1157 39 240 376</span> or send me an <span class="contact">email.</span></p>
       </column>
-      <column>
-        <img class="logo" src="/upload/logo.png">
+      <column class="logo">
+        <img class="small" src="/upload/logo.png">
       </column>
   </footers>
 </template>
@@ -50,8 +50,11 @@
   justify-self: start;
   }
   
-  .logo {
+    .logo {
   justify-self: end;
+  }
+  
+  .small {
   margin: 0 0 0 0;
   width: 80px;
   height: auto;
