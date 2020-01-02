@@ -154,10 +154,6 @@
   
       html { 
         font-size: 13px;
-        h1:
-        h3:
-        p:
-        
         
         --padding-big: 80px;
         --padding-medium: 40px;
