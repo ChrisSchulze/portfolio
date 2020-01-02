@@ -125,6 +125,7 @@
 	 text-decoration: none;
 	 position: relative;
 	 transition: all 0.2s;
+	 padding-top: var(--padding-xsmall);
 }
  .animated-arrow:hover {
 	 color: #eaeaea;
