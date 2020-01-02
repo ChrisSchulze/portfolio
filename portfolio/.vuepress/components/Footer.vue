@@ -23,7 +23,7 @@
     display: flex;
     justify-content: space-between;
     width: 100%;
-    font-size: 0.8rem;
+
     font-weight: 400;
     padding-bottom: var(--padding-big);
   }
