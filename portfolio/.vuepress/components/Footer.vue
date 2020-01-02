@@ -60,7 +60,7 @@
     display: inline;      
 }
 #ul_top_hypers li{
-    font-size: o.75em;
+    font-size: 0.75em !important;
     display: inline;  
 }
 
