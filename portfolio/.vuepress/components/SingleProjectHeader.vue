@@ -1,6 +1,6 @@
 <template>
 
-  <div class="header">
+  <div class="description">
 
     <div class="column-big">
       <Label class="label">What we did</Label>
@@ -41,11 +41,12 @@
 
 <style scoped>
 
-  .header {
+  .desription {
     display: flex;
     width: 100%;
     max-width: 870px;
     margin: 0 auto 0 auto;
+    padding-bottom: var(--padding-xsmall);
   }
 
   .column-big {
