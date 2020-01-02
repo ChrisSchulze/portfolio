@@ -60,11 +60,12 @@
     display: inline;      
 }
 #ul_top_hypers li{
+    font-size: o.75em;
     display: inline;  
 }
 
   #ul_nav li {
-    font-size: o.75em;
+    
     display: inline;
     list-style-type: none !important;
     user-select: none;
