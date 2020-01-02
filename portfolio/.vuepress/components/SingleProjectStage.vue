@@ -55,7 +55,8 @@
     letter-spacing: 0.75px;
     font-weight: 700;
     color: #333333;
-    margin: auto auto 0.25rem auto;
+    margin: 0 auto 0 auto;
+    padding-bottom: var(--padding-xsmall);
   }
 
   .categories:after {
