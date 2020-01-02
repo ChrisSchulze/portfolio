@@ -48,6 +48,8 @@
   
   .logo {
   margin: 0 0 0 0;
+  width: 80px;
+  height: auto;
   padding-bottom: 0px !important;
   }
 
