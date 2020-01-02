@@ -201,7 +201,7 @@
     line-height: 1em;
     font-weight: 700;
     color: #D1D1D2; 
-    margin: auto auto auto auto;
+    margin: 0 auto 0 auto;
     padding-bottom: var(--padding-big);
   }
   
