@@ -74,14 +74,14 @@
   
   @media (max-width: 900px) {
       .value {
-          font-size: 0.75em;
+          font-size: 1em;
           line-height: 1em;
         }
   }
   
   @media (max-width: 400px) {
       .value { 
-          font-size: 0.75em;
+          font-size: 1em;
           line-height: 0em;
         }
   }
