@@ -44,7 +44,7 @@
 <style scoped>
   
   .post h1 {
-  padding-bootom: 0px !important;
+  padding-bottom: 0px !important;
   }
   
   .project-list {
