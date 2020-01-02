@@ -201,13 +201,17 @@
     line-height: 1em;
     font-weight: 700;
     color: #D1D1D2;
-    margin: 0 auto 3rem auto;
+    
+    margin: auto auto auto auto;
+    padding-bottom: var(--padding-big);
   }
   
     @media (max-width: 900px) {
       h1 {
           font-size: 4.236em;
           line-height: 1em;
+          margin: auto auto auto auto;
+          padding-bottom: var(--padding-big);
         }
   }
   
@@ -215,6 +219,8 @@
       h1 { 
           font-size: 2.618em;
           line-height: 1em;
+          margin: auto auto auto auto;
+          padding-bottom: var(--padding-big);
         }
   }
   
