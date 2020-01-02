@@ -96,14 +96,14 @@
 
 @font-face {
 font-family: "PilatWideDemi";
-src: url("https://yoursite.com/css/fonts/CustomFont.woff") format("woff"),
-src: url("https://yoursite.com/css/fonts/CustomFont.woff") format("woff2");
+src: url("http://www.janchristianschulze.de/fonts/PilatWide-Demi.woff") format("woff"),
+src: url("http://www.janchristianschulze.de/fonts/PilatWide-Demi.woff2") format("woff2");
 }
 
 @font-face {
 font-family: "PilatBook";
-src: url("https://yoursite.com/css/fonts/CustomFont.woff") format("woff"),
-src: url("https://yoursite.com/css/fonts/CustomFont.woff") format("woff2");
+src: url("http://www.janchristianschulze.de/fonts/Pilat-Book.woff") format("woff"),
+src: url("http://www.janchristianschulze.de/fonts/Pilat-Book.woff2") format("woff2");
 }
 
   :root {
