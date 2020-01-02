@@ -36,7 +36,8 @@
     display: flex;
     width: 100%;
     max-width: 870px;
-    margin: 0 auto 0 auto;
+    margin: 0 auto 0 auto !important;
+    padding: 0 0 0 0 !important;
   }
 
   .column {
