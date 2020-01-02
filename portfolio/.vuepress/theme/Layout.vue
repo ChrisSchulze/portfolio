@@ -121,10 +121,19 @@
   }
 
   html {
+  
+      /* Font */
+
       font-size: 16px;
       line-height: 21.5px;
+      
+      /* Colors */
+      
       background: #1D1D1F;
       color: #595959;
+      
+      /* Padding */
+      
       --padding-big: 160px;
       --padding-medium: 120px;
       --padding-small: 80px;
@@ -134,6 +143,7 @@
   @media (max-width: 900px) {
       html { 
         font-size: 15px; 
+        
         --padding-big: 120px;
         --padding-medium: 80px;
         --padding-small: 40px;
@@ -144,6 +154,11 @@
   
       html { 
         font-size: 13px;
+        h1:
+        h3:
+        p:
+        
+        
         --padding-big: 80px;
         --padding-medium: 40px;
         --padding-small: 24px;
