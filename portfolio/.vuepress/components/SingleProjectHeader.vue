@@ -60,15 +60,7 @@
   flex-basis: 180px;
 }
 
-  .column-big {
-    flex: 1 1 66%;
-    padding: 8px;
-  }
-  
-  .column {
-    flex: 1 1 33%;
-    padding: 8px;
-  }
+
 
   .label {
     margin-bottom: 0.5rem;
