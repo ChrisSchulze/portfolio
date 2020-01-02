@@ -31,28 +31,20 @@
     padding-bottom: var(--padding-big);
   }
   
-  
-  .footer > * {
-  flex-grow: 1;
-  flex-shrink: 1;
-  flex-basis: 320px;
-}
-  
-  
-  .hero {
-  padding-bottom: 0px !important;
-  }
-  
-  .hero .contact {
-  color: #333333; 
-  }
-  
   .nav {
   justify-self: start;
   }
   
     .logo {
   justify-self: end;
+  }
+  
+    .hero {
+  padding-bottom: 0px !important;
+  }
+  
+  .hero .contact {
+  color: #333333; 
   }
   
   .small {
