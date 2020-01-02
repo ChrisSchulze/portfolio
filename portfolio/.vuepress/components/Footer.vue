@@ -8,7 +8,7 @@
           </ul>
         </div>
       </column>
-      <column>
+      <column class="text">
         <p class="hero">I'm always happy to meet new people. Give me a call <span class="contact">+49 1157 39 240 376</span> or send me an <span class="contact">email.</span></p>
       </column>
       <column class="logo">
@@ -35,8 +35,24 @@
   justify-self: start;
   }
   
+  .text {
+  justify-self: center;
+  }
+  
     .logo {
   justify-self: end;
+  }
+  
+  @media (max-width: 900px) {
+      .nav, .text, .logo { 
+    padding-bottom: var(--padding-xsmall);
+        }
+  }
+  
+  @media (max-width: 400px) {
+      .nav, .text, .logo { 
+    padding-bottom: var(--padding-xsmall);
+        }
   }
   
     .hero {
