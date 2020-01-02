@@ -78,6 +78,7 @@
 }
 #ul_top_hypers li{
     font-size: 0.75em !important;
+    padding-right: 0.5em;
     display: inline;  
 }
 
