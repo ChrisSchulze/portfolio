@@ -171,7 +171,7 @@ src: url("http://www.janchristianschulze.de/fonts/Pilat-Book.woff2") format("wof
   }
   
   body {
-    font-family: "PilatBook", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Noto Sans", "Ubuntu", "Droid Sans", "Helvetica Neue", sans-serif;  
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Noto Sans", "Ubuntu", "Droid Sans", "Helvetica Neue", sans-serif;  
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }
