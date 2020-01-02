@@ -25,7 +25,7 @@
     width: 100%;
     font-size: 0.8rem;
     font-weight: 400;
-
+    padding-bottom: var(--padding-big);
   }
   
   .hero {
@@ -37,6 +37,7 @@
   
   .logo {
   margin: 0 0 0 0;
+  padding-bottom: 0px !important;
   }
 
 #div_top_hypers {
