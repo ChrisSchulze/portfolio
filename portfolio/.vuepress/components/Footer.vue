@@ -57,17 +57,16 @@
 
 #div_top_hypers {
     background-color:#eeeeee;
-    display:inline;      
+    display: inline;      
 }
 #ul_top_hypers li{
-    display: inline;
-    
+    display: inline;  
 }
 
   #ul_nav li {
+    font-size: o.75em;
     display: inline;
     list-style-type: none !important;
-    margin-right: 1rem;
     user-select: none;
     cursor: pointer;
     border-bottom: 1px solid transparent;
