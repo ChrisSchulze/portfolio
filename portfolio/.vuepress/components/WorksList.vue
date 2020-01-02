@@ -44,8 +44,11 @@
 <style scoped>
   
   .post h1 {
-  padding-top: var(--padding-xsmall);
   padding-bottom: 0px !important;
+  }
+  
+  .post h4 {
+  padding-top: var(--padding-xsmall);
   }
   
   .project-list {
