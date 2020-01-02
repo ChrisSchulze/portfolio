@@ -58,11 +58,8 @@
   flex-shrink: 1;
   flex-basis: 200px;
   padding-bottom: var(--padding-small);
+  padding-right: var(--padding-xsmall);
 }
-
-.column {
-  padding-right: var(--padding--xsmall);
-  }
 
   .label {
     font-size: 0.6rem;
