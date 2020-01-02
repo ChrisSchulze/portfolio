@@ -46,7 +46,7 @@
 }
 #ul_top_hypers li{
     display: inline;
-    margin-right: 1rem;
+    
 }
 
   #ul_nav li {
