@@ -81,7 +81,7 @@
   }
   
   @media (max-width: 400px) {
-      p { 
+      .value { 
           font-size: 0.5em;
           line-height: 1.5em;
         }
