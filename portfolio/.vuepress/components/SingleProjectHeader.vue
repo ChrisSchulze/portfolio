@@ -70,7 +70,6 @@
     line-height: 1.5em;
     letter-spacing: 1.25px;
     margin: auto auto auto auto;
-    padding-bottom: var(--padding-big);
   }
   
   @media (max-width: 900px) {
