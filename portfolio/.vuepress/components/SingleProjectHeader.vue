@@ -63,9 +63,28 @@
     margin-bottom: 0.5rem;
     font-weight: 700;
   }
-
+  
   .value {
     font-weight: 400;
+    font-size: 1em;
+    line-height: 1.5em;
+    letter-spacing: 1.25px;
+    margin: auto auto auto auto;
+    padding-bottom: var(--padding-big);
+  }
+  
+  @media (max-width: 900px) {
+      .value {
+          font-size: 0.75em;
+          line-height: 1.5em;
+        }
+  }
+  
+  @media (max-width: 400px) {
+      p { 
+          font-size: 0.5em;
+          line-height: 1.5em;
+        }
   }
 
   .categories:after {
