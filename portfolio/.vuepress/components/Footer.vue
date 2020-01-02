@@ -46,7 +46,12 @@
   .hero .contact {
   color: #333333; }
   
+  .nav {
+  justify-self: start;
+  }
+  
   .logo {
+  justify-self: end;
   margin: 0 0 0 0;
   width: 80px;
   height: auto;
