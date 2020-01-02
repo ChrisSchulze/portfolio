@@ -95,14 +95,14 @@
 <style>
 @font-face {
 font-family: "PilatWideDemi";
-src: url("http:/fonts/PilatWide-Demi.woff") format("woff"),
-src: url("/fonts/PilatWide-Demi.woff2") format("woff2");
+src: url("/PilatWide-Demi.woff") format("woff"),
+src: url("/PilatWide-Demi.woff2") format("woff2");
 }
 
 @font-face {
 font-family: "PilatBook";
-src: url("/fonts/Pilat-Book.woff") format("woff"),
-src: url("/fonts/Pilat-Book.woff2") format("woff2");
+src: url("/Pilat-Book.woff") format("woff"),
+src: url("/Pilat-Book.woff2") format("woff2");
 }
 
 
