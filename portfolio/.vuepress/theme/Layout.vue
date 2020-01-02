@@ -97,7 +97,7 @@
 @font-face {
   font-family: "PilatWideDemi";
   src: local("Pilat Wide Demi"), local("Pilat-Wide-Demi"),
-    url("/portfolio/.vuepress/public/upload/PilatWide-Demi.woff") format("woff");
+    url("/upload/PilatWide-Demi.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
@@ -105,7 +105,7 @@
 @font-face {
   font-family: "PilatBook";
   src: local("Pilat Book"), local("Pilat-Book"),
-    url("/portfolio/.vuepress/public/upload/Pilat-Book.woff") format("woff");
+    url("/upload/Pilat-Book.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
