@@ -2,7 +2,7 @@
 
   <div class="description">
 
-    <div class="column-big">
+    <div class="column">
       <Label class="label">What we did</Label>
       <span class="value">{{ services }}</span>
     </div>
@@ -59,6 +59,10 @@
   flex-basis: 200px;
   padding-bottom: var(--padding-small);
 }
+
+.column {
+  padding-right: var(--padding--xsmall);
+  }
 
   .label {
     font-size: 0.6rem;
