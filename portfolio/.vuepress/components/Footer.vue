@@ -21,12 +21,23 @@
 
   .footer {
     display: flex;
+    display: -webkit-flex; /* Safari */
+    -webkit-flex-wrap: wrap; /* Safari 6.1+ */
+    flex-wrap: wrap;
     justify-content: space-between;
     width: 100%;
 
     font-weight: 400;
     padding-bottom: var(--padding-big);
   }
+  
+  
+  .footer > * {
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: 320px;
+}
+  
   
   .hero {
   padding-bottom: 0px !important;
