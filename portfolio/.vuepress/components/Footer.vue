@@ -44,7 +44,8 @@
   }
   
   .hero .contact {
-  color: #333333; }
+  color: #333333; 
+  }
   
   .nav {
   justify-self: start;
@@ -58,6 +59,7 @@
   margin: 0 0 0 0;
   width: 80px;
   height: auto;
+  align: right;
   padding-bottom: 0px !important;
   }
 
