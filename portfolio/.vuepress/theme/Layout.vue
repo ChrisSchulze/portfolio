@@ -197,8 +197,8 @@
   h1 {
     width: 100%;
     max-width: 870px;
-    font-size: 6.25rem;
-    line-height: 6.25rem;
+    font-size: 6.854 em;
+    line-height: 6.854 em;
     font-weight: 700;
     color: #D1D1D2;
     margin: 0 auto 3rem auto;
@@ -206,15 +206,15 @@
   
     @media (max-width: 900px) {
       h1 {
-          font-size: 4.25rem;
-          line-height: 4.25rem;
+          font-size: 4.236em;
+          line-height: 4.236em;
         }
   }
   
     @media (max-width: 400px) {
       h1 { 
-          font-size: 2.25rem;
-          line-height: 2.25rem;
+          font-size: 2.618em;
+          line-height: 2.618em;
         }
   }
   
