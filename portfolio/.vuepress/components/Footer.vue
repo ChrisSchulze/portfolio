@@ -52,6 +52,7 @@
   width: 80px;
   height: auto;
   align: right;
+  padding-top: 4px;
   padding-bottom: 0px !important;
   }
 
