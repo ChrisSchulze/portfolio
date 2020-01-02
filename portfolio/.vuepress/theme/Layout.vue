@@ -94,6 +94,18 @@
 
 <style>
 
+@font-face {
+font-family: "PilatWideDemi";
+src: url("https://yoursite.com/css/fonts/CustomFont.woff") format("woff"),
+src: url("https://yoursite.com/css/fonts/CustomFont.woff") format("woff2");
+}
+
+@font-face {
+font-family: "PilatBook";
+src: url("https://yoursite.com/css/fonts/CustomFont.woff") format("woff"),
+src: url("https://yoursite.com/css/fonts/CustomFont.woff") format("woff2");
+}
+
   :root {
     --color-black: #1c1c1c;
     --color-highlight: rgba(249, 233, 172, 0.99);
