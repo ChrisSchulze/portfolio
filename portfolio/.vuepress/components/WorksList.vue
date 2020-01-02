@@ -43,6 +43,10 @@
 
 <style scoped>
   
+  .post h1 {
+  padding-bootom: 0px !important;
+  }
+  
   .project-list {
     margin-top: 10rem;
     }
