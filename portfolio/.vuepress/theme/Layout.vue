@@ -200,8 +200,7 @@
     font-size: 6.854em;
     line-height: 1em;
     font-weight: 700;
-    color: #D1D1D2;
-    
+    color: #D1D1D2; 
     margin: auto auto auto auto;
     padding-bottom: var(--padding-big);
   }
@@ -210,7 +209,6 @@
       h1 {
           font-size: 4.236em;
           line-height: 1em;
-          padding-bottom: var(--padding-big);
         }
   }
   
@@ -218,7 +216,6 @@
       h1 { 
           font-size: 2.618em;
           line-height: 1em;
-          padding-bottom: var(--padding-big);
         }
   }
   
@@ -261,6 +258,20 @@
     letter-spacing: 1.25px;
     margin: auto auto auto auto;
     padding-bottom: var(--padding-big);
+  }
+  
+  @media (max-width: 900px) {
+      p {
+          font-size: 1.25em;
+          line-height: 1em;
+        }
+  }
+  
+  @media (max-width: 400px) {
+      p { 
+          font-size: 1.25em;
+          line-height: 1em;
+        }
   }
   
   .einleser {
