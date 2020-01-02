@@ -93,18 +93,22 @@
 </script>
 
 <style>
+
 @font-face {
-font-family: "PilatWideDemi";
-src: url("/PilatWide-Demi.woff") format("woff"),
-src: url("/PilatWide-Demi.woff2") format("woff2");
+  font-family: "PilatWideDemi";
+  src: local("Pilat Wide Demi"), local("Pilat-Wide-Demi"),
+    url("assets/PilatWide-Demi.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
 }
 
 @font-face {
-font-family: "PilatBook";
-src: url("/Pilat-Book.woff") format("woff"),
-src: url("/Pilat-Book.woff2") format("woff2");
+  font-family: "PilatBook";
+  src: local("Pilat Book"), local("Pilat-Book"),
+    url("assets/Pilat-Book.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
 }
-
 
   :root {
     --color-black: #1c1c1c;
@@ -207,7 +211,6 @@ src: url("/Pilat-Book.woff2") format("woff2");
   }
 
   h1 {
-    font-family: "PilatWideDemi";
     width: 100%;
     max-width: 870px;
     font-size: 6.854em;
