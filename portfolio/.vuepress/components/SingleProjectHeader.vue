@@ -45,9 +45,20 @@
     display: flex;
     width: 100%;
     max-width: 870px;
+    
+    display: -webkit-flex; /* Safari */
+    -webkit-flex-wrap: wrap; /* Safari 6.1+ */
+    flex-wrap: wrap;
+    
     margin: 0 auto 0 auto;
     padding-bottom: var(--padding-xsmall);
   }
+  
+  .description > * {
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: 180px;
+}
 
   .column-big {
     flex: 1 1 66%;
