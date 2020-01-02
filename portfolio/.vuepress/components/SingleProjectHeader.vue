@@ -82,7 +82,7 @@
   
   @media (max-width: 400px) {
       .value { 
-          font-size: 0.5em;
+          font-size: 0.75em;
           line-height: 1.5em;
         }
   }
