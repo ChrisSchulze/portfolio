@@ -56,11 +56,13 @@
   .description > * {
   flex-grow: 1;
   flex-shrink: 1;
-  flex-basis: 220px;
+  flex-basis: 200px;
   padding-bottom: var(--padding-small);
 }
 
   .label {
+    font-size: 0.6rem;
+    line-height: 0.75rem;
     font-weight: 700;
   }
   
