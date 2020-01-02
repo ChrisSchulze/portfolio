@@ -151,7 +151,7 @@
   @media (max-width: 400px) {
   
       html { 
-        --padding-big: 80px;
+        --padding-big: 64px;
         --padding-medium: 40px;
         --padding-small: 24px;
         --padding-xsmall: 12px;
