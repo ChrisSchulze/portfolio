@@ -57,7 +57,7 @@
   flex-grow: 1;
   flex-shrink: 1;
   flex-basis: 220px;
-  padding-bottom: var(--padding-xsmall);
+  padding-bottom: var(--padding-small);
 }
 
   .label {
@@ -83,7 +83,7 @@
   @media (max-width: 400px) {
       .value { 
           font-size: 0.75em;
-          line-height: 0.75em;
+          line-height: 0em;
         }
   }
 
