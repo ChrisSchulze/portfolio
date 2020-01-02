@@ -57,10 +57,8 @@
   .description > * {
   flex-grow: 1;
   flex-shrink: 1;
-  flex-basis: 180px;
+  flex-basis: 220px;
 }
-
-
 
   .label {
     margin-bottom: 0.5rem;
