@@ -44,6 +44,7 @@
 <style scoped>
   
   .post h1 {
+  padding-top: var(--padding-xsmall);
   padding-bottom: 0px !important;
   }
   
@@ -125,7 +126,6 @@
 	 text-decoration: none;
 	 position: relative;
 	 transition: all 0.2s;
-	 padding-top: var(--padding-xsmall);
 }
  .animated-arrow:hover {
 	 color: #eaeaea;
