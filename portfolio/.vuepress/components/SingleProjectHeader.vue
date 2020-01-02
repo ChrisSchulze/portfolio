@@ -58,6 +58,7 @@
   flex-grow: 1;
   flex-shrink: 1;
   flex-basis: 220px;
+  padding-bottom: var(--padding-xsmall);
 }
 
   .label {
