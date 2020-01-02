@@ -68,22 +68,22 @@
   
   .value {
     font-weight: 400;
-    font-size: 1em;
-    line-height: 1.5em;
+    font-size: 0.85em;
+    line-height: 1.25em;
     letter-spacing: 1.25px;
     margin: auto auto auto auto;
   }
   
   @media (max-width: 900px) {
       .value {
-          font-size: 1em;
+          font-size: 0.85em;
           line-height: 1em;
         }
   }
   
   @media (max-width: 400px) {
       .value { 
-          font-size: 1em;
+          font-size: 0.85em;
           line-height: 0em;
         }
   }
