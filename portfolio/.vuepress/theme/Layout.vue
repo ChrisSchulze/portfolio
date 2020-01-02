@@ -154,7 +154,7 @@
         --padding-big: 64px;
         --padding-medium: 40px;
         --padding-small: 24px;
-        --padding-xsmall: 12px;
+        --padding-xsmall: 24px;
         }
   }
   
