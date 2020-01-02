@@ -51,7 +51,6 @@
     flex-wrap: wrap;
     
     margin: 0 auto 0 auto;
-    padding-bottom: var(--padding-xsmall);
   }
   
   .description > * {
