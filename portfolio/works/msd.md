@@ -32,7 +32,7 @@ We reviewed the existing brandings and started developing a new brand architectu
 
 We developed a new brand architecture (house of houses), a logo system and a layout pattern derived from the museums floor plans. We literally put the museums on the map. This reflects in the information architecture. The museums are nested into each other; just like a matryoshka.
 
-![](/upload/MSD_Design_4.jpg)
+![](/upload/MSD_Design_5.jpg)
 
 ### **One more thing**
 
