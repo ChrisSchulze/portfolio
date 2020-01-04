@@ -52,7 +52,7 @@
   }
   
   .project-list {
-    padding-top: var(--padding-big);
+    
     }
     
      .the-arrow {
