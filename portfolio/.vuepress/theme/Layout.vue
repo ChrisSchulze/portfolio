@@ -254,8 +254,8 @@
     letter-spacing: 0.75px;
     font-weight: 700;
     color: #D1D1D2;
-    padding-bottom: var(--padding-xsmall);
-    margin: auto auto 0.25rem auto;
+    padding-bottom: 0px !important;
+    margin: 0 auto 0 auto;
   }
 
   h3 {
