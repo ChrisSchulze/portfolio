@@ -4,9 +4,8 @@ description: A brand in constant flux
 thumbnail: "/upload/compo_image_1-2.jpg"
 services: Digital Rebranding, Look & feel, Content Strategy
 categories:
-- Branding
-- Design Lead
-- UX
+- Design Lead (UX & UI)
+- " Digital Brand Design"
 year: 2018
 date: 
 project_name: ''
