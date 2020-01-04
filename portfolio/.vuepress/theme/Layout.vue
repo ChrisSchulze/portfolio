@@ -253,10 +253,9 @@
     font-family: "PilatWideDemi";
     width: 100%;
     max-width: 870px;
-    font-size: 0.75rem;
-    line-height: 0.75rem;
+    font-size: 0.875rem;
+    line-height: 0.875rem;
     letter-spacing: 1px;
-    font-weight: 700;
     color: #D1D1D2;
     padding-bottom: var(--padding-xxsmall);;
     margin: 0 auto 0 auto;
@@ -273,6 +272,7 @@
   }
   
   h4 {
+      font-family: "PilatWideDemi";
       width: 100%;
       max-width: 870px;
       margin: 0 auto 3rem auto;
