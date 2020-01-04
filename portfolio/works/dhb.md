@@ -4,8 +4,8 @@ description: A bold and ballsy brand
 thumbnail: "/upload/DHB_Designs_1.jpg"
 services: Information Architecture, Look & Feel
 categories:
-- UX Concept
-- " Design Lead"
+- Digital Brand Design
+- Information architecture
 year: 2018
 date: 
 description_second_line: ''
