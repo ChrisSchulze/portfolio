@@ -217,7 +217,7 @@
     font-family: "PilatWideDemi";
     width: 100%;
     max-width: 870px;
-    font-size: 6.854em;
+    font-size: 6.25em;
     line-height: 1em;
     font-weight: 700;
     color: #D1D1D2; 
@@ -227,14 +227,14 @@
   
     @media (max-width: 900px) {
       h1 {
-          font-size: 4.236em;
+          font-size: 5em;
           line-height: 1em;
         }
   }
   
     @media (max-width: 400px) {
       h1 { 
-          font-size: 2.5em;
+          font-size: 3em;
           line-height: 1em;
         }
   }
