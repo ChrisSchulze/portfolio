@@ -52,7 +52,7 @@
   }
   
   .project-list {
-    margin-top: 20rem;
+    padding-top: var(--padding-big);
     }
     
      .the-arrow {
