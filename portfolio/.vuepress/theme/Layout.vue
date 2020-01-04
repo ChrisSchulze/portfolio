@@ -250,7 +250,7 @@
     line-height: 0.75rem;
     letter-spacing: 0.75px;
     font-weight: 700;
-    color: #333333;
+    color: #D1D1D2;
     margin: auto auto 0.25rem auto;
   }
 
