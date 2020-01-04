@@ -4,9 +4,8 @@ description: Putting the museums on the map
 thumbnail: "/upload/MSD_Design_1-1.jpg"
 services: Branding, Museum Hub
 categories:
-- UX Lead
-- Workshop
-- " Design Lead"
+- Design Lead (UX & UI)
+- Digital Brand Design
 year: 2019
 date: 
 next_project:
