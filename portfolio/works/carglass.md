@@ -4,8 +4,8 @@ description: How to fix a broken service
 thumbnail: "/upload/Carglass_Images_1.jpg"
 services: Relaunch, Booking Service, Corporate Site
 categories:
-- UX
-- Design Lead
+- 'Design Lead (UX & UI) '
+- Digital Brand Design
 year: 2018
 date: 
 next_project:
