@@ -4,9 +4,9 @@ description: A Single Source of truth
 thumbnail: "/upload/KNF_Designs_1.jpg"
 services: Service Design, PIM, Corporate Site
 categories:
-- UX Lead
-- Design Lead
 - " Digital Strategy"
+- PIM
+- Design Lead (UX & UI)
 year: 2019
 date: 
 project_name: ''
