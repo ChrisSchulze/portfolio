@@ -254,7 +254,7 @@
     max-width: 870px;
     font-size: 0.75rem;
     line-height: 0.75rem;
-    letter-spacing: 0.1px;
+    letter-spacing: 1px;
     font-weight: 700;
     color: #D1D1D2;
     padding-bottom: var(--padding-xxsmall);;
