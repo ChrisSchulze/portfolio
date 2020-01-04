@@ -250,6 +250,7 @@
   }
  
   h2 {
+    font-family: "PilatWideDemi";
     width: 100%;
     max-width: 870px;
     font-size: 0.75rem;
@@ -262,6 +263,7 @@
   }
 
   h3 {
+    font-family: "PilatWideDemi";
     font-size: 0.6rem;
     line-height: 0.75rem;
     letter-spacing: 0.75px;
