@@ -243,7 +243,7 @@
   }
   
     .tight {
-  padding-bottom: 0px !important;
+  padding-bottom: var(--padding-xsmall);
   }
  
   h2 {
@@ -254,6 +254,7 @@
     letter-spacing: 0.75px;
     font-weight: 700;
     color: #D1D1D2;
+    padding-bottom: var(--padding-xsmall);
     margin: auto auto 0.25rem auto;
   }
 
