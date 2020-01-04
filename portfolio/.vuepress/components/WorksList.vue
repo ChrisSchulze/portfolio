@@ -8,7 +8,7 @@
       	class="post"
       	>
     
-        <h1>{{ post.frontmatter.title }}<br>
+        <h1 class="tight">{{ post.frontmatter.title }}<br>
               <span class="outline">{{ post.frontmatter.description }}</span>
         </h1>
 		<h4><a class="animated-arrow" href="">
@@ -43,7 +43,7 @@
 
 <style scoped>
   
-  .post h1 {
+  .tight {
   padding-bottom: 0px !important;
   }
   
