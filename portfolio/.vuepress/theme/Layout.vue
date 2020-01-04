@@ -9,7 +9,7 @@
       <div
         v-if="$route.path === '/'"
         :style="{
-          marginTop: '20vw'
+          marginTop: 'var(--padding-big);'
         }"
       >
         <Content/>
