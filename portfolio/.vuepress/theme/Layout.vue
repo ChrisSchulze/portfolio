@@ -154,6 +154,7 @@
       --padding-medium: 120px;
       --padding-small: 80px;
       --padding-xsmall: 40px;
+      --padding-xxsmall: 24px;
   }
   
   @media (max-width: 900px) {
@@ -162,6 +163,7 @@
         --padding-medium: 80px;
         --padding-small: 40px;
         --padding-xsmall: 40px;
+        --padding-xxsmall: 16px;
         }
   }
   @media (max-width: 400px) {
@@ -171,6 +173,7 @@
         --padding-medium: 40px;
         --padding-small: 24px;
         --padding-xsmall: 24px;
+        --padding-xxsmall: 8px;
         }
   }
   
@@ -249,12 +252,12 @@
   h2 {
     width: 100%;
     max-width: 870px;
-    font-size: 0.6rem;
+    font-size: 0.75rem;
     line-height: 0.75rem;
-    letter-spacing: 0.75px;
+    letter-spacing: 0.1px;
     font-weight: 700;
     color: #D1D1D2;
-    padding-bottom: 0px !important;
+    padding-bottom: var(--padding-xxsmall);;
     margin: 0 auto 0 auto;
   }
 
