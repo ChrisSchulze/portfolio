@@ -154,7 +154,7 @@
       --padding-medium: 120px;
       --padding-small: 80px;
       --padding-xsmall: 40px;
-      --padding-xxsmall: 24px;
+      --padding-xxsmall: 16px;
   }
   
   @media (max-width: 900px) {
