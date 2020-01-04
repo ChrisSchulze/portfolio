@@ -18,7 +18,7 @@
           <!-- Single project view -->
           <div v-if="isSingleProject"
               :style="{
-              marginTop: '20vw'
+              marginTop: 'var(--padding-big);'
               }"
           >
       
