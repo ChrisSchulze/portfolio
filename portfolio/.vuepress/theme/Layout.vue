@@ -9,7 +9,7 @@
       <div
         v-if="$route.path === '/'"
         :style="{
-          marginTop: 'var(--padding-big);'
+          marginTop: '10rem'
         }"
       >
         <Content/>
@@ -18,7 +18,7 @@
           <!-- Single project view -->
           <div v-if="isSingleProject"
               :style="{
-              marginTop: 'var(--padding-big);'
+              marginTop: '10rem'
               }"
           >
       
