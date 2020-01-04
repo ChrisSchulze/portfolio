@@ -242,6 +242,9 @@
   -webkit-text-stroke: 0.5px rgba(210,210,210, 1); 
   }
   
+    .tight {
+  padding-bottom: 0px !important;
+  }
  
   h2 {
     width: 100%;
