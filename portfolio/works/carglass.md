@@ -24,7 +24,7 @@ We teamed up with Carglass to reinvent their digital touchpoints. In a years wor
 
 For the self service a validated UX was key. We went through several iterations of prototypes. In each step we tested our assumptions in lab tests with our target audiences. Then we reworked user flows, improved wording and design.
 
-![](/upload/Carglass_Images_2.jpg)
+![](/upload/Carglass_Images_olb.jpg)
 
 ### Solution
 
