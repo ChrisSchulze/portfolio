@@ -17,13 +17,15 @@ project_url: ''
 ---
 ### Issue
 
-Severe weather often resulted in overloads of the online booking service. If you could reach it it was difficult to use because the user flow had flaws. Also the overall design needed improvement.
+<p class="einleser">A broken window is bad. Nobody wants that. What if you could make it's repair easy, fast and delightful?
 
-![](/upload/Carglass_Images_2.jpg)
+We teamed up with Carglass to reinvent their digital touchpoints. In a years work in an agile scrum team we defined product scope, designed and developed prototypes and did extensive user testing.Until we got it right.</p>
 
 ### Approach
 
-<p class="einleser">For the self service a validated UX was key. We went through several iterations of prototypes. In each step we tested our assumptions in lab tests with our target audiences. Then we reworked user flows, improved wording and design. Until we got it right.</p>
+For the self service a validated UX was key. We went through several iterations of prototypes. In each step we tested our assumptions in lab tests with our target audiences. Then we reworked user flows, improved wording and design.
+
+![](/upload/Carglass_Images_2.jpg)
 
 ### Solution
 
