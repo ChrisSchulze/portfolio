@@ -17,9 +17,9 @@ project_url: ''
 ---
 ### Issue
 
-<p class="einleser">A broken window is bad. Nobody wants that. What if you could make it's repair easy, fast and delightful?
+A broken window is bad. Nobody wants that. What if you could make it's repair easy, fast and delightful?
 
-We teamed up with Carglass to reinvent their digital touchpoints. In a years work in an agile scrum team we defined product scope, designed and developed prototypes and did extensive user testing.Until we got it right.</p>
+We teamed up with Carglass to reinvent their digital touchpoints. In a years work in an agile scrum team we defined product scope, designed and developed prototypes and did extensive user testing. Until we got it right.
 
 ### Approach
 
