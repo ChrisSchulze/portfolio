@@ -62,9 +62,11 @@
 }
 
   .label {
-    font-size: 0.6rem;
-    line-height: 0.75rem;
-    font-weight: 700;
+    font-family: "PilatWideDemi";
+    font-size: 0.875rem;
+    line-height: 0.875rem;
+    letter-spacing: 1px;
+    color: #D1D1D2;
   }
   
   .value {
