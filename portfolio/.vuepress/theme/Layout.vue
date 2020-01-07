@@ -265,7 +265,7 @@
     font-family: "PilatWideDemi";
     font-size: 0.875rem;
     line-height: 0.875rem;
-    letter-spacing: 0.75px;
+    letter-spacing: 1px;
     font-weight: 700;
     color: #333333;
     margin: auto auto 0.25rem auto;
