@@ -66,7 +66,7 @@
     font-size: 0.875rem;
     line-height: 0.875rem;
     letter-spacing: 1px;
-    color: #D1D1D2;
+    color: #333333;
   }
   
   .value {
