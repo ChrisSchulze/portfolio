@@ -17,7 +17,7 @@ project_url: ''
 ---
 ### Issue
 
-<p class="einleser">Nobody wants a broken window. It's stressful. We should at least make it's repair easy, fast and delightful. That's why we teamed up with Carglass to reinvent their digital touchpoints. In a years work we defined product scope, designed and developed prototypes and did extensive user testing. All together in an agile scrum team.</p>
+<p class="einleser">Having a broken window is stressful. We should at least make it's repair easy, fast and delightful. That's why we teamed up with Carglass to reinvent their digital touchpoints. In a years work we defined product scope, designed and developed prototypes and did extensive user testing. All together in an agile scrum team.</p>
 
 ### Approach
 
