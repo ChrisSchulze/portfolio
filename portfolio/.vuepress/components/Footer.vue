@@ -9,7 +9,7 @@
         </div>
       </column>
       <column class="text">
-        <p class="hero">I'm always happy to meet new people. Give me a call <a class="contact" href="tel:+49-1157-39240">+49 1157 39 240 376</a> or send me an <a href="mailto:jan.christian.schulze@gmail.com" class="contact">email.</a></p>
+        <p class="hero">I'm always happy to meet new people. Give me a call <a class="contact" href="tel:+49-157-39240">+49 1157 39 240 376</a> or send me an <a href="mailto:jan.christian.schulze@gmail.com" class="contact">email.</a></p>
       </column>
       <column class="logo">
         <img class="small" src="/upload/logo.png">
