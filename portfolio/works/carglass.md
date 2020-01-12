@@ -35,7 +35,7 @@ For the funnel we came up with a onepager checkout. It is easier to use, faster,
 
 For the corporate site we followed the idea that **„Carglass is always close**“. Therefore we heavily rely on location based services. Regarding imagery we chose to shoot close ups of customer service and clients.
 
-![](/upload/Carglass_Images_1.jpg)
+![](/upload/Carglass_Images_4.jpg)
 
 ### One more thing
 
