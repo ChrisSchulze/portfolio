@@ -2,7 +2,7 @@
 title: DHB
 description: A bold and ballsy brand
 thumbnail: "/upload/DHB_Designs_1.jpg"
-services: Information Architecture, Look & Feel
+services: Develop a new Branding and a Look & Feel.
 categories:
 - Digital Brand Design
 - Information architecture
@@ -31,7 +31,7 @@ I developed a look & feel bringing the new font and layout pattern to exemplary 
 
 ### One more thing
 
-I’m glad we could improve some of the sites UX and design flaws. I wish we could have developed the whole site though… It is always unsatisfying to let go of a half finished project.
+I’m glad we could improve some of the sites UX and design flaws. Also we heightended the visual quality a lot. I still wish we could have developed the whole site though.
 
 ### **Next Project**
 
