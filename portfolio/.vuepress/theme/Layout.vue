@@ -8,18 +8,16 @@
       <!-- Works list -->
       <div
         v-if="$route.path === '/'"
-        :style="{
-          marginTop: '20rem'
-        }"
+        :class="
+          home
+        "
       >
         <Content/>
       </div>
 
           <!-- Single project view -->
           <div v-if="isSingleProject"
-              :style="{
-              marginTop: '20rem'
-              }"
+                :class="single"
           >
       
         <SingleProjectStage  
@@ -182,6 +180,10 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }
+  
+  .home, .single {
+    margin-top: var(--padding-big);
+    }
 
   img {
     width: 100%;
