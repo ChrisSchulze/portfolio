@@ -1,8 +1,8 @@
 ---
 title: MSD
-description: Putting the museums on the map
+description: Putting the Museums on the Map
 thumbnail: "/upload/MSD_Design_1-1.jpg"
-services: Branding, Museum Hub
+services: Develop a new Branding and a Museum Hub
 categories:
 - Design Lead (UX & UI)
 - Digital Brand Design
