@@ -5,20 +5,23 @@
 
     <div class="container">
 
-      <!-- Works list -->
+    <!-- Works list -->
       <div
         v-if="$route.path === '/'"
-        :class="
-          home
-        "
+        :style="{
+          marginTop: '20rem'
+        }"
       >
         <Content/>
       </div>
 
           <!-- Single project view -->
           <div v-if="isSingleProject"
-                :class="single"
+              :style="{
+              marginTop: '20rem'
+              }"
           >
+      
       
         <SingleProjectStage  
         :title="$page.frontmatter.title"
@@ -181,7 +184,7 @@
     -moz-osx-font-smoothing: grayscale;
   }
   
-  .home, .single {
+  .container {
     margin-top: var(--padding-big);
     }
 
