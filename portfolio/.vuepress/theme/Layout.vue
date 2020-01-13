@@ -151,6 +151,7 @@
       
       /* Padding */
       
+      --spacing-xxl: 320px;
       --padding-big: 160px;
       --padding-medium: 120px;
       --padding-small: 80px;
@@ -160,6 +161,7 @@
   
   @media (max-width: 900px) {
       html { 
+        --spacing-xxl: 240px;
         --padding-big: 120px;
         --padding-medium: 80px;
         --padding-small: 40px;
@@ -169,7 +171,8 @@
   }
   @media (max-width: 400px) {
   
-      html { 
+      html {
+        --spacing-xxl: 160px;
         --padding-big: 64px;
         --padding-medium: 40px;
         --padding-small: 24px;
@@ -185,7 +188,7 @@
   }
   
   .container {
-    margin-top: var(--padding-big);
+    margin-top: var(--spacing-xxl);
     }
 
   img {
