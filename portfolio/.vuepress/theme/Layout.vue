@@ -202,6 +202,10 @@
   .container {
     padding: 0 5vw;
   }
+  
+  .project-list {
+    margin-top: var(--spacing-xxl);
+    }
 
   .journal-list, .single-journal {
     width: 800px;
