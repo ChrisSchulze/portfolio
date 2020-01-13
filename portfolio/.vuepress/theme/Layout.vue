@@ -152,6 +152,7 @@
       /* Padding */
       
       --spacing-xxl: 320px;
+      --spacing-xl: 240px;
       --padding-big: 160px;
       --padding-medium: 120px;
       --padding-small: 80px;
@@ -162,6 +163,7 @@
   @media (max-width: 900px) {
       html { 
         --spacing-xxl: 240px;
+        --spacing-xl: 180px;
         --padding-big: 120px;
         --padding-medium: 80px;
         --padding-small: 40px;
@@ -173,6 +175,7 @@
   
       html {
         --spacing-xxl: 160px;
+        --spacing-xl: 120px;
         --padding-big: 64px;
         --padding-medium: 40px;
         --padding-small: 24px;
@@ -204,7 +207,7 @@
   }
   
   .project-list {
-    padding-top: var(--spacing-xxl) !important;
+    padding-top: var(--spacing-xl) !important;
     }
 
   .journal-list, .single-journal {
