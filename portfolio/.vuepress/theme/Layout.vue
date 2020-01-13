@@ -204,7 +204,7 @@
   }
   
   .project-list {
-    margin-top: var(--spacing-xxl);
+    padding-top: var(--spacing-xxl) !important;
     }
 
   .journal-list, .single-journal {
