@@ -6,7 +6,7 @@ services: Develop a new Branding and a Museum Hub
 categories:
 - Design Lead (UX & UI)
 - Digital Brand Design
-year: 2019
+year: 2020
 date: 
 next_project:
   project_name: Carglass
