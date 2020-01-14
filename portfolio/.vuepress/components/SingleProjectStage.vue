@@ -54,7 +54,7 @@
     line-height: 0.75rem;
     letter-spacing: 0.75px;
     font-weight: 700;
-    color: #d1d1d2;
+    color: #d1d1d2 !important;
     margin: 0 auto 0 auto;
   }
 
