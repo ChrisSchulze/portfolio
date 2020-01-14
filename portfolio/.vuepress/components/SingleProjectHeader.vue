@@ -74,6 +74,7 @@
     font-size: 0.85em;
     line-height: 1.25em;
     letter-spacing: 1.25px;
+    color: #d1d1d2;
     margin: auto auto auto auto;
   }
   
