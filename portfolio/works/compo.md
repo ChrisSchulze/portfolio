@@ -1,6 +1,6 @@
 ---
 title: Compo
-description: A brand in constant flux
+description: A Brand in Constant Flux
 thumbnail: "/upload/compo_image_1-2.jpg"
 services: Digital Rebranding, Look & feel, Content Strategy
 categories:
