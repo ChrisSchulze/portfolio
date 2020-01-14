@@ -2,7 +2,7 @@
 title: Carglass
 description: How to Fix a Broken Service
 thumbnail: "/upload/Carglass_Images_1.jpg"
-services: Reinvent the booking service & Build a new corporate site.
+services: Reinvent the booking service & build a new corporate site
 categories:
 - 'Design Lead (UX & UI) '
 - Digital Brand Design
