@@ -1,6 +1,6 @@
 ---
 title: Carglass
-description: How to fix a broken service
+description: How to Fix a Broken Service
 thumbnail: "/upload/Carglass_Images_1.jpg"
 services: Reinvent the booking service & Build a new corporate site.
 categories:
