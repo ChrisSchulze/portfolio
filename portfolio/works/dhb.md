@@ -1,6 +1,6 @@
 ---
 title: DHB
-description: A bold and ballsy brand
+description: A Bold and Ballsy brand
 thumbnail: "/upload/DHB_Designs_1.jpg"
 services: Develop a new Branding and a Look & Feel.
 categories:
