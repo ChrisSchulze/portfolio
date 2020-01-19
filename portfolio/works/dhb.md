@@ -6,7 +6,7 @@ services: Develop a new Branding and a Look & Feel.
 categories:
 - Digital Brand Design
 - Information architecture
-year: 2018
+year: 2019
 date: 
 description_second_line: ''
 project_name: ''
