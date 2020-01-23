@@ -51,7 +51,7 @@
     </div>
     
     <Arrow  
-        :project_name="$page.frontmatter.projectname"
+        :project_name="$page.frontmatter.project_name"
         />
 
     <Footer />
