@@ -56,7 +56,7 @@
     
     }
     
-     .the-arrow {
+.the-arrow {
 	 width: 64px;
 	 transition: all 0.2s;
 }
