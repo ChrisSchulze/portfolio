@@ -1,13 +1,18 @@
 <template>
 
-<router-link
-  to="/carglass"
-  v-slot="{ href, route, navigate, isActive, isExactActive }"
->
-  <NavLink :active="isActive" :href="href" @click="navigate"
-    >{{ route.janchristianschulze.de/works/carglass.html }}</NavLink
-  >
-</router-link>
+		<h4><a class="animated-arrow" href="">
+                <span class="the-arrow -left">
+                  <span class="shaft"></span>
+                </span>
+                <span class="main">
+                  <span class="text">
+                    {{ project_name }}
+                  </span>
+                  <span class="the-arrow -right">
+                    <span class="shaft"></span>
+                  </span>
+                </span>
+              </a></h4>
 
 
 </template>
