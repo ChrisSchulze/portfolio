@@ -1,17 +1,17 @@
 <template>
 
  <div class="header">
-<h1>{{ title }}<br>
-<span class="outline">{{ description }}</span>
-</h1>
-  </div>
+  <h1>{{ title }}<br>
+   <span class="outline">{{ description }}</span>
+  </h1>
+ </div>
 
 <div class="content custom" :img src="{{ `url(${post.frontmatter.thumbnail})` }}">
 
-      <div class="info">
-        <h2>{{ post.frontmatter.title }}</h2>
-        <span v-if="post.frontmatter.description">{{ post.frontmatter.description }}</span>
-      </div>
+<div class="info">
+  <h2>{{ post.frontmatter.title }}</h2>
+    <span v-if="post.frontmatter.description">{{ post.frontmatter.description }}</span>
+</div>
 
 </template>
 
