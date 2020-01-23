@@ -1,7 +1,7 @@
 <template>
 
 <router-link
-  to="/carglass"
+  to="/works/carglass"
   v-slot="{ href, route, navigate, isActive, isExactActive }"
 >
 
