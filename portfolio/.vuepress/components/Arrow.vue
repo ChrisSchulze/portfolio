@@ -5,7 +5,7 @@
   v-slot="{ href, route, navigate, isActive, isExactActive }"
 >
   <NavLink :active="isActive" :href="href" @click="navigate"
-    >{{ route.fullPath }}</NavLink
+    >{{ route.janchristianschulze.de/works/carglass.html }}</NavLink
   >
 </router-link>
 
