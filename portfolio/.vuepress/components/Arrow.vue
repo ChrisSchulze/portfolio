@@ -1,7 +1,7 @@
 <template>
 
 <router-link
-  to="/about"
+  to="/carglass"
   v-slot="{ href, route, navigate, isActive, isExactActive }"
 >
   <NavLink :active="isActive" :href="href" @click="navigate"
