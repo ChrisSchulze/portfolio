@@ -1,29 +1,14 @@
 <template>
 
 <router-link
-  to="/works/carglass.html"
+  to="/about"
   v-slot="{ href, route, navigate, isActive, isExactActive }"
 >
-
-
-	<h4>
-		<a :href="href" @click="navigate">{{ route.fullPath }}
-		<a class="animated-arrow" href="">
-        		<span class="the-arrow -left">
-                		<span class="shaft"></span>
-                	</span>
-                		<span class="main">
-                  			<span class="text">
-                    				{{ project_name }}
-                  			</span>
-                		<span class="the-arrow -right">
-               		<span class="shaft"></span>
-              			</span>
-             		</span>
-            	</a>
-	 </h4>
-
+  <NavLink :active="isActive" :href="href" @click="navigate"
+    >{{ route.fullPath }}</NavLink
+  >
 </router-link>
+
 
 </template>
 
