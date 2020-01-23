@@ -49,6 +49,10 @@
       </div>
 
     </div>
+    
+    <Arrow  
+        :project_name="$page.frontmatter.project_name"
+        />
 
     <Footer />
 
