@@ -1,6 +1,13 @@
 <template>
 
+<router-link
+  to="/carglass"
+  v-slot="{ href, route, navigate, isActive, isExactActive }"
+>
+
+
 	<h4>
+		<a :href="href" @click="navigate">{{ route.fullPath }}
 		<a class="animated-arrow" href="">
         		<span class="the-arrow -left">
                 		<span class="shaft"></span>
@@ -16,6 +23,7 @@
             	</a>
 	 </h4>
 
+</router-link>
 
 </template>
 
