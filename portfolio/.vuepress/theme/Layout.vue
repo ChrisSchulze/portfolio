@@ -51,7 +51,7 @@
     </div>
     
 <router-link
-  to="/about"
+  to="/works/carglass.html"
   v-slot="{ href, route, navigate, isActive, isExactActive }"
 >
   <NavLink :active="isActive" :href="href" @click="navigate"
