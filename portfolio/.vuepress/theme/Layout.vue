@@ -50,6 +50,14 @@
 
     </div>
     
+<router-link
+  to="/about"
+  v-slot="{ href, route, navigate, isActive, isExactActive }"
+>
+  <NavLink :active="isActive" :href="href" @click="navigate"
+    >{{ route.fullPath }}</NavLink
+  >
+</router-link>
 
     <Footer />
 
