@@ -50,7 +50,7 @@
 
     </div>
     
-<router-link :to="{ path: 'works/carglass.html' }">Home</router-link>
+<router-link :to="{ path: 'carglass.html' }">Home</router-link>
 
     <Footer />
 
