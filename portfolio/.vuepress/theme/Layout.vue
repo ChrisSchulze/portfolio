@@ -50,14 +50,7 @@
 
     </div>
     
-<router-link
-  to="/works/carglass.html"
-  v-slot="{ href, route, navigate, isActive, isExactActive }"
->
-  <NavLink :active="isActive" :href="href" @click="navigate"
-    >{{ route.fullPath }}</NavLink
-  >
-</router-link>
+<router-link :to="{ path: 'works/carglass.html' }">Home</router-link>
 
     <Footer />
 
