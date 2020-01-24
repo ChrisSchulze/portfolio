@@ -50,11 +50,7 @@
 
     </div>
     
-        <Arrow  
-        :project_name="$page.frontmatter.project_name"
-        />
-    
-<router-link :to="{ path: 'carglass.html' }">Home</router-link>
+
 
     <Footer />
 
