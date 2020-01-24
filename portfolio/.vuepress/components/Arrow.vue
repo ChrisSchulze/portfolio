@@ -1,5 +1,8 @@
 <template>
 
+<router-link :to="{ path: 'carglass.html' }">
+
+ 
 		<h4><a class="animated-arrow" href="">
                 <span class="the-arrow -left">
                   <span class="shaft"></span>
@@ -14,6 +17,7 @@
                 </span>
               </a></h4>
 
+</router-link>
 
 </template>
 
