@@ -1,5 +1,13 @@
 <template>
-  <header class="header" >
+  <header
+    class="header"
+    :style="sticky && {
+      position: 'fixed',
+      top: '0',
+      left: '0',
+      width: '100%',
+    }"
+  >
 
     <nav v-if="navLinks" class="navigation left desktop-nav">
       <ul>
@@ -106,20 +114,15 @@
 
 <style scoped>
 
-
-
   .header {
     display: flex;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
+    position: relative;
     align-items: center;
     justify-content: space-between;
     height: 6rem;
     padding: 5vw;
     font-size: 0.8rem;
-    font-weight: 400;
+    font-weight: 600;
     z-index: 10;
   }
 
@@ -149,11 +152,11 @@
   }
 
   .navigation li:hover {
-    border-bottom: 1px solid #D1D1D2;
+    border-bottom: 1px solid #000;
   }
 
   .active {
-    border-bottom: 1px solid #D1D1D2;
+    border-bottom: 1px solid #000;
   }
 
   a {
