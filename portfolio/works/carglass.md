@@ -17,7 +17,7 @@ project_url: ''
 ---
 ### Issue
 
-<p class="einleser">A broken window is annoying. At least it's repair should be easy, fast and delightful. We teamed up with Carglass to reinvent their booking service. We defined product scope, designed and developed prototypes and did extensive user testing. All together in an agile scrum team..</p>
+<p class="einleser"><span class="bold">A broken window is annoying.</span> At least it's repair should be easy, fast and delightful. We teamed up with Carglass to reinvent their booking service. We defined product scope, designed and developed prototypes and did extensive user testing. All together in an agile scrum team..</p>
 
 <SingleProjectHeader
 :services="$page.frontmatter.services"
