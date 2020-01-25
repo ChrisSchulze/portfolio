@@ -62,19 +62,17 @@
 }
 
   .label {
-    font-family: "PilatWideDemi";
-    font-size: 0.875rem;
-    line-height: 0.875rem;
-    letter-spacing: 1px;
-    color: #333333;
+    font-size: 0.8rem;
+    line-height: 0.8rem;
+    letter-spacing: 1.2px;
+    color: #d1d1d2;
   }
   
   .value {
-    font-weight: 400;
-    font-size: 0.85em;
+    font-size: 0.8rem;
     line-height: 1.25em;
-    letter-spacing: 1.25px;
-    color: #d1d1d2;
+    letter-spacing: 1.2px;
+    color: #595959;
     margin: auto auto auto auto;
   }
   
