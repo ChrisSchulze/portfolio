@@ -15,7 +15,7 @@ project_url: ''
 ---
 ### Issue
 
-When we rebranded the DHB their new website was already in the making. The design was generic and the information architecture needed improvement.
+<p class="einleser">When we rebranded the DHB their new website was already in the making. The design was generic and the information architecture needed improvement.</p>
 
 <SingleProjectHeader
           :services="$page.frontmatter.services"
