@@ -316,13 +316,6 @@
   padding-bottom: var(--padding-small);
   }
   
-  .label {
-    font-size: 0.6rem;
-    line-height: 0.75rem;
-    letter-spacing: 0.75px;
-    color: #D1D1D2;
-    margin: auto auto 0.25rem auto;
-  }
 
   pre {
     background: var(--color-black);
