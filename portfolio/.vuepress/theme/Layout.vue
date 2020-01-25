@@ -275,6 +275,7 @@
   h3 {
     font-family: "PilatWideDemi";
     font-size: 0.8rem;
+    font-weight: 700 !important;
     line-height: 0.825rem;
     letter-spacing: 2px;
     color: #D1D1D2;
