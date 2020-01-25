@@ -128,8 +128,8 @@
 
   .logo {
     position: absolute;
-    width: 3rem;
-    height: 3rem;
+    width: 4rem;
+    height: 4rem;
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
