@@ -44,7 +44,7 @@
   .description {
     display: flex;
     width: 100%;
-    max-width: 120px;
+    max-width: 1200px;
     
     display: -webkit-flex; /* Safari */
     -webkit-flex-wrap: wrap; /* Safari 6.1+ */
