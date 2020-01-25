@@ -6,8 +6,6 @@ title: Portfolio
 ---
 ## I help Companies Define, Design and Deliver
 
-<h1 class="tight">Maximum<br><span class="outline">Lovable Products</span></h1>
-
-## that meet Business Goals.
+<h1 class="tight">Maximum<br><span class="outline">Lovable Products.</span></h1>
 
 <WorksList />
