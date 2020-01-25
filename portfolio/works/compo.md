@@ -14,7 +14,7 @@ project_url: ''
 ---
 ### Issue
 
-COMPO wanted to grow their customer base. We saw an opportunity in a younger audience. Alongside Jung von Matt we were assigned to come up with ideas for the digital touchpoints.
+<p class="einleser">COMPO wanted to grow their customer base. We saw an opportunity in a younger audience. Alongside Jung von Matt we were assigned to come up with ideas for the digital touchpoints.</p>
 
 <SingleProjectHeader
           :services="$page.frontmatter.services"
