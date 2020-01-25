@@ -19,7 +19,7 @@ project_url: ''
 
 <p class="einleser">Having a broken window is stressful. We should at least make it's repair easy, fast and delightful. That's why we teamed up with Carglass to reinvent their booking service. In a years work we defined product scope, designed and developed prototypes and did extensive user testing. All together in an agile scrum team.</p>
 
-        <SingleProjectHeader
+<SingleProjectHeader
           :services="$page.frontmatter.services"
           :year="$page.frontmatter.year.toString()"
           :categories="$page.frontmatter.categories"
