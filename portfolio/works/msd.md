@@ -19,6 +19,12 @@ project_url: "/carglass"
 
 Finding the museums was difficult. They lacked visibility both in the city and in the web. Once found there was no sense of belonging. Visually the museums looked separated. Finding interesting exhibitions was even more difficult. It was a maze.
 
+<SingleProjectHeader
+          :services="$page.frontmatter.services"
+          :year="$page.frontmatter.year.toString()"
+          :categories="$page.frontmatter.categories"
+        />
+
 ![](/upload/MSD_Design_2-1.jpg)
 
 ### **Approach**
