@@ -148,7 +148,7 @@
       
       /* Colors */
       
-      background: #1D1D1F;
+      background: #161618;
       color: #595959;
       
       /* Padding */
