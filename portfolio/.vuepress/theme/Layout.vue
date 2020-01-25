@@ -298,9 +298,9 @@
       }
 
   p {
-    font-size: 1.5em;
-    line-height: 1.5em;
-    letter-spacing: 1.25px;
+    font-size: 1.75rem;
+    line-height: 3rem;
+    letter-spacing: 1.2px;
     margin: auto auto auto auto;
     padding-bottom: var(--padding-big);
   }
