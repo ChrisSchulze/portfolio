@@ -14,7 +14,7 @@ project_url: ''
 ---
 ### Issue
 
-In the past KNF's digital services had grown like sprawl: Lots of touchpoints, lots of differing product data, lots of people involved and no clear purpose.
+<p class="einleser">In the past KNF's digital services had grown like sprawl: Lots of touchpoints, lots of differing product data, lots of people involved and no clear purpose.</p>
 
 <SingleProjectHeader
           :services="$page.frontmatter.services"
