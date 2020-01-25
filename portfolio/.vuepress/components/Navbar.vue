@@ -122,11 +122,8 @@
     height: 6rem;
     padding: 5vw;
     font-size: 0.8rem;
-    
     font-family: "PilatWideDemi";
     letter-spacing: 1.6px;
-    
-    font-weight: 600;
     z-index: 10;
   }
 
