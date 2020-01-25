@@ -314,7 +314,7 @@
   }
   
   .einleser {
-  padding-bottom: var(--padding-xsmall);
+  padding-bottom: var(--padding-small);
   }
   
   .label {
