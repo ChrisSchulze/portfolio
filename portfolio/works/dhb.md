@@ -17,6 +17,12 @@ project_url: ''
 
 When we rebranded the DHB their new website was already in the making. The design was generic and the information architecture needed improvement.
 
+<SingleProjectHeader
+          :services="$page.frontmatter.services"
+          :year="$page.frontmatter.year.toString()"
+          :categories="$page.frontmatter.categories"
+        />
+
 ![](/upload/DHB_Designs_2.jpg)
 
 ### Approach
