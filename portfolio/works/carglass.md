@@ -25,15 +25,11 @@ project_url: ''
 :categories="$page.frontmatter.categories"
 />
 
+![](/upload/Carglass_Images_olb.jpg)
+
 ### Approach
 
 For the self service validated UX was key. We went through several iterations of prototypes. In each step we tested our assumptions in lab tests with our target audiences. Then we reworked user flows, improved wording and design. Until we got it right.
-
-![](/upload/Carglass_Images_olb.jpg)
-
-### Solution
-
-For the funnel we came up with a onepager checkout. It is easier to use, faster, more flexible and robust than the old one. We were able to improve the scheduling as well. Today we can assure bookings directly.
 
 ![](/upload/Carglass_Images_3.jpg)
 
