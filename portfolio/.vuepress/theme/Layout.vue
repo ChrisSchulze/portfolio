@@ -299,6 +299,11 @@
     padding-bottom: var(--padding-big);
   }
   
+  .bold {
+    font-weight: 700 !important;
+    color: #D1D1D2; 
+  }
+  
   @media (max-width: 900px) {
       p {
           font-size: 1.25em;
