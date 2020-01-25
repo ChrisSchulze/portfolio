@@ -291,7 +291,7 @@
       }
 
   p {
-    font-size: 1.75rem;
+    font-size: 2rem;
     line-height: 3rem;
     letter-spacing: 1.2px;
     margin: auto auto auto auto;
