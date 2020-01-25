@@ -57,7 +57,7 @@
   flex-grow: 1;
   flex-shrink: 1;
   flex-basis: 160px;
-  padding-bottom: var(--padding-xsmall);
+  padding-bottom: var(--padding-big);
   padding-right: var(--padding-xsmall);
 }
 
