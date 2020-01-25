@@ -300,7 +300,8 @@
   }
   
   .bold {
-    font-weight: 700 !important;
+    font-family: "PilatWideDemi" !important;
+    
     color: #D1D1D2; 
   }
   
