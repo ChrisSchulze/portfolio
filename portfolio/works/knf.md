@@ -16,6 +16,12 @@ project_url: ''
 
 In the past KNF's digital services had grown like sprawl: Lots of touchpoints, lots of differing product data, lots of people involved and no clear purpose.
 
+<SingleProjectHeader
+          :services="$page.frontmatter.services"
+          :year="$page.frontmatter.year.toString()"
+          :categories="$page.frontmatter.categories"
+        />
+
 ![](/upload/KNF_Designs_2.jpg)
 
 ### Approach
