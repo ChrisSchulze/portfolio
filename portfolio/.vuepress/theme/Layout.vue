@@ -292,7 +292,7 @@
 
   p {
     font-size: 2rem;
-    line-height: 2.5rem;
+    line-height: 2.75rem;
     letter-spacing: 1.2px;
     margin: auto auto auto auto;
     padding-bottom: var(--padding-big);
