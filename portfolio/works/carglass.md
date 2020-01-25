@@ -31,7 +31,7 @@ project_url: ''
 
 For the self service validated UX was key. We went through several iterations of prototypes. In each step we tested our assumptions in lab tests with our target audiences. Then we reworked user flows, improved wording and design. Until we got it right.
 
-![](/upload/Carglass_Images_3.jpg)
+![](/upload/Carglass_Images_1.jpg)
 
 ### Design Idea
 
