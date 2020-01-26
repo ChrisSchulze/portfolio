@@ -29,19 +29,19 @@ project_url: ''
 
 ### Approach
 
-For the self service validated UX was key. We went through several iterations of prototypes. In each step we tested our assumptions in lab tests with our target audiences. Then we reworked user flows, improved wording and design. Until we got it right.
+For the self service <span class="bold">validated UX was key.</span> We went through several iterations of prototypes. In each step we tested our assumptions in lab tests with our target audiences. Then we reworked user flows, improved wording and design. Until we got it right.
 
 ![](/upload/Carglass_Images_1.jpg)
 
 ### Design Idea
 
-For the corporate site we followed the idea that „Carglass is always close“. That's why we heavily rely on location based services. Regarding imagery we chose to shoot close ups of customer service and clients.
+For the corporate site we followed the idea that <span class="bold">Carglass is always close</span>. That's why we heavily rely on location based services. Regarding imagery we chose to shoot close ups of customer service and clients.
 
 ![](/upload/Carglass_Images_4.jpg)
 
 ### One more thing
 
-When TNS Kantar checked the sites brand fit in 2017 it had the best score of all of Carglass' touchpoints at that time. Which made us especially proud. Unfortunately Carglass chose to implement a new branding shortly after. One year after launch the site had to be skinned. So I chose to focus on merging the disciplines of UX and branding in my future work.
+When TNS Kantar checked the sites brand fit in 2017 it had the <span class="bold">best score of all of Carglass' touchpoints at that time.</span> Which made us especially proud. Unfortunately Carglass chose to implement a new branding shortly after. One year after launch the site had to be skinned.
 
 ### **Next Project**
 
