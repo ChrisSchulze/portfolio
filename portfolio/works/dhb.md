@@ -27,7 +27,7 @@ project_url: ''
 
 ### Approach
 
-<p class="einleser">If we wanted to make a difference we had to be quick. We agreed to work in three one-week sprints and see what we could come up with in that time period.</p>
+<p class="einleser">If we wanted to make a difference <span class="bold">we had to be quick.</span> We agreed to work in three one-week sprints and see what we could come up with in that time period.</p>
 
 ### Solution
 
