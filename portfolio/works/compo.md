@@ -26,7 +26,7 @@ project_url: ''
 
 ### Approach
 
-<p class="einleser">We screened COMPO's existing touchpoints, checked their contents and overall visual coherence. We found they lacked recognizability. Also they had no content strategy. They had to evolve if they wanted to close the gap.</p>
+<p class="einleser">We screened COMPO's existing touchpoints, checked their contents and overall visual coherence and found they lacked recognizability. Also they had no content strategy. They had to evolve if they wanted to close the gap.</p>
 
 ### Solution
 
@@ -36,7 +36,7 @@ We came up with a brand pattern that consists of adaptive, leaflike structures. 
 
 ### Outcome
 
-Unfortunately our proposal was not implemented. From design perspective this still is one of my favourite projects though. To me it proved we could do Branding Digital First. <span class="bold">Digital style tiles and a focus on content strategy</span> in favour of brand strategy and classic brand manuals became a formula for me.
+Unfortunately our proposal was not implemented. From design perspective this still is one of my favourite projects though. To me it proved we could do Branding Digital First. Digital style tiles and a focus on content strategy in favour of brand strategy and classic brand manuals became a formula for me.
 
 ### **Next Project**
 
