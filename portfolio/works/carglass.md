@@ -25,7 +25,7 @@ project_url: ''
 :categories="$page.frontmatter.categories"
 />
 
-![](/upload/Carglass_Images_olb.jpg)
+![](/upload/CGFlow.png)
 
 ### Approach
 
@@ -41,7 +41,7 @@ For the corporate site we followed the idea that <span class="bold">Carglass is 
 
 ### One more thing
 
-When TNS Kantar checked the sites brand fit in 2017 it had the <span class="bold">best score</span> of all of Carglass' touchpoints at that time. Which made us especially proud. Unfortunately Carglass chose to implement a new branding shortly after. 
+When TNS Kantar checked the sites brand fit in 2017 it had the <span class="bold">best score</span> of all of Carglass' touchpoints at that time. Which made us especially proud. Unfortunately Carglass chose to implement a new branding shortly after.
 
 ### **Next Project**
 
