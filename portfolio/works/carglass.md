@@ -41,7 +41,7 @@ For the corporate site we followed the idea that <span class="bold">Carglass is 
 
 ### One more thing
 
-When TNS Kantar checked the sites brand fit in 2017 it had the <span class="bold">best score of all of Carglass' touchpoints at that time.</span> Which made us especially proud. Unfortunately Carglass chose to implement a new branding shortly after. One year after launch the site had to be skinned.
+When TNS Kantar checked the sites brand fit in 2017 it had the <span class="bold">best score</span> of all of Carglass' touchpoints at that time. Which made us especially proud. Unfortunately Carglass chose to implement a new branding shortly after. 
 
 ### **Next Project**
 
