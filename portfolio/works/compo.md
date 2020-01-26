@@ -14,13 +14,13 @@ project_url: ''
 ---
 ### Issue
 
-<p class="einleser">COMPO wanted to grow their customer base. We saw an opportunity in a younger audience. Alongside Jung von Matt we were assigned to come up with ideas for the digital touchpoints.</p>
+<p class="einleser">COMPO wanted to grow their customer base. We saw an opportunity in a younger audience. We were assigned to come up with ideas for their digital touchpoints.</p>
 
 <SingleProjectHeader
-          :services="$page.frontmatter.services"
-          :year="$page.frontmatter.year.toString()"
-          :categories="$page.frontmatter.categories"
-        />
+:services="$page.frontmatter.services"
+:year="$page.frontmatter.year.toString()"
+:categories="$page.frontmatter.categories"
+/>
 
 ![](/upload/compo_image_2-1.jpg)
 
@@ -30,7 +30,7 @@ project_url: ''
 
 ### Solution
 
-We came up with a brand pattern that consists of adaptive, leaflike structures. They can be used as text stages or backgrounds and are highly recognizable. Also I proposed a new set of fonts and a new image world. Regarding content strategy we went for gardening stories, knowledge and DIY manuals. Which would channel users to COMPO's prefered partners.
+We came up with a brand pattern that consists of adaptive, leaflike structures. I also proposed a new set of fonts and a new image world. Regarding content strategy we went for gardening stories, knowledge and DIY manuals.
 
 ![](/upload/compo_image_3.jpg)
 
