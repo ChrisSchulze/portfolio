@@ -17,16 +17,16 @@ project_url: ''
 <p class="einleser">In the past KNF's digital services had grown like sprawl: Lots of touchpoints, lots of differing product data, lots of people involved and no clear purpose.</p>
 
 <SingleProjectHeader
-          :services="$page.frontmatter.services"
-          :year="$page.frontmatter.year.toString()"
-          :categories="$page.frontmatter.categories"
-        />
+:services="$page.frontmatter.services"
+:year="$page.frontmatter.year.toString()"
+:categories="$page.frontmatter.categories"
+/>
 
 ![](/upload/KNF_Designs_2.jpg)
 
 ### Approach
 
-<p class="einleser">We held stakeholder workshops with participants from all over the world to get everyone aligned on a mission: To build a single source of truth for their product data and to give the company a "face" to the outside world.</p>
+<p class="einleser">We held stakeholder workshops with participants from all over the world to get everyone aligned on a mission: To build <span class="bold">a single source of truth</span> for their product data and to give the company a "face" to the outside world.</p>
 
 ### Solution
 
