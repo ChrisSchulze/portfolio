@@ -17,13 +17,13 @@ project_url: "/carglass"
 ---
 ### **Issue**
 
-<p class="einleser">Finding the museums was difficult. They lacked visibility both in the city and in the web. Once found there was no sense of belonging. Visually the museums looked separated. Finding interesting exhibitions was even more difficult. It was a maze.</p>
+<p class="einleser"><span class="bold">Finding the museums was difficult.</span> They lacked visibility both in the city and in the web. Once found there was no sense of belonging. Visually the museums looked separated. Finding interesting exhibitions was even more difficult. It was a maze.</p>
 
 <SingleProjectHeader
-          :services="$page.frontmatter.services"
-          :year="$page.frontmatter.year.toString()"
-          :categories="$page.frontmatter.categories"
-        />
+:services="$page.frontmatter.services"
+:year="$page.frontmatter.year.toString()"
+:categories="$page.frontmatter.categories"
+/>
 
 ![](/upload/MSD_Design_2-1.jpg)
 
@@ -35,7 +35,7 @@ We reviewed the existing brandings and started developing a new brand architectu
 
 ### **Solution**
 
-We developed a new brand architecture (house of houses), a logo system and a layout pattern derived from the museums floor plans. We literally put the museums on the map. This reflects in the information architecture. The museums are nested into each other; just like a matryoshka.
+We developed a new brand architecture (house of houses), a logo system and a layout pattern derived from the museums floor plans. <span class="bold>We literally put the museums on the map.</span> This reflects in the information architecture. The museums are nested into each other; just like a matryoshka.
 
 ![](/upload/MSD_Design_5.jpg)
 
