@@ -1,8 +1,7 @@
 <template>
 
-<p><span class="value">{{ projecturl }}</span></p>
 
-<router-link :to="{ path: 'projecturl' }">
+<router-link :to="{ path: '{{ projecturl }}' }">
 
 	<h4>
 		<a class="animated-arrow" href="">
