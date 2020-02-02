@@ -31,8 +31,8 @@
         <div id="custom"><img :src="$page.frontmatter.thumbnail"></div>
         
         <Content/>
-        <Arrow
-          :projecturl="$page.frontmatter.projecturl"/>
+        
+    <!-- <Arrow :projecturl="$page.frontmatter.projecturl"/> -->
 
 
       <!-- Journal list -->
