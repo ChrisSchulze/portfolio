@@ -13,6 +13,7 @@ next_project:
   project_url: http://www.janchristianschulze.de/works/compo.html
 project_name: Compo
 project_url: "(/works/compo.html)"
+projecturl: compo.html
 
 ---
 ### Issue
