@@ -1,7 +1,7 @@
 <template>
 
 
-<router-link :to="{ name: 'works', params: { projecturl } }">
+<router-link :to="{ name: 'works', params: { description } }">
 
 
 	<h4>
