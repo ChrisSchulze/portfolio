@@ -1,7 +1,7 @@
 <template>
 
 
-<router-link :to="{ name: 'works', params: 'carglass.html' }">
+<router-link :to="{ name: 'carglass.html' }">
 
 
 	<h4>
