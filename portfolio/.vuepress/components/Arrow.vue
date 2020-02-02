@@ -1,8 +1,6 @@
 <template>
 
-
-<router-link :to="">
-
+<router-link to="home">
 	<h4>
 		<a class="animated-arrow" href="">
                				<span class="the-arrow -left">
