@@ -1,7 +1,7 @@
 <template>
   <div class="wrapper">
 
-    <Navbar :logo="$site.themeConfig.logo" />
+    <Navbar :logo="$site.themeConfig.logo" :sticky="$route.path === '/'" />
 
     <div class="container">
 
@@ -28,12 +28,15 @@
         :description="$page.frontmatter.description"
         />
         
+        <SingleProjectHeader
+          :services="$page.frontmatter.services"
+          :year="$page.frontmatter.year.toString()"
+          :categories="$page.frontmatter.categories"
+        />
+        
         <div id="custom"><img :src="$page.frontmatter.thumbnail"></div>
         
         <Content/>
-        
-
-
 
       <!-- Journal list -->
       <div v-if="$route.path === '/journal/'" class="journal-list">
@@ -46,8 +49,6 @@
       </div>
 
     </div>
-    
-
 
     <Footer />
 
