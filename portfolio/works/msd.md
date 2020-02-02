@@ -10,7 +10,7 @@ categories:
 year: 2020
 date: 
 project_name: Carglass
-projecturl: carglass.html
+projecturl: carglass
 
 ---
 ### **Issue**
