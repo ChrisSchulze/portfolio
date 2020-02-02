@@ -3,7 +3,7 @@
 
 
 <router-link :to="{ path: 'carglass.html' }">
-
+<p> {{ projecturl }} </p>
 	<h4>
 		<a class="animated-arrow" href="">
                				<span class="the-arrow -left">
