@@ -1,7 +1,6 @@
 ---
 title: MSD
 description: Putting the Museums on the Map
-permalink: msd
 thumbnail: "/upload/MSD_Design_1-1.jpg"
 services: Develop a new Branding and a Museum Hub
 categories:
@@ -11,6 +10,7 @@ year: 2020
 date: 
 project_name: Carglass
 projecturl: carglass
+permalink: msd
 
 ---
 ### **Issue**
