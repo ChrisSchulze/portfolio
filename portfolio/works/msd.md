@@ -45,5 +45,3 @@ Exhibitions are most valuable if visitors can relate. That's why we try to perso
 
 [Carglass](/works/carglass.html)
 
-<Arrow
-:projecturl="$page.frontmatter.projecturl"/>
