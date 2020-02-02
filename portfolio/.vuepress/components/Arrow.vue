@@ -26,7 +26,7 @@
 <script>
   export default {
     props: {
-      services: {
+      projecturl: {
         type: String,
         required: true
       }
