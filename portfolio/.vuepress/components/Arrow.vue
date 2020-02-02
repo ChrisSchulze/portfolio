@@ -10,7 +10,7 @@
                 			</span>
                 			
 				<span class="main">
-                 				                  <span class="text">{{ services }}</span>
+                 				                  <span class="text">Next Project</span>
                   			<span class="the-arrow -right">
                     				<span class="shaft"></span>
                   			</span>
