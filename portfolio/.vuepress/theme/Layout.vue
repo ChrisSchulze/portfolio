@@ -32,7 +32,7 @@
         
         <Content/>
         
-    <!-- <Arrow :projecturl="$page.frontmatter.projecturl"/> -->
+
 
 
       <!-- Journal list -->
