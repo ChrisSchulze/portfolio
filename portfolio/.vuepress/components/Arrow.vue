@@ -8,9 +8,7 @@
                   <span class="shaft"></span>
                 </span>
                 <span class="main">
-                  <span class="text">
-                    {{ services }}
-                  </span>
+                  <span class="value categories" v-for="category in categories" v-text="category" />
                   <span class="the-arrow -right">
                     <span class="shaft"></span>
                   </span>
@@ -24,8 +22,8 @@
 <script>
   export default {
     props: {
-      services: {
-        type: String,
+      categories: {
+        type: Array,
         required: true
       }
     }
