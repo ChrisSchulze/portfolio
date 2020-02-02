@@ -1,6 +1,6 @@
 <template>
 
-<router-link :to="{ path: 'compo.html' }">
+<router-link :to="{ path: '{{ projecturl }}' }">
 
  
 	<h4>
