@@ -2,7 +2,7 @@
 
 
 
-<router-link :to="{ name: 'works', params: carglass.html }">
+<router-link :to="{ path: 'carglass' }">
 
 	<h4>
 		<a class="animated-arrow" href="">
