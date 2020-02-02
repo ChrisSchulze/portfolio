@@ -1,7 +1,7 @@
 <template>
 
 
-<router-link :to="{ path: '{{ projecturl }}' }">
+<router-link :to="{ path: '/user/:projecturl' }"> 
 
 	<h4>
 		<a class="animated-arrow" href="">
