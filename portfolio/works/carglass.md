@@ -11,8 +11,8 @@ date:
 next_project:
   project_name: Compo
   project_url: http://www.janchristianschulze.de/works/compo.html
-project_name: ''
-project_url: ''
+project_name: Compo
+project_url: "(/works/compo.html)"
 
 ---
 ### Issue
