@@ -45,3 +45,20 @@ Exhibitions are most valuable if visitors can relate. That's why we try to perso
 
 [Carglass](/works/carglass.html)
 
+<router-link :to="{ path: 'carglass.html' }">
+	<h4>
+		<a class="animated-arrow" href="">
+        <span class="the-arrow -left">
+            <span class="shaft"></span>
+        </span>	
+				<span class="main">
+            <span class="text">Next Project</span>
+                  			<span class="the-arrow -right">
+                    				<span class="shaft"></span>
+                  			</span>
+      </span>        	
+    </a>
+	</h4>
+
+</router-link>
+
