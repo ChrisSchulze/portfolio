@@ -9,7 +9,7 @@ categories:
 year: 2020
 date: 
 project_name: Carglass
-projecturl: carglass
+projecturl: carglass.html
 permalink: msd
 
 ---
