@@ -44,7 +44,7 @@ fields:
   config:
     required: false
   label: Next Project Name
-- name: project_url
+- name: projecturl
   type: text
   config:
     required: false
