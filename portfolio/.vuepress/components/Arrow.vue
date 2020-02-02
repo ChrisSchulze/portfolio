@@ -27,7 +27,9 @@
       services: {
         type: String,
         required: true
-      },
+      }
+    }
+  }
 </script>
 
 <style scoped>
