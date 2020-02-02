@@ -1,7 +1,7 @@
 <template>
 
 
-<router-link :to="{ path: 'carglass.html' }">
+<router-link :to="{ path: {projecturl} }">
 
 
 	<h4>
