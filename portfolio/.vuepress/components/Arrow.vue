@@ -3,17 +3,20 @@
 <router-link :to="{ path: 'compo.html' }">
 
  
-		<h4><a class="animated-arrow" href="">
-                <span class="the-arrow -left">
-                  <span class="shaft"></span>
-                </span>
-                <span class="main">
-                  <span class="value categories" v-for="category in categories" v-text="category" />
-                  <span class="the-arrow -right">
-                    <span class="shaft"></span>
-                  </span>
-                </span>
-              </a></h4>
+	<h4>
+		<a class="animated-arrow" href="">
+               				<span class="the-arrow -left">
+                  				<span class="shaft"></span>
+                			</span>
+                			
+					<span class="main"></span>
+                 
+                  			<span class="the-arrow -right">
+                    				<span class="shaft"></span>
+                  			</span>
+                	
+              </a>
+	</h4>
 
 </router-link>
 
