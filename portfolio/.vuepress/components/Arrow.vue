@@ -1,6 +1,6 @@
 <template>
 
-
+<p><span class="value">{{ projecturl }}</span></p>
 
 <router-link :to="{ path: 'projecturl' }">
 
