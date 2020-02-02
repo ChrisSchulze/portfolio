@@ -31,6 +31,7 @@
         <div id="custom"><img :src="$page.frontmatter.thumbnail"></div>
         
         <Content/>
+        <Arrow />
 
       <!-- Journal list -->
       <div v-if="$route.path === '/journal/'" class="journal-list">
