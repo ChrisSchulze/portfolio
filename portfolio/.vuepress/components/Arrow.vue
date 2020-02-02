@@ -9,11 +9,12 @@
                   				<span class="shaft"></span>
                 			</span>
                 			
-					<span class="main"></span>
+				<span class="main">
                  
                   			<span class="the-arrow -right">
                     				<span class="shaft"></span>
                   			</span>
+				</span>
                 	
               </a>
 	</h4>
