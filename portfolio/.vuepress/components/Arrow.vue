@@ -9,7 +9,7 @@
                 </span>
                 <span class="main">
                   <span class="text">
-                    {{ project_name }}
+                    {{ services }}
                   </span>
                   <span class="the-arrow -right">
                     <span class="shaft"></span>
@@ -24,12 +24,10 @@
 <script>
   export default {
     props: {
-      project_name: {
+      services: {
         type: String,
         required: true
       },
-    }
-  }
 </script>
 
 <style scoped>
