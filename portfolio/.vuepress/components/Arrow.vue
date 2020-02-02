@@ -1,7 +1,7 @@
 <template>
 
 
-<router-link :to="{ path: 'carglass' }">
+<router-link :to="{ path: 'carglass.html' }">
  
 	<h4>
 		<a class="animated-arrow" href="">
