@@ -1,6 +1,6 @@
 <template>
 
-<router-link :to="{ path: 'carglass.html' }">
+<router-link :to="{ path: 'compo.html' }">
 
  
 		<h4><a class="animated-arrow" href="">
