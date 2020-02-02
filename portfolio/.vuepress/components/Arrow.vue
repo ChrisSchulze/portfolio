@@ -2,7 +2,7 @@
 
 
 
-<router-link :to="{ path: '{ projecturl }' }">
+<router-link :to="{ path: 'projecturl' }">
 
 	<h4>
 		<a class="animated-arrow" href="">
