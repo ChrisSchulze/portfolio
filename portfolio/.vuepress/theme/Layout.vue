@@ -127,7 +127,7 @@
       --spacing-xxl: 320px;
       --spacing-xl: 240px;
       --spacing-big: 160px;
-      --padding-medium: 120px;
+      --spacing-medium: 120px;
       --padding-small: 80px;
       --padding-xsmall: 40px;
       --padding-xxsmall: 16px;
@@ -138,7 +138,7 @@
         --spacing-xxl: 240px;
         --spacing-xl: 180px;
         --spacing-big: 120px;
-        --padding-medium: 80px;
+        --spacing-medium: 80px;
         --padding-small: 40px;
         --padding-xsmall: 40px;
         --padding-xxsmall: 16px;
@@ -150,7 +150,7 @@
         --spacing-xxl: 160px;
         --spacing-xl: 120px;
         --spacing-big: 64px;
-        --padding-medium: 40px;
+        --spacing-medium: 40px;
         --padding-small: 24px;
         --padding-xsmall: 24px;
         --padding-xxsmall: 8px;
