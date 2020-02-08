@@ -200,6 +200,11 @@
     padding: 0 5vw;
   }
   
+  .container-enter-active {
+  opacity: 0;
+  transition: opacity 1s ease-in;
+  }
+  
   .project-list {
     padding-top: var(--spacing-xl) !important;
     }
