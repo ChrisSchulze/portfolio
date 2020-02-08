@@ -32,21 +32,10 @@
         
         <Content/>
 
-      <!-- Journal list -->
-      <div v-if="$route.path === '/journal/'" class="journal-list">
-        <Content />
+
+
       </div>
-
-      <!-- Single journal -->
-      <div v-if="isSingleJournal" class="single-journal">
-        <Content/>
-      </div>
-
-    </div>
-
     <Footer />
-    
-
   </div>
 </template>
 
