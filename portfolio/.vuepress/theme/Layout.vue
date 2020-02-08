@@ -1,23 +1,22 @@
 <template>
   <div class="wrapper">
-
-    <Navbar :logo="$site.themeConfig.logo" />
-
-<transition name="moveInUp">
-
-    <div class="container">
-
-    <!-- Works list -->
-      <div
+      <Navbar :logo="$site.themeConfig.logo" />
+        <div class="container">
+        
+        <!-- Works list -->
+        
+        <div
         v-if="$route.path === '/'"
         :style="{
           marginTop: '0rem'
         }"
-      >
+        >
+       
         <Content/>
       </div>
 
           <!-- Single project view -->
+          
           <div v-if="isSingleProject"
               :style="{
               marginTop: '0rem'
@@ -47,7 +46,6 @@
 
     <Footer />
     
-  </transition>
 
   </div>
 </template>
@@ -202,26 +200,6 @@
   .container {
     padding: 0 5vw;
   }
-  
-.moveInUp-enter-active{
-  opacity: 0;
-  transition: opacity 1s ease-in;
-}
-  
-.moveInUp-enter-active{
-  animation: fadeIn 1s ease-in;
-}
-@keyframes fadeIn{
-  0%{
-    opacity: 0;
-  }
-  50%{
-    opacity: 0.5;
-  }
-  100%{
-    opacity: 1;
-  }
-}
   
   .project-list {
     padding-top: var(--spacing-xl) !important;
