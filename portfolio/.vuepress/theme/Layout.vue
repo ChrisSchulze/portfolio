@@ -5,13 +5,13 @@
     
         <div class="container">
         
-        <!-- Works list -->
+          <!-- Works list -->
         
-        <div v-if="$route.path === '/'">
-          <Content/>
-        </div>
+          <div v-if="$route.path === '/'">
+            <Content/>
+          </div>
 
-        <!-- Single project view -->
+          <!-- Single project view -->
           
           <div v-if="isSingleProject">
             <SingleProjectStage  
@@ -21,8 +21,10 @@
               <div id="custom"><img :src="$page.frontmatter.thumbnail">
               </div>
                 <Content/>
-          </div>
-          
+           </div>
+         
+         </div>
+         
     <Footer/>
     
   </div>
