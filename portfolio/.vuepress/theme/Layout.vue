@@ -243,7 +243,7 @@
     max-width: 870px;
     font-size: 0.875rem;
     line-height: 1rem;
-    letter-spacing: 0.5 px;
+    letter-spacing: 0.5px;
     color: #D1D1D2;
     padding-bottom: var(--padding-xxsmall);;
     margin: 0 auto 0 auto;
@@ -262,6 +262,7 @@
       font-family: "PilatWideDemi";
       font-size: 0.875rem;
       line-height: 0.875rem;
+      letter-spacing: 0.5px;
       width: 100%;
       max-width: 870px;
       margin: 0 auto 3rem auto;
