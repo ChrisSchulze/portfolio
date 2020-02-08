@@ -222,7 +222,7 @@
   
     @media (max-width: 400px) {
       h1 { 
-          font-size: 2.5em;
+          font-size: 3em;
           line-height: 1em;
         }
   }
