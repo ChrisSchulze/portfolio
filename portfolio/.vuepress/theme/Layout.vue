@@ -3,6 +3,8 @@
 
     <Navbar :logo="$site.themeConfig.logo" />
 
+<transition name="moveInUp">
+
     <div class="container">
 
     <!-- Works list -->
@@ -44,6 +46,8 @@
     </div>
 
     <Footer />
+    
+  </transition>
 
   </div>
 </template>
@@ -199,12 +203,12 @@
     padding: 0 5vw;
   }
   
-  .container-enter-active {
+.moveInUp-enter-active{
   opacity: 0;
   transition: opacity 1s ease-in;
-  }
+}
   
-  .container-enter-active{
+.moveInUp-enter-active{
   animation: fadeIn 1s ease-in;
 }
 @keyframes fadeIn{
