@@ -3,7 +3,7 @@
   
     <Navbar :logo="$site.themeConfig.logo" />
     
-       
+        <div class="container">
         
           <!-- Works list -->
         
@@ -21,9 +21,7 @@
               <div id="custom"><img :src="$page.frontmatter.thumbnail">
               </div>
                 <Content/>
-           </div>
-         
-         
+           </div>   
          
     <Footer/>
     
