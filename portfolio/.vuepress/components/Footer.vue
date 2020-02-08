@@ -28,7 +28,7 @@
     width: 100%;
 
     font-weight: 400;
-    padding-bottom: var(--padding-big);
+    padding-bottom: var(--spacing-big);
   }
   
   .nav {
