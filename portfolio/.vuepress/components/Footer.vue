@@ -26,9 +26,8 @@
     flex-wrap: wrap;
     justify-content: space-between;
     width: 100%;
-
     font-weight: 400;
-    padding-bottom: var(--spacing-medium);
+    margin-bottom: var(--spacing-medium);
   }
   
   .nav {
