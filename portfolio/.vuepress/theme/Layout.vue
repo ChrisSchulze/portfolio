@@ -3,7 +3,7 @@
   
     <Navbar :logo="$site.themeConfig.logo" />
     
-        <div class="container">
+       
         
           <!-- Works list -->
         
@@ -23,7 +23,7 @@
                 <Content/>
            </div>
          
-         </div>
+         
          
     <Footer/>
     
