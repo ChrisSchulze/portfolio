@@ -50,11 +50,6 @@
   .post h4 {
   padding-top: var(--padding-xsmall);
   }
-  
-  .project-list {
-  padding-top: var(--spacing-big);
-    
-    }
     
 .the-arrow {
 	 width: 64px;
