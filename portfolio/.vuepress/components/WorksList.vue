@@ -52,7 +52,7 @@
   }
   
   .project-list {
-  padding-top: var(--padding-big);
+  padding-top: var(--spacing-big);
     
     }
     
