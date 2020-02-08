@@ -122,11 +122,11 @@
       background: #161618;
       color: #595959;
       
-      /* Padding */
+      /* Spacing */
       
       --spacing-xxl: 320px;
       --spacing-xl: 240px;
-      --padding-big: 160px;
+      --spacing-big: 160px;
       --padding-medium: 120px;
       --padding-small: 80px;
       --padding-xsmall: 40px;
@@ -137,7 +137,7 @@
       html { 
         --spacing-xxl: 240px;
         --spacing-xl: 180px;
-        --padding-big: 120px;
+        --spacing-big: 120px;
         --padding-medium: 80px;
         --padding-small: 40px;
         --padding-xsmall: 40px;
@@ -149,7 +149,7 @@
       html {
         --spacing-xxl: 160px;
         --spacing-xl: 120px;
-        --padding-big: 64px;
+        --spacing-big: 64px;
         --padding-medium: 40px;
         --padding-small: 24px;
         --padding-xsmall: 24px;
@@ -172,7 +172,7 @@
     max-width: 100%;
     line-height: 0;
     margin: auto auto auto auto;
-    padding-bottom: var(--padding-big);
+    padding-bottom: var(--spacing-big);
   }
 
   .container {
@@ -180,7 +180,7 @@
   }
   
   .project-list {
-    padding-top: var(--spacing-xl) !important;
+    margin-top: var(--spacing-big) !important;
     }
 
   .journal-list, .single-journal {
@@ -210,7 +210,7 @@
     font-weight: 700;
     color: #D1D1D2; 
     margin: 0 auto 0 auto;
-    padding-bottom: var(--padding-big);
+    padding-bottom: var(--spacing-big);
   }
   
     @media (max-width: 900px) {
@@ -272,7 +272,7 @@
     line-height: 2.875rem;
     letter-spacing: 1.2px;
     margin: auto auto auto auto;
-    padding-bottom: var(--padding-big);
+    padding-bottom: var(--spacing-big);
   }
   
   .bold {
@@ -317,7 +317,7 @@
     .post {
     position: relative;
     width: 100%;
-    padding-bottom: var(--padding-big);
+    padding-bottom: var(--spacing-big);
     cursor: default;
   }
 
