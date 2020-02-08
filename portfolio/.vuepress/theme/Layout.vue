@@ -164,7 +164,7 @@
   }
   
   .container {
-    margin-top: var(--spacing-xxl);
+    margin-top: var(--spacing-xl);
     }
 
   img {
