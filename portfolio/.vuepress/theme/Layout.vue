@@ -5,23 +5,13 @@
         
         <!-- Works list -->
         
-        <div
-        v-if="$route.path === '/'"
-        :style="{
-          marginTop: '0rem'
-        }"
-        >
-       
-        <Content/>
-      </div>
+        <div v-if="$route.path === '/'">
+          <Content/>
+        </div>
 
           <!-- Single project view -->
           
-          <div v-if="isSingleProject"
-              :style="{
-              marginTop: '0rem'
-              }"
-          >
+          <div v-if="isSingleProject">
       
         <SingleProjectStage  
         :title="$page.frontmatter.title"
@@ -35,7 +25,7 @@
 
 
       </div>
-    <Footer />
+    <Footer/>
   </div>
 </template>
 
