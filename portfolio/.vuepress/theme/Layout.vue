@@ -28,12 +28,6 @@
         :description="$page.frontmatter.description"
         />
         
-        <SingleProjectHeader
-          :services="$page.frontmatter.services"
-          :year="$page.frontmatter.year.toString()"
-          :categories="$page.frontmatter.categories"
-        />
-        
         <div id="custom"><img :src="$page.frontmatter.thumbnail"></div>
         
         <Content/>
