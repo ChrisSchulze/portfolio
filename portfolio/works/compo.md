@@ -17,12 +17,6 @@ projecturl: dhb.html
 
 <p class="einleser">COMPO wanted to grow their customer base. We saw an opportunity in a younger audience. We were assigned to come up with ideas for their digital touchpoints.</p>
 
-<SingleProjectHeader
-:services="$page.frontmatter.services"
-:year="$page.frontmatter.year.toString()"
-:categories="$page.frontmatter.categories"
-/>
-
 ![](/upload/compo_image_2-1.jpg)
 
 ### Approach
