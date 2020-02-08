@@ -28,7 +28,7 @@
     width: 100%;
 
     font-weight: 400;
-    padding-bottom: var(--spacing-big);
+    padding-bottom: var(--spacing-medium);
   }
   
   .nav {
@@ -77,6 +77,8 @@
     display: inline;      
 }
 #ul_top_hypers li{
+    font-family: "PilatWideDemi";
+    color: #D1D1D2;
     font-size: 0.75em !important;
     padding-right: 0.5em;
     display: inline;  
