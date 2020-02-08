@@ -205,6 +205,21 @@
   transition: opacity 1s ease-in;
   }
   
+  .container-enter-active{
+  animation: fadeIn 1s ease-in;
+}
+@keyframes fadeIn{
+  0%{
+    opacity: 0;
+  }
+  50%{
+    opacity: 0.5;
+  }
+  100%{
+    opacity: 1;
+  }
+}
+  
   .project-list {
     padding-top: var(--spacing-xl) !important;
     }
