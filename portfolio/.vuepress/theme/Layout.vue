@@ -277,8 +277,7 @@
   
   .bold {
     font-family: "PilatWideDemi" !important;
-    
-    color: #D1D1D2; 
+    color: #D1D1D2 !important;; 
   }
   
   @media (max-width: 900px) {
