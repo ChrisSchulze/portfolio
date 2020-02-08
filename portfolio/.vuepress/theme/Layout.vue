@@ -1,6 +1,8 @@
 <template>
   <div class="wrapper">
-      <Navbar :logo="$site.themeConfig.logo" />
+  
+    <Navbar :logo="$site.themeConfig.logo" />
+    
         <div class="container">
         
         <!-- Works list -->
@@ -9,23 +11,20 @@
           <Content/>
         </div>
 
-          <!-- Single project view -->
+        <!-- Single project view -->
           
           <div v-if="isSingleProject">
-      
-        <SingleProjectStage  
-        :title="$page.frontmatter.title"
-        :description="$page.frontmatter.description"
-        />
-        
-        <div id="custom"><img :src="$page.frontmatter.thumbnail"></div>
-        
-        <Content/>
-
-
-
-      </div>
+            <SingleProjectStage  
+            :title="$page.frontmatter.title"
+            :description="$page.frontmatter.description"
+            />
+              <div id="custom"><img :src="$page.frontmatter.thumbnail">
+              </div>
+                <Content/>
+          </div>
+          
     <Footer/>
+    
   </div>
 </template>
 
