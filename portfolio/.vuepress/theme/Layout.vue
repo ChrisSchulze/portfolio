@@ -22,7 +22,6 @@
               }"
           >
       
-      
         <SingleProjectStage  
         :title="$page.frontmatter.title"
         :description="$page.frontmatter.description"
