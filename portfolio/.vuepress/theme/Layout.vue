@@ -327,7 +327,7 @@
   }
 
 .moveInUp-enter-active{
-  animation: fadeIn 1.5s ease-in;
+  animation: fadeIn 1s ease-in;
 }
 @keyframes fadeIn{
   0%{
