@@ -9,11 +9,11 @@
    <div class="container">
     
     <!-- Works list -->
-      
+      <transition name="moveInUp">
       <div v-if="$route.path === '/'">
        <Content/>
       </div>
-
+</transition>
           <!-- Single project view -->
           
 
