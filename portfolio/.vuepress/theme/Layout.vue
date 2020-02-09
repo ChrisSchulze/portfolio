@@ -1,6 +1,6 @@
 <template>
 
-  <div class="wrapper">
+  <div name="moveInUp" class="wrapper">
   
     <Navbar :logo="$site.themeConfig.logo" />
     
@@ -321,5 +321,20 @@
     padding-bottom: var(--spacing-big);
     cursor: default;
   }
+  
+  .moveInUp{
+  animation: fadeIn 2s ease-in;
+}
+@keyframes fadeIn{
+  0%{
+    opacity: 0;
+  }
+  50%{
+    opacity: 0.5;
+  }
+  100%{
+    opacity: 1;
+  }
+}
 
 </style>
