@@ -11,7 +11,9 @@
         <h1 class="tight">{{ post.frontmatter.title }}<br>
               <span class="outline">{{ post.frontmatter.description }}</span>
         </h1>
-		<h4 class="animated-arrow">
+	<h4>
+		<a class="animated-arrow" href="">
+		
                 <span class="the-arrow -left">
                   <span class="shaft"></span>
                 </span>
@@ -23,6 +25,7 @@
                     <span class="shaft"></span>
                   </span>
                 </span>
+		</a>
               </h4>
 
     </router-link>
