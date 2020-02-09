@@ -1,4 +1,5 @@
 <template>
+ <transition name="moveInUp">
   <div class="wrapper">
   
     <Navbar :logo="$site.themeConfig.logo" />
@@ -24,8 +25,8 @@
            </div>   
          
         <Footer/>
-           <transition name="moveInUp">
-         <router-view/>
+          
+  
        </transition>
   </div>
 </template>
