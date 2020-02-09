@@ -8,12 +8,15 @@
         
           <!-- Works list -->
         
-          <div v-if="$route.path === '/'">
+               <transition name="moveInUp">
+                  <div v-if="$route.path === '/'">
+               </transition>
             <Content/>
           </div>
 
           <!-- Single project view -->
           
+          <transition name="moveInUp">
           <div v-if="isSingleProject">
             <SingleProjectStage  
             :title="$page.frontmatter.title"
@@ -23,6 +26,7 @@
               </div>
                 <Content/>
            </div>   
+         </transition>
          
         <Footer/>
 
