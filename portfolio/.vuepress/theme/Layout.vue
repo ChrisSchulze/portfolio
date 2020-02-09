@@ -1,6 +1,6 @@
 <template>
 
-  <div name="moveInUp" class="wrapper">
+  <div class="wrapper">
   
     <Navbar :logo="$site.themeConfig.logo" />
     
