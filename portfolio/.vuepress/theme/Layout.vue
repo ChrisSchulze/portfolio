@@ -332,15 +332,12 @@
 @keyframes fadeIn{
   0%{
     opacity: 0;
-    transform: translateY(-400);
   }
   50%{
-    opacity: 0.5;
-    transform: translateY(-200px);
+    opacity: 0.75;
   }
   100%{
     opacity: 1;
-    transform: translateY(0px);
   }
 }
 
