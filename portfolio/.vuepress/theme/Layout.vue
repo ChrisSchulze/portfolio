@@ -24,7 +24,7 @@
            </div>   
          
     <Footer/>
-    
+    <router-view/>
   </div>
 </template>
 
