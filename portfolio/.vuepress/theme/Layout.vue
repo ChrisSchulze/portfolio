@@ -342,7 +342,7 @@
 }
 
 .moveInUp-leave-active{
-  animation: moveInUp .3s ease-in;
+  animation: moveInUp 1s ease-in;
 }
 @keyframes moveInUp{
  0%{
