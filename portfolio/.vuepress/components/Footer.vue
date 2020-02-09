@@ -3,7 +3,7 @@
       <column class="nav">
         <div id="div_top_hypers">
           <ul id="ul_top_hypers">
-            <li><a href="/" class="a_top_hypers">Work</a></li>
+            <li><router-link to="/">Work</router-link></li>
             <li><a href="mailto:jan.christian.schulze@gmail.com" class="a_top_hypers">Contact</a></li>
           </ul>
         </div>
