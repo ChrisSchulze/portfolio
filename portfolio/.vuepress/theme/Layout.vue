@@ -2,9 +2,7 @@
 
   <div class="wrapper">
   
-    <transition name="moveInUp">
       <Navbar :logo="$site.themeConfig.logo" />
-    </transition>
     
    <div class="container">
     
