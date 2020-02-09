@@ -325,24 +325,18 @@
     padding-bottom: var(--spacing-big);
     cursor: default;
   }
-  
+
 .moveInUp-enter-active{
-  animation: moveInUp 2s ease-in-out;
+  animation: moveInUp .3s ease-in;
 }
-@keyframes fadeIn{
-  0%{
-    opacity: 0;
-    transform: translateY(-200);
-  }
-  50%{
-    opacity: 0.75;
-    transform: translateY(-100);
-    
-  }
+@keyframes moveInUp{
+ 0%{
+  transform: translateY(0);
+ }
   100%{
-    opacity: 1;
-    transform: translateY(0);
-  }
+  transform: translateY(-400px);
+ }
 }
+
 
 </style>
