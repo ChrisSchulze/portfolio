@@ -347,9 +347,11 @@
 @keyframes moveInUp{
  0%{
   transform: translateY(0);
+  opacity: 1;
  }
   100%{
-  transform: translateY(-400px);
+  transform: translateY(-200px);
+  opacity: 0;
  }
 }
 
