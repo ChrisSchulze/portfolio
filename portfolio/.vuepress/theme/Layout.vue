@@ -346,16 +346,12 @@
 }
 
 .moveInUp-leave-active{
-  animation: moveInUp 0.5s ease-in;
+  animation: moveInUp 0.75s ease-in-out;
 }
 @keyframes moveInUp{
  0%{
   transform: translateY(0);
   opacity: 1;
- }
-  50%{
-  transform: translateY(-100);
-  opacity: 0.25;
  }
  
   100%{
