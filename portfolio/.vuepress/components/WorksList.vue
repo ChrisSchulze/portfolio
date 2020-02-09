@@ -11,7 +11,7 @@
         <h1 class="tight">{{ post.frontmatter.title }}<br>
               <span class="outline">{{ post.frontmatter.description }}</span>
         </h1>
-		<h4><a class="animated-arrow" href="">
+		<h4 class="animated-arrow">
                 <span class="the-arrow -left">
                   <span class="shaft"></span>
                 </span>
@@ -23,7 +23,7 @@
                     <span class="shaft"></span>
                   </span>
                 </span>
-              </a></h4>
+              </h4>
 
     </router-link>
   </div>
