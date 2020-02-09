@@ -327,15 +327,18 @@
   }
 
 .moveInUp-enter-active{
-  animation: moveInUp 3s ease-in;
+  animation: fadeIn 2s ease-in;
 }
-@keyframes moveInUp{
- 0%{
-  transform: translateY(-300);
- }
+@keyframes fadeIn{
+  0%{
+    opacity: 0;
+  }
+  50%{
+    opacity: 0.5;
+  }
   100%{
-  transform: translateY(0px);
- }
+    opacity: 1;
+  }
 }
 
 
