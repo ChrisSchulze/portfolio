@@ -2,17 +2,17 @@
 
   <div class="wrapper">
   
-    <Navbar :logo="$site.themeConfig.logo" />
+    <transition name="moveInUp">
+      <Navbar :logo="$site.themeConfig.logo" />
+    </transition>
     
-        <div class="container">
-        
-          <!-- Works list -->
-        
-
-                  <div v-if="$route.path === '/'">
-
-            <Content/>
-          </div>
+   <div class="container">
+    
+    <!-- Works list -->
+      
+      <div v-if="$route.path === '/'">
+       <Content/>
+      </div>
 
           <!-- Single project view -->
           
