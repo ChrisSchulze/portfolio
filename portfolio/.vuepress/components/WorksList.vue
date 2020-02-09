@@ -176,5 +176,9 @@
  .animated-arrow > .main > .the-arrow {
 	 position: relative;
 }
+
+.post {
+	cursor:pointer;
+	}
     
 </style>
