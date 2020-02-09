@@ -327,7 +327,7 @@
   }
 
 .moveInUp-enter-active{
-  animation: moveInUp .3s ease-in;
+  animation: moveInUp 3s ease-in;
 }
 @keyframes moveInUp{
  0%{
