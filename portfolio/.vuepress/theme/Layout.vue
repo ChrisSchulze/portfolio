@@ -334,7 +334,7 @@
     opacity: 0;
   }
   50%{
-    opacity: 0.5;
+    opacity: 0.75;
   }
   100%{
     opacity: 1;
@@ -349,8 +349,13 @@
   transform: translateY(0);
   opacity: 1;
  }
+  50%{
+  transform: translateY(-100);
+  opacity: 0.25;
+ }
+ 
   100%{
-  transform: translateY(-300px);
+  transform: translateY(-200px);
   opacity: 0;
  }
 }
