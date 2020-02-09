@@ -327,14 +327,11 @@
   }
 
 .moveInUp-enter-active{
-  animation: fadeIn 2s ease-in;
+  animation: fadeIn 1.5s ease-in;
 }
 @keyframes fadeIn{
   0%{
     opacity: 0;
-  }
-  50%{
-    opacity: 0.75;
   }
   100%{
     opacity: 1;
