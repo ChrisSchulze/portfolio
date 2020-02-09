@@ -350,12 +350,12 @@
 }
 @keyframes moveInUp{
  0%{
-  transform: translateY(0);
+  
   opacity: 1;
  }
  
   100%{
-  transform: translateY(-200px);
+  top: 384px;
   opacity: 0;
  }
 }
