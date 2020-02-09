@@ -326,7 +326,7 @@
     cursor: default;
   }
   
-  .moveInUp{
+.moveInUp-enter-active{
   animation: fadeIn 2s ease-in;
 }
 @keyframes fadeIn{
@@ -339,6 +339,18 @@
   100%{
     opacity: 1;
   }
+}
+
+.moveInUp-leave-active{
+  animation: moveInUp .3s ease-in;
+}
+@keyframes moveInUp{
+ 0%{
+  transform: translateY(0);
+ }
+  100%{
+  transform: translateY(-400px);
+ }
 }
 
 </style>
