@@ -8,11 +8,6 @@
 
 <div class="content custom" :img src="{{ `url(${post.frontmatter.thumbnail})` }}">
 
-<div class="info">
-  <h2>{{ post.frontmatter.title }}</h2>
-    <span v-if="post.frontmatter.description">{{ post.frontmatter.description }}</span>
-</div>
-
 </template>
 
 <script>
