@@ -1,7 +1,7 @@
 ---
 title: Compo
 description: A Brand in Constant Flux
-thumbnail: "/upload/compo_image_1-2.jpg"
+thumbnail: ''
 services: Digital Rebranding, Look & Feel, Content Strategy
 categories:
 - Design Lead (UX & UI)
@@ -13,6 +13,8 @@ project_url: ''
 projecturl: dhb.html
 
 ---
+![](/upload/compo_image_1-2.jpg)
+
 ### Issue
 
 <p class="einleser">COMPO wanted to grow their customer base. We saw an opportunity in a younger audience. We were assigned to come up with ideas for their digital touchpoints.</p>
