@@ -1,7 +1,7 @@
 ---
 title: MSD
 description: Putting the Museums on the Map
-thumbnail: "/upload/MSD_Design_1-1.jpg"
+thumbnail: ''
 services: Develop a new Branding and a Museum Hub
 categories:
 - Design Lead (UX & UI)
@@ -13,6 +13,8 @@ projecturl: carglass.html
 permalink: msd
 
 ---
+![](/upload/MSD_Design_1-1.jpg)
+
 ### **Issue**
 
 <p class="einleser"><span class="bold">Finding the museums was difficult.</span> They lacked visibility both in the city and in the web. Once found there was no sense of belonging. Visually the museums looked separated. Finding interesting exhibitions was even more difficult. It was a maze.</p>
