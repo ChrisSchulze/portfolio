@@ -1,7 +1,7 @@
 ---
 title: KNF
 description: A Single Source of Truth
-thumbnail: "/upload/KNF_Designs_1.jpg"
+thumbnail: ''
 services: Product Information Data Base & Corporate Site
 categories:
 - " Digital Strategy"
@@ -13,6 +13,8 @@ project_url: ''
 projecturl: msd.html
 
 ---
+![](/upload/KNF_Designs_1.jpg)
+
 ### Issue
 
 <p class="einleser">In the past KNF's digital services had grown like sprawl: Lots of touchpoints, lots of differing product data, lots of people involved and no clear purpose.</p>
