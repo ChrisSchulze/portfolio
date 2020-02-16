@@ -1,7 +1,7 @@
 ---
 title: DHB
 description: A Bold and Ballsy brand
-thumbnail: "/upload/DHB_Designs_1.jpg"
+thumbnail: ''
 services: Develop a new Branding and a Look & Feel.
 categories:
 - Digital Brand Design
@@ -14,15 +14,17 @@ project_url: ''
 projecturl: knf.html
 
 ---
+![](/upload/DHB_Designs_1.jpg)
+
 ### Issue
 
 <p class="einleser">When we rebranded the DHB their new website was already in the making. The design was generic and the information architecture needed improvement.</p>
 
 <SingleProjectHeader
-          :services="$page.frontmatter.services"
-          :year="$page.frontmatter.year.toString()"
-          :categories="$page.frontmatter.categories"
-        />
+:services="$page.frontmatter.services"
+:year="$page.frontmatter.year.toString()"
+:categories="$page.frontmatter.categories"
+/>
 
 ![](/upload/DHB_Designs_2.jpg)
 
