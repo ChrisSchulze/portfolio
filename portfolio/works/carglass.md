@@ -2,7 +2,7 @@
 title: Carglass
 description: How to Fix a Broken Service
 permalink: carglass
-thumbnail: "/upload/carglass.jpg"
+thumbnail: ''
 services: Reinvent the booking service & build a new corporate site
 categories:
 - 'Design Lead (UX & UI) '
@@ -17,6 +17,8 @@ project_url: "(/works/compo.html)"
 projecturl: compo.html
 
 ---
+![](/upload/carglass.jpg)
+
 ### Issue
 
 <p class="einleser"><span class="bold">A broken window is annoying.</span> At least it's repair should be easy, fast and delightful. We teamed up with Carglass to reinvent their booking service. We defined product scope, designed and developed prototypes and did extensive user testing. All together in an agile scrum team.</p>
