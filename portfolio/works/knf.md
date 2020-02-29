@@ -42,7 +42,3 @@ We built a product information system and a shop-alike digital touchpoint for in
 Next up is a tool to facilitate collaboration. We want to enable service and customer to work together in an online platform for product development.
 
 ![](/upload/KNF_Designs_4.jpg)
-
-### **Next Project**
-
-[MSD](/works/msd.html)
