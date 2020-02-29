@@ -22,6 +22,7 @@
                 <Content/>
             <Arrow  
             :project_name="$page.frontmatter.project_name"
+            :projecturl="$page.frontmatter.projecturl"
             />
 </transition>
          
