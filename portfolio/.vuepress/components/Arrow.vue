@@ -1,5 +1,5 @@
 <template>
-
+<h3>Next Project
 		<a class="animated-arrow" :href="projecturl">
                				<span class="the-arrow -left">
                   				<span class="shaft"></span>
@@ -13,7 +13,7 @@
 				</span>
                 	
               </a>
-
+</h3>
 
 </template>
 
