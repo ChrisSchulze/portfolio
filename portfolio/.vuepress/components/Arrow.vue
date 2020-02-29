@@ -44,7 +44,7 @@
 	 transition: all 0.2s;
 }
  .the-arrow.-left {
-	 
+	 position: absolute;
 	 top: 24px;
 	 left: 0rem;
 }
