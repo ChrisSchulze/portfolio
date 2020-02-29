@@ -42,7 +42,3 @@ We developed a new brand architecture (house of houses), a logo system and a lay
 ### **One more thing**
 
 Exhibitions are most valuable if visitors can relate. That's why we try to personalize the web services as good as possible: from newsletter, to shop to "subjective" search terms (i.E. Are you the adventurous type?). In my opinion museums can learn a lot from e-commerce in the future.
-
-### **Next Project**
-
-[Carglass](/works/carglass.html)
