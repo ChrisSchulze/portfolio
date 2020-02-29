@@ -1,6 +1,6 @@
 <template>
 
-		<a class="animated-arrow" :href="url">
+		<a class="animated-arrow" :href="projecturl">
                				<span class="the-arrow -left">
                   				<span class="shaft"></span>
                 			</span>
@@ -24,7 +24,7 @@
         type: String,
         required: true
       	},
-    	url: {
+    	projecturl: {
         type: String,
         required: true
       	}
