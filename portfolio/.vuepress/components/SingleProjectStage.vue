@@ -60,10 +60,5 @@
   .categories:last-of-type:after {
     content: '';
   }
-  
-    .picture {
-    width: 20px;
-    height: auto;
-  }
 
 </style>
