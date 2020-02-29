@@ -1,29 +1,28 @@
 <template>
 
   <div class="wrapper">
-  
       <Navbar :logo="$site.themeConfig.logo" />
-    
    <div class="container">
     
     <!-- Works list -->
       <transition name="moveInUp">
-      <div v-if="$route.path === '/'">
-       <Content/>
+        <div v-if="$route.path === '/'">
+        <Content/>
       </div>
-</transition>
-          <!-- Single project view -->
-          
-<transition name="moveInUp">
-          <div v-if="isSingleProject">
-            <SingleProjectStage  
-            :title="$page.frontmatter.title"
-            :description="$page.frontmatter.description"
-            />
-              <div id="custom"><img :src="$page.frontmatter.thumbnail">
-              </div>
+      </transition>
+    
+    <!-- Single project view -->
+          <transition name="moveInUp">
+              <div v-if="isSingleProject">
+                  <SingleProjectStage  
+                  :title="$page.frontmatter.title"
+                  :description="$page.frontmatter.description"
+                  />
+              <div id="custom"><img :src="$page.frontmatter.thumbnail"></div>
                 <Content/>
-           </div>   
+            <Arrow  
+            :project_name="$page.frontmatter.project_name"
+            />
 </transition>
          
         <Footer/>
