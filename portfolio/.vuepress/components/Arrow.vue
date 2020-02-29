@@ -35,7 +35,7 @@
 <style scoped>
 
 .animated-arrow 	{
-	padding-top: var(--padding-xsmall);
+	padding-top: var(--padding-xxsmall);
 	margin-bottom: var(--spacing-big);
 	}
 
