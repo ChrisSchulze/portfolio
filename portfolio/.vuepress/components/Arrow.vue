@@ -34,6 +34,10 @@
 
 <style scoped>
 
+a 	{
+	margin-bottom: var(--spacing-large);
+	}
+
 .the-arrow {
 	 width: 64px;
 	 transition: all 0.2s;
