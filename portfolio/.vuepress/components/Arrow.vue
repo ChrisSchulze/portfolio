@@ -1,6 +1,6 @@
 <template>
 
-		<a class="animated-arrow" href="">
+		<a class="animated-arrow" :href="">
                				<span class="the-arrow -left">
                   				<span class="shaft"></span>
                 			</span>
@@ -20,10 +20,14 @@
 <script>
   export default {
     props: {
-      project_name: {
+    	project_name: {
         type: String,
         required: true
-      }
+      	},
+    	projecturl: {
+        type: String,
+        required: true
+      	}
     }
   }
 </script>
