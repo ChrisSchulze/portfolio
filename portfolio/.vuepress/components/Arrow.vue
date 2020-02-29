@@ -45,7 +45,7 @@
 }
  .the-arrow.-left {
 	 
-	 top: 3px;
+	 top: 12px;
 	 left: 0rem;
 }
  .the-arrow.-left > .shaft {
