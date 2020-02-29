@@ -8,7 +8,7 @@
                 			</span>
                 			
 				<span class="main">
-                 				                  <span class="text">Next Project</span>
+                 				                  <span class="text">{{ project_name }}</span>
                   			<span class="the-arrow -right">
                     				<span class="shaft"></span>
                   			</span>
@@ -24,7 +24,7 @@
 <script>
   export default {
     props: {
-      projecturl: {
+      project_name: {
         type: String,
         required: true
       }
