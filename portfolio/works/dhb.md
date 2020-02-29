@@ -41,7 +41,3 @@ I developed a look & feel bringing the new font and layout pattern to exemplary 
 ### One more thing
 
 I’m glad we could improve some of the sites UX and design flaws. Also we heightended the visual quality a lot. I still wish we could have developed the whole site though.
-
-### **Next Project**
-
-[KNF](/works/knf.html)
