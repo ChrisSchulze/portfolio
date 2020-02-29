@@ -34,8 +34,8 @@
 
 <style scoped>
 
-a 	{
-	margin-bottom: var(--spacing-large);
+.animated-arrow 	{
+	margin-bottom: var(--spacing-big);
 	}
 
 .the-arrow {
