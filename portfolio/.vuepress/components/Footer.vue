@@ -1,12 +1,20 @@
 <template>
   <footer class="footer" >  
       <column class="nav">
-        <div id="div_top_hypers">
-          <ul id="ul_top_hypers">
-            <li><router-link to="/">Work</router-link></li>
-            <li><a href="mailto:jan.christian.schulze@gmail.com" class="a_top_hypers">Contact</a></li>
-          </ul>
-        </div>
+      <ul>
+        <router-link
+          v-for="nav in navLinks"
+          :key="nav.text"
+          tag="li"
+          :to="nav.link"
+          active-class="active"
+          v-text="nav.text"
+          exact
+        />
+        <li v-for="nav in navLinks" v-if="nav.position === 'left' && nav.external">
+          <a :href="nav.link" target="_blank">{{ nav.text }}</a>
+        </li>
+      </ul>
       </column>
       <column class="text">
         <p class="hero">I'm always happy to meet new people. Give me a call <a class="bold" href="tel:+49-157-39240">+49 157 39 240 376</a> or send me an <a href="mailto:jan.christian.schulze@gmail.com" class="bold">E-Mail.</a></p>
