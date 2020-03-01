@@ -57,7 +57,7 @@
     color: #D1D1D2;
   justify-self: start;
       display: inline-block;
-    list-style: none !important;
+    list-style-type: none !important;
     margin-right: 1rem;
     user-select: none;
     cursor: pointer;
@@ -103,9 +103,6 @@
 
 
 
-  .nav {
-
-  }
   .nav li:last-of-type {
     margin: 0;
   }
