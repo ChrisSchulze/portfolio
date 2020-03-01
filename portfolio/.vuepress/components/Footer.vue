@@ -56,6 +56,12 @@
     letter-spacing: 1.2px;
     color: #D1D1D2;
   justify-self: start;
+      display: inline-block;
+    list-style: none !important;
+    margin-right: 1rem;
+    user-select: none;
+    cursor: pointer;
+    border-bottom: 1px solid transparent;
   }
   
   .text {
@@ -98,12 +104,7 @@
 
 
   .nav {
-    display: inline-block;
-    list-style: none !important;
-    margin-right: 1rem;
-    user-select: none;
-    cursor: pointer;
-    border-bottom: 1px solid transparent;
+
   }
   .nav li:last-of-type {
     margin: 0;
