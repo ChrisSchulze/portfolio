@@ -18,7 +18,6 @@
                   :title="$page.frontmatter.title"
                   :description="$page.frontmatter.description"
                   />
-              <div id="custom"><img :src="$page.frontmatter.thumbnail"></div>
                 <Content/>
             <Arrow  
             :project_name="$page.frontmatter.project_name"
