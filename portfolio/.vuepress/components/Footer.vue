@@ -92,7 +92,7 @@
 
 
 
-  .navigation li {
+  .nav {
     display: inline-block;
     list-style: none !important;
     margin-right: 1rem;
@@ -100,10 +100,10 @@
     cursor: pointer;
     border-bottom: 1px solid transparent;
   }
-  .navigation li:last-of-type {
+  .nav li:last-of-type {
     margin: 0;
   }
-  .navigation li:hover {
+  .nav li:hover {
     border-bottom: 1px solid #D1D1D2;
   }
   .active {
