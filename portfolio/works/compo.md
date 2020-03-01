@@ -13,7 +13,7 @@ project_url: ''
 projecturl: dhb.html
 
 ---
-![](/upload/compo_image_1-2.jpg)
+![COMPO Title](/upload/compo_image_1-2.jpg "COMPO Title")
 
 ### Issue
 
@@ -21,7 +21,7 @@ projecturl: dhb.html
 
 <SingleProjectHeader :services="$page.frontmatter.services" :year="$page.frontmatter.year.toString()" :categories="$page.frontmatter.categories" />
 
-![](/upload/compo_image_2-1.jpg)
+![COMPO Overview](/upload/compo_image_2-1.jpg "COMPO Overview")
 
 ### Approach
 
@@ -31,7 +31,7 @@ projecturl: dhb.html
 
 We came up with a brand pattern that consists of adaptive, leaflike structures. I also proposed a new set of fonts and a new image world. Regarding content strategy we went for gardening stories, knowledge and DIY manuals.
 
-![](/upload/compo_image_3.jpg)
+![COMPO Style Tiles](/upload/compo_image_3.jpg "COMPO Style Tiles")
 
 ### Outcome
 
