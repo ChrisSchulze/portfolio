@@ -94,7 +94,7 @@
 
   .navigation li {
     display: inline-block;
-    list-style: none;
+    list-style: none !important;
     margin-right: 1rem;
     user-select: none;
     cursor: pointer;
