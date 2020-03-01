@@ -6,8 +6,6 @@
   </h1>
  </div>
 
-<div class="content custom" :img src="{{ `url(${post.frontmatter.thumbnail})` }}">
-
 </template>
 
 <script>
