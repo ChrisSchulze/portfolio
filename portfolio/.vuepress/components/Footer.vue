@@ -90,30 +90,31 @@
   padding-bottom: 0px !important;
   }
 
-#div_top_hypers {
-    background-color:#eeeeee;
-    display: inline;      
-}
-#ul_top_hypers li{
-    font-family: "PilatWideDemi";
-    color: #D1D1D2;
-    font-size: 0.75em !important;
-    padding-right: 0.5em;
-    display: inline;  
-}
 
-  #ul_nav li {
-    
-    display: inline;
-    list-style-type: none !important;
+
+  .navigation li {
+    display: inline-block;
+    list-style: none;
+    margin-right: 1rem;
     user-select: none;
     cursor: pointer;
     border-bottom: 1px solid transparent;
   }
-
+  .navigation li:last-of-type {
+    margin: 0;
+  }
+  .navigation li:hover {
+    border-bottom: 1px solid #D1D1D2;
+  }
+  .active {
+    border-bottom: 1px solid #D1D1D2;
+  }
   a {
     text-decoration: none;
     color: inherit;
   }
+  a:active { color: inherit; }
+  a:visited { color: inherit; }
+
 
 </style>
