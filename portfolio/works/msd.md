@@ -13,7 +13,7 @@ projecturl: carglass.html
 permalink: msd
 
 ---
-![](/upload/MSD_Design_1-1.jpg)
+![Museen Dresden Stage](/upload/MSD_Design_1-1.jpg "Museen Dresden Stage")
 
 ### **Issue**
 
@@ -25,19 +25,19 @@ permalink: msd
 :categories="$page.frontmatter.categories"
 />
 
-![](/upload/MSD_Design_2-1.jpg)
+![Museen Dresden Overview](/upload/MSD_Design_2-1.jpg "Museen Dresden Overview")
 
 ### **Approach**
 
 We reviewed the existing brandings and started developing a new brand architecture. Simultaneously we developed personas and took a deep dive into the visitor journey to identify sweet spots.
 
-![](/upload/MSD_Design_3-1.jpg)
+![Museen Dresden Girl](/upload/MSD_Design_3-1.jpg "Museen Dresden Girl")
 
 ### **Solution**
 
 We developed a new brand architecture (house of houses), a logo system and a layout pattern derived from the museums floor plans. We literally <span class="bold">put the museums on the map.</span> This reflects in the information architecture. The museums are nested into each other; just like a matryoshka.
 
-![](/upload/MSD_Design_5.jpg)
+![Museen Dresden Calendar](/upload/MSD_Design_5.jpg "Museen Dresden Calendar")
 
 ### **One more thing**
 
