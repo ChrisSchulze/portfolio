@@ -14,7 +14,7 @@ project_url: ''
 projecturl: knf.html
 
 ---
-![](/upload/DHB_Designs_1.jpg)
+![DHB Stage](/upload/DHB_Designs_1.jpg "DHB Stage")
 
 ### Issue
 
@@ -26,7 +26,7 @@ projecturl: knf.html
 :categories="$page.frontmatter.categories"
 />
 
-![](/upload/DHB_Designs_2.jpg)
+![DHB Overview](/upload/DHB_Designs_2.jpg "DHB Overview")
 
 ### Approach
 
@@ -36,7 +36,7 @@ projecturl: knf.html
 
 I developed a look & feel bringing the new font and layout pattern to exemplary modules. Also I revised the sitemap and came up with one that has less depth and brings player and game scores up front.
 
-![](/upload/DHB_Designs_4.jpg)
+![DHB Player Statistic](/upload/DHB_Designs_4.jpg "DHB Player Statistic")
 
 ### One more thing
 
