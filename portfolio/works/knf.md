@@ -13,7 +13,7 @@ project_url: ''
 projecturl: msd.html
 
 ---
-![](/upload/KNF_Designs_1.jpg)
+![KNF Stage](/upload/KNF_Designs_1.jpg "KNF Stage")
 
 ### Issue
 
@@ -25,7 +25,7 @@ projecturl: msd.html
 :categories="$page.frontmatter.categories"
 />
 
-![](/upload/KNF_Designs_2.jpg)
+![KNF Overview](/upload/KNF_Designs_2.jpg "KNF Overview")
 
 ### Approach
 
@@ -35,10 +35,10 @@ projecturl: msd.html
 
 We built a product information system and a shop-alike digital touchpoint for internal and external usage. To spread KNFs excitement for technology and empower their employer branding we built a corporate site.
 
-![](/upload/KNF_Designs_3.jpg)
+![KNF Overview Product](/upload/KNF_Designs_3.jpg "KNF Overview Product")
 
 ### One more thing
 
 Next up is a tool to facilitate collaboration. We want to enable service and customer to work together in an online platform for product development.
 
-![](/upload/KNF_Designs_4.jpg)
+![KNF Co-Creation-Tool](/upload/KNF_Designs_4.jpg "KNF Co-Creation-Tool")
