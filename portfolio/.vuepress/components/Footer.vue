@@ -11,7 +11,7 @@
           v-text="nav.text"
           exact
         />
-        <li v-for="nav in navLinks" v-if="nav.position === 'left' && nav.external">
+        <li v-for="value in array.slice(0, 1)" v-if="nav.position === 'left' && nav.external">
           <a :href="nav.link" target="_blank">{{ nav.text }}</a>
         </li>
       </ul>
@@ -104,8 +104,6 @@
   padding-top: 4px;
   padding-bottom: 0px !important;
   }
-
-
 
   .nav li:last-of-type {
     margin: 0;
