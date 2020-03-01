@@ -57,11 +57,15 @@
     color: #D1D1D2;
   justify-self: start;
       display: inline-block;
-    list-style-type: none !important;
+    
     margin-right: 1rem;
     user-select: none;
     cursor: pointer;
     border-bottom: 1px solid transparent;
+  }
+  
+  .nav li {
+  list-style-type: none !important;
   }
   
   .text {
