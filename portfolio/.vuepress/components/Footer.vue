@@ -11,7 +11,7 @@
           v-text="nav.text"
           exact
         />
-        <li v-for="value in array.slice(0, 1)" v-if="nav.position === 'left' && nav.external">
+        <li  v-for="(value,index) in object" v-if="index <= 1">
           <a :href="nav.link" target="_blank">{{ nav.text }}</a>
         </li>
       </ul>
