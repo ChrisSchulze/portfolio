@@ -212,7 +212,7 @@
     font-weight: 700;
     color: #D1D1D2; 
     margin: 0 auto 0 auto;
-    padding-bottom: var(--spacing-big);
+    padding-bottom: var(--spacing-medium);
   }
   
     @media (max-width: 900px) {
