@@ -238,7 +238,7 @@
     letter-spacing: 2px;
     color: #D1D1D2;
     margin: auto auto auto auto;
-    padding-bottom: var(--padding-small);
+    padding-bottom: var(--padding-xsmall);
   }
   
   h4 {
