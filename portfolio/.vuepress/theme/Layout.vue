@@ -102,7 +102,7 @@
       /* Colors */
       
       background: #161618;
-      color: #595959;
+      color: #818181;
       
       /* Spacing */
       
