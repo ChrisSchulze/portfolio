@@ -73,7 +73,7 @@
     font-size: 0.8rem;
     line-height: 1.25em;
     letter-spacing: 1.2px;
-    color: #636363;
+    color: #7f7f7f;
     margin: auto auto auto auto;
   }
   
