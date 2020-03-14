@@ -33,30 +33,4 @@
     padding: 0 0 0 0 !important;
   }
 
-  .column {
-    flex: 0 0 33.33%;
-  }
-
-  .label {
-    margin-bottom: 0.5rem;
-    font-weight: 700;
-  }
-
-  .value {
-    font-size: 0.6rem;
-    line-height: 0.75rem;
-    letter-spacing: 0.75px;
-    font-weight: 700;
-    color: #d1d1d2 !important;
-    margin: 0 auto 0 auto;
-  }
-
-  .categories:after {
-    content: ', ';
-  }
-
-  .categories:last-of-type:after {
-    content: '';
-  }
-
 </style>
