@@ -273,7 +273,7 @@
   
   @media (max-width: 400px) {
       p { 
-          font-size: 1em;
+          font-size: 1.125em;
           line-height: 1.5em;
         }
   }
