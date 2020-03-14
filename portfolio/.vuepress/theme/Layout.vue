@@ -279,7 +279,7 @@
   }
   
   .einleser {
-  padding-bottom: var(--padding-small);
+  padding-bottom: var(--padding-medium);
   }
   
 
