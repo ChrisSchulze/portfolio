@@ -122,7 +122,7 @@
         --spacing-big: 120px;
         --spacing-medium: 80px;
         --padding-small: 40px;
-        --padding-xsmall: 40px;
+        --padding-xsmall: 24px;
         --padding-xxsmall: 16px;
         }
   }
