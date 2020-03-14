@@ -155,7 +155,7 @@
         --spacing-medium: 40px;
         --padding-small: 24px;
         --padding-xsmall: 24px;
-        --padding-xxsmall: 8px;
+        --padding-xxsmall: 16px;
         }
   }
   
