@@ -74,7 +74,7 @@
     font-size: 0.8rem;
     line-height: 1.25em;
     letter-spacing: 1.2px;
-    color: #595959;
+    color: #d1d1d2;
     margin: auto auto auto auto;
   }
   
