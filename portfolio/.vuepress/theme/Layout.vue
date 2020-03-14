@@ -91,7 +91,26 @@
     --color-highlight: rgba(249, 233, 172, 0.99);
   }
 
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
 
+  *::-moz-selection {
+    background: var(--color-highlight);
+    color: var(--color-black);
+  }
+
+  *::-webkit-selection {
+    background: var(--color-highlight);
+    color: var(--color-black);
+  }
+
+  *::selection {
+    background: var(--color-highlight);
+    color: var(--color-black);
+  }
 
   html {
   
