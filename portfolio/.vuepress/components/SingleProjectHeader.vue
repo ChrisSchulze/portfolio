@@ -64,8 +64,7 @@
   .label {
     font-size: 0.8rem;
     line-height: 1.25rem;
-    font-family: "PilatBook" !important;
-    font-weight: 400 !important;
+    font-family: "PilatWideDemi" !important;
     letter-spacing: 1.2px;
     color: #d1d1d2;
   }
@@ -74,7 +73,7 @@
     font-size: 0.8rem;
     line-height: 1.25em;
     letter-spacing: 1.2px;
-    color: #d1d1d2;
+    color: #595959;
     margin: auto auto auto auto;
   }
   
