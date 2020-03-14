@@ -255,7 +255,7 @@
     line-height: 2.6rem;
     letter-spacing: 1.2px;
     margin: auto auto auto auto;
-    padding-bottom: var(--spacing-big);
+    padding-bottom: var(--spacing-medium);
   }
   
   .bold {
