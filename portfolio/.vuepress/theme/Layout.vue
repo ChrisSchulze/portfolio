@@ -266,15 +266,15 @@
   
   @media (max-width: 900px) {
       p {
-          font-size: 1.25em;
-          line-height: 1.5em;
+          font-size: 1.5em;
+          line-height: 1.2em;
         }
   }
   
   @media (max-width: 400px) {
       p { 
           font-size: 1.25em;
-          line-height: 1.5em;
+          line-height: 1.2em;
         }
   }
   
