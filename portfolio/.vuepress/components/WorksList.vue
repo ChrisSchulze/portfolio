@@ -50,7 +50,9 @@
   padding-bottom: 0px !important;
   }
   
-
+  .post h4 {
+  padding-top: var(--padding-xxsmall);
+  }
     
 .the-arrow {
 	 width: 64px;
