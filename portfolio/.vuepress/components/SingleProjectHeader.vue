@@ -66,14 +66,14 @@
     line-height: 1.25rem;
     font-family: "PilatWideDemi" !important;
     letter-spacing: 1.2px;
-    color: #636363;
+    color: #d1d1d2;
   }
   
   .value {
     font-size: 0.8rem;
     line-height: 1.25em;
     letter-spacing: 1.2px;
-    color: #c2c5cc;
+    color: #636363;
     margin: auto auto auto auto;
   }
   
