@@ -121,7 +121,7 @@
         --spacing-xl: 180px;
         --spacing-big: 120px;
         --spacing-medium: 80px;
-        --padding-small: 40px;
+        --padding-small: 64px;
         --padding-xsmall: 24px;
         --padding-xxsmall: 16px;
         }
@@ -131,8 +131,8 @@
       html {
         --spacing-xxl: 160px;
         --spacing-xl: 120px;
-        --spacing-big: 64px;
-        --spacing-medium: 40px;
+        --spacing-big: 80px;
+        --spacing-medium: 64px;
         --padding-small: 24px;
         --padding-xsmall: 24px;
         --padding-xxsmall: 16px;
