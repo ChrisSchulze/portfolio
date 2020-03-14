@@ -141,8 +141,8 @@
   }
   
   .mobile-nav .logo {
-  width: 3rem;
-  height: 3rem;
+  width: 3rem !important;
+  height: 3rem !important;
   }
 
   .navigation li {
