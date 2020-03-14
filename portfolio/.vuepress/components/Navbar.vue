@@ -139,6 +139,11 @@
     top: 50%;
     transform: translate(-50%,-50%);
   }
+  
+  .mobile-nav .logo {
+  width: 3rem;
+  height: 3rem;
+  }
 
   .navigation li {
     display: inline-block;
