@@ -6,7 +6,7 @@
     
     <!-- Works list -->
     
-    <transition name="slide-fade" mode="out-in">
+    <transition name="fade" mode="out-in">
         <div v-if="$route.path === '/'">
         <Content/>
       </div>
@@ -14,7 +14,7 @@
     
     <!-- Single project view -->
     
-        <transition name="slide-fade" mode="out-in">
+        <transition name="fade" mode="out-in">
               <div v-if="isSingleProject">
                   <SingleProjectStage  
                   :title="$page.frontmatter.title"
