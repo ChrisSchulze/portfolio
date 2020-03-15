@@ -63,7 +63,7 @@
 
   .label {
     font-size: 0.8rem;
-    line-height: 1.25rem;
+    line-height: 1.05rem;
     font-family: "PilatWideDemi" !important;
     letter-spacing: 1.2px;
     color: #d1d1d2;
@@ -71,7 +71,7 @@
   
   .value {
     font-size: 0.8rem;
-    line-height: 1.25em;
+    line-height: 1.05em;
     letter-spacing: 1.2px;
     color: #9F9F9F;
     margin: auto auto auto auto;
