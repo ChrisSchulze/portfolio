@@ -10,10 +10,11 @@
         <div v-if="$route.path === '/'">
         <Content/>
       </div>
-
+</transition>
     
     <!-- Single project view -->
     
+        <transition name="fadeUp" mode="out-in">
               <div v-if="isSingleProject">
                   <SingleProjectStage  
                   :title="$page.frontmatter.title"
