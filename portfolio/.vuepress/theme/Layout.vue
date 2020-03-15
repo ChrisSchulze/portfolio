@@ -317,7 +317,7 @@
 }
 
 .fade-leave-active {
-  transition: opacity 0.5s;
+  transition: all 0.2 ease-outs;
 }
 
 .fade-leave-to {
