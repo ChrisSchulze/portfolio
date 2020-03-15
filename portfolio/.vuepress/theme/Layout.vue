@@ -6,7 +6,7 @@
     
     <!-- Works list -->
     
-    <transition name="fadeUp" mode="out-in">
+    <transition name="fade" mode="out-in">
         <div v-if="$route.path === '/'">
         <Content/>
       </div>
@@ -14,7 +14,7 @@
     
     <!-- Single project view -->
     
-        <transition name="fadeUp" mode="out-in">
+        <transition name="fade" mode="out-in">
               <div v-if="isSingleProject">
                   <SingleProjectStage  
                   :title="$page.frontmatter.title"
@@ -307,20 +307,32 @@
   }
 
 /*** TRANSITIONS ***/
+.fade-enter {
+  opacity: 0;
+}
 
-.fadeUp-enter-active{
-  animation: fadeIn 0.6s ease-in-out;
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.5s ease-out;
 }
-@keyframes fadeIn{
-  0%{
-    opacity: 0;
-    transform: translateY(80px);
-  }
-  100%{
-    opacity: 1;
-    transform: translateY(0px);
-  }
+
+.fade-leave-to {
+  opacity: 0;
 }
+
+.slide-fade-enter {
+  transform: translateX(10px);
+  opacity: 0;
+}
+
+.slide-fade-enter-active,
+.slide-fade-leave-active {
+  transition: all 0.2s ease;
+}
+
+.slide-fade-leave-to {
+  transform: translateX(-10px);
+  opacity: 0;
 
 
 </style>
