@@ -317,7 +317,7 @@
 }
 
 .fade-leave-active {
-  transition: all 0.2 ease-outs;
+  transition: all 0.2 ease-out;
 }
 
 .fade-leave-to {
@@ -325,19 +325,6 @@
   opacity: 0;
 }
 
-.slide-fade-enter {
-  transform: translateY(10px);
-  opacity: 0;
-}
 
-.slide-fade-enter-active,
-.slide-fade-leave-active {
-  transition: all 0.2s ease;
-}
-
-.slide-fade-leave-to {
-  transform: translateY(-10px);
-  opacity: 0;
-}
 
 </style>
