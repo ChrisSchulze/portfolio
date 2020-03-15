@@ -311,9 +311,12 @@
   opacity: 0;
 }
 
-.fade-enter-active,
-.fade-leave-active {
+.fade-enter-active {
   transition: opacity 0.5s ease-out;
+}
+
+.fade-leave-active {
+  transition: opacity;
 }
 
 .fade-leave-to {
