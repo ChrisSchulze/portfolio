@@ -308,6 +308,7 @@
 
 /*** TRANSITIONS ***/
 .fade-enter {
+  transform: translateY(40px);
   opacity: 0;
 }
 
@@ -320,6 +321,7 @@
 }
 
 .fade-leave-to {
+  transform: translateY(-40px);
   opacity: 0;
 }
 
