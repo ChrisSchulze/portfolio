@@ -313,11 +313,11 @@
 }
 
 .fade-enter-active {
-  transition: all 0.8s ease-out;
+  transition: all 0.8s ease-in;
 }
 
 .fade-leave-active {
-  transition: all 0.2 ease-out;
+  transition: all 0.2 ease-in;
 }
 
 .fade-leave-to {
