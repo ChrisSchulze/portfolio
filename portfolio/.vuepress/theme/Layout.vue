@@ -316,8 +316,12 @@
   transition: all 0.6s ease-out;
 }
 
+.fade-leave-active {
+  transition: all 0.1 ease-out;
+}
 
-
-
-
+.fade-leave-to {
+  transform: translateY(0px);
+  opacity: 0;
+}
 </style>
