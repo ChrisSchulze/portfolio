@@ -319,7 +319,7 @@
 }
 
 .slide-fade-leave-to {
-  transform: translateY(80px);
+  transform: translateY(-80px);
   opacity: 0;
 }
 
