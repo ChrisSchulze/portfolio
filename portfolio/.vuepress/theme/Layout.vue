@@ -305,6 +305,8 @@
     cursor: default;
   }
 
+/*** TRANSITIONS ***/
+
 .fadeUp-enter-active{
   animation: fadeIn 0.6s ease-in-out;
 }
