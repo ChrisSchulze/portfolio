@@ -307,18 +307,6 @@
   }
 
 /*** TRANSITIONS ***/
-.fade-enter {
-  opacity: 0;
-}
-
-.fade-enter-active,
-.fade-leave-active {
-  transition: opacity 0.5s ease-out;
-}
-
-.fade-leave-to {
-  opacity: 0;
-}
 
 .slide-fade-enter {
   transform: translateY(80px);
@@ -327,7 +315,7 @@
 
 .slide-fade-enter-active,
 .slide-fade-leave-active {
-  transition: all 1s ease;
+  transition: all 1s ease-out;
 }
 
 .slide-fade-leave-to {
