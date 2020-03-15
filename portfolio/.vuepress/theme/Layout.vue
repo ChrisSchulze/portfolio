@@ -6,7 +6,7 @@
     
     <!-- Works list -->
     
-    <transition name="fade" mode="out-in">
+    <transition name="slide" mode="out-in">
         <div v-if="$route.path === '/'">
         <Content/>
       </div>
@@ -14,7 +14,7 @@
     
     <!-- Single project view -->
     
-        <transition name="fade" mode="out-in">
+        <transition name="slide" mode="out-in">
               <div v-if="isSingleProject">
                   <SingleProjectStage  
                   :title="$page.frontmatter.title"
@@ -321,7 +321,7 @@
 }
 
 .slide-fade-enter {
-  transform: translateX(10px);
+  transform: translateY(80px);
   opacity: 0;
 }
 
@@ -331,7 +331,7 @@
 }
 
 .slide-fade-leave-to {
-  transform: translateX(-10px);
+  transform: translateY(-80px);
   opacity: 0;
 }
 
