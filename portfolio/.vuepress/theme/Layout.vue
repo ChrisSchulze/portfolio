@@ -5,14 +5,15 @@
    <div class="container">
     
     <!-- Works list -->
-      <transition name="moveInUp">
+    
+    <transition name="fadeUp" mode="out-in">
         <div v-if="$route.path === '/'">
         <Content/>
       </div>
-      </transition>
+
     
     <!-- Single project view -->
-          <transition name="moveInUp">
+    
               <div v-if="isSingleProject">
                   <SingleProjectStage  
                   :title="$page.frontmatter.title"
@@ -23,7 +24,7 @@
             :project_name="$page.frontmatter.project_name"
             :projecturl="$page.frontmatter.projecturl"
             />
-</transition>
+    </transition>
          
         <Footer/>
 
@@ -304,7 +305,7 @@
     cursor: default;
   }
 
-.moveInUp-enter-active{
+.fadeUp-enter-active{
   animation: fadeIn 0.6s ease-in-out;
 }
 @keyframes fadeIn{
