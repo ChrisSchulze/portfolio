@@ -42,3 +42,9 @@ We built a product information system and a shop-alike digital touchpoint for in
 Next up is a tool to facilitate collaboration. We want to enable service and customer to work together in an online platform for product development.
 
 ![KNF Co-Creation-Tool](/upload/KNF_Designs_4.jpg "KNF Co-Creation-Tool")
+
+
+<video width="560" height="240">
+  <source src="https://sample-videos.com/video123/mp4/480/big_buck_bunny_480p_1mb.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video> 
