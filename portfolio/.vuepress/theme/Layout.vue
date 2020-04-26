@@ -211,8 +211,7 @@
         }
   }
   
-  .lead {     padding: 5vw;
-              max-width: none !important;
+  .lead {     max-width: none !important;
               }
   
   .outline {
