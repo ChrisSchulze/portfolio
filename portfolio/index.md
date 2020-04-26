@@ -4,7 +4,7 @@ hero_text: <span class="s1"><br></span>
 title: Portfolio
 
 ---
-<h1 class="lead">I Help Companies Create Great Things. <span class="outline">Have A Look.</span>👇  
+<h1 class="lead">I Help Companies Create Great Things. <span class="outline">Please Have A Look.</span>  
   
 </h1>
 
