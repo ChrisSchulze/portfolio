@@ -212,7 +212,7 @@
   }
   
   .lead {     padding: 5vw;
-              width: 100%;
+              max-width: none !important;
               }
   
   .outline {
