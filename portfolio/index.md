@@ -4,8 +4,6 @@ hero_text: <span class="s1"><br></span>
 title: Portfolio
 
 ---
-## I help Companies Define, Design and Deliver
-
-<h1 class="tight">Maximum<br><span class="outline">Lovable Products.</span></h1>
+<h1 class="lead">I Help Companies Create Great Things</h1>
 
 <WorksList />
