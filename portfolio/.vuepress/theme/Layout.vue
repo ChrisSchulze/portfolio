@@ -211,6 +211,10 @@
         }
   }
   
+  .lead {     padding: 5vw;
+              width: 100%;
+              }
+  
   .outline {
   color: transparent;
   text-stroke: 0.5px rgba(210,210,210, 1);
