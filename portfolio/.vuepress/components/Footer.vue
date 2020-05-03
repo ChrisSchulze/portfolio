@@ -7,7 +7,7 @@
       <column class="logo">
         <img class="small" src="/upload/logo.png">
       </column>
-		<a class="animated-arrow" :href="projecturl">
+		<a class="animated-arrow" href="mailto:jan.christian.schulze@gmail.com">
                				<span class="the-arrow -left">
                   				<span class="shaft"></span>
                 			</span>
