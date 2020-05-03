@@ -2,9 +2,7 @@
 	<footer class="footer" >  
 		<h1 class="lead">Let’s create something valuable together.</h1>
 
-      		<div class="logo">
-        		<img class="small" src="/upload/logo.png">
-      		</div>
+
 
 		<h4>
 		<a class="animated-arrow" href="www.google.de">
