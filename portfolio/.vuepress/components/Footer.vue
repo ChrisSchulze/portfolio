@@ -7,21 +7,7 @@
       <column class="logo">
         <img class="small" src="/upload/logo.png">
       </column>
-<h3>Get in Contact
-		<a class="animated-arrow" href="mailto:jan.christian.schulze@gmail.com">
-               				<span class="the-arrow -left">
-                  				<span class="shaft"></span>
-                			</span>
-                			
-				<span class="main">
-                 				                  <span class="text">Get in Contact</span>
-                  			<span class="the-arrow -right">
-                    				<span class="shaft"></span>
-                  			</span>
-				</span>
-                	
-              </a>
-</h3>
+
 
   </footers>
 </template>
