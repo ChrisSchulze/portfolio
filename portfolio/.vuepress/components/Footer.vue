@@ -1,6 +1,6 @@
 <template>
 	<footer class="footer" >  
-		<h1 class="lead">Let’s create something valuable together.</h1>
+		<h1 class="lead">Let’s Create Something Valuable Together.</h1>
 
 			<h4>
 			<a class="animated-arrow" href="mailto:jan.christian.schulze@gmail.com">
