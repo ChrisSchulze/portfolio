@@ -55,10 +55,12 @@
   
   .text {
   justify-self: center;
+  flex-grow: 2;
   }
   
     .logo {
   justify-self: end;
+  flex-grow: 1;
   }
   
   @media (max-width: 900px) {
