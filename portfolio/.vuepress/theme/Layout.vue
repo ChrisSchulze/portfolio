@@ -182,7 +182,7 @@
 
   h3,h5,h6,p {
     width: 100%;
-    max-width: 800px;
+    max-width: 870px;
   }
 
   h1 {
