@@ -1,15 +1,11 @@
 <template>
 	<footer class="footer" >  
-	<div class="container">
+		<h1 class="lead">Let’s create something valuable together.</h1>
 
-     		 <div class="text">
-        		<h1 class="lead">Let’s create something valuable together.</h1>
-      		</div>
       		<div class="logo">
         		<img class="small" src="/upload/logo.png">
       		</div>
-	</div>
-	<div class="container">
+
 		<h4>
 		<a class="animated-arrow" href="www.google.de">
 		
@@ -46,24 +42,6 @@
   .footer {
     width: 100%;
     margin-bottom: var(--spacing-medium);
-  }
-  
-  .container {
-    display: flex;
-    display: -webkit-flex; /* Safari */
-    -webkit-flex-wrap: wrap; /* Safari 6.1+ */
-    flex-wrap: wrap;
-    justify-content: space-between;
-  }
-  
-  .text {
-  justify-self: center;
-  flex-grow: 2;
-  }
-  
-    .logo {
-  justify-self: end;
-  flex-grow: 1;
   }
   
   @media (max-width: 900px) {
