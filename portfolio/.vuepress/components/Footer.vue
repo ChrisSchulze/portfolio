@@ -2,7 +2,7 @@
   <footer class="footer" >  
 
       <column class="text">
-        <h1>Let’s create something valuable together.</h1>
+        <h1 class="lead">Let’s create something valuable together.</h1>
       </column>
       <column class="logo">
         <img class="small" src="/upload/logo.png">
@@ -33,24 +33,6 @@
     
 
     margin-bottom: var(--spacing-medium);
-  }
-  
-  .nav {
-      font-size: 0.8rem;
-    font-family: "PilatWideDemi";
-    letter-spacing: 1.2px;
-    color: #D1D1D2;
-  justify-self: start;
-      display: inline-block;
-    
-    margin-right: 1rem;
-    user-select: none;
-    cursor: pointer;
-    border-bottom: 1px solid transparent;
-  }
-  
-  .nav li {
-  list-style-type: none !important;
   }
   
   .text {
