@@ -2,26 +2,25 @@
 	<footer class="footer" >  
 		<h1 class="lead">Let’s create something valuable together.</h1>
 
-
-
-		<h4>
-		<a class="animated-arrow" href="www.google.de">
+			<h4>
+			<a class="animated-arrow" href="www.google.de">
 		
-                <span class="the-arrow -left">
-                  <span class="shaft"></span>
-                </span>
-                <span class="main">
-                  <span class="text">
-                    Explore Project
-                  </span>
-                  <span class="the-arrow -right">
-                    <span class="shaft"></span>
-                  </span>
-                </span>
-		</a>
-              </h4>
-	</div>
-  </footers>
+                	<span class="the-arrow -left">
+                  		<span class="shaft"></span>
+                	</span>
+                	<span class="main">
+                  		<span class="text">
+                    			Get in Contact
+                  		</span>
+                  	<span class="the-arrow -right">
+                    	<span class="shaft"></span>
+                  	</span>
+                	</span>
+			</a>
+              		</h4>
+	      
+
+  </footer>
 </template>
 
 <script>
