@@ -3,7 +3,7 @@
 		<h1 class="lead">Let’s create something valuable together.</h1>
 
 			<h4>
-			<a class="animated-arrow" href="www.google.de">
+			<a class="animated-arrow" href="mailto:jan.christian.schulze@gmail.com">
 		
                 	<span class="the-arrow -left">
                   		<span class="shaft"></span>
