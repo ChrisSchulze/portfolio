@@ -1,14 +1,16 @@
 <template>
-  <footer class="footer" >  
+	<footer class="footer" >  
+	<div class="container">
 
-      <column class="text">
-        <h1 class="lead">Let’s create something valuable together.</h1>
-      </column>
-      <column class="logo">
-        <img class="small" src="/upload/logo.png">
-      </column>
-
-	<h4>
+     		 <div class="text">
+        		<h1 class="lead">Let’s create something valuable together.</h1>
+      		</div>
+      		<div class="logo">
+        		<img class="small" src="/upload/logo.png">
+      		</div>
+	</div>
+	<div class="container">
+		<h4>
 		<a class="animated-arrow" href="www.google.de">
 		
                 <span class="the-arrow -left">
@@ -24,7 +26,7 @@
                 </span>
 		</a>
               </h4>
-
+	</div>
   </footers>
 </template>
 
@@ -42,15 +44,16 @@
 <style scoped>
 
   .footer {
+    width: 100%;
+    margin-bottom: var(--spacing-medium);
+  }
+  
+  .container {
     display: flex;
     display: -webkit-flex; /* Safari */
     -webkit-flex-wrap: wrap; /* Safari 6.1+ */
     flex-wrap: wrap;
     justify-content: space-between;
-    width: 100%;
-    
-
-    margin-bottom: var(--spacing-medium);
   }
   
   .text {
@@ -74,39 +77,6 @@
     padding-bottom: var(--padding-xsmall);
         }
   }
-  
-    .hero {
-  padding-bottom: 0px !important;
-  }
-  
-  .hero .contact {
-  color: #333333; 
-  }
-  
-  .small {
-  margin: 0 0 0 0;
-  width: 80px;
-  height: auto;
-  align: right;
-  padding-top: 4px;
-  padding-bottom: 0px !important;
-  }
-
-  .nav li:last-of-type {
-    margin: 0;
-  }
-  .nav li:hover {
-    border-bottom: 1px solid #D1D1D2;
-  }
-  .active {
-    border-bottom: 1px solid #D1D1D2;
-  }
-  a {
-    text-decoration: none;
-    color: inherit;
-  }
-  a:active { color: inherit; }
-  a:visited { color: inherit; }
 
 .the-arrow {
 	 width: 64px;
