@@ -20,7 +20,7 @@
 				</span>
                 	
               </a>
-</h3>
+
   </footers>
 </template>
 
