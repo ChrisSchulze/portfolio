@@ -203,12 +203,12 @@
               }
   
   .outline {
-  color: black;
+  color: #161618;
   text-shadow:
-   -1px -1px 0 #fff,  
-    1px -1px 0 #fff,
-    -1px 1px 0 #fff,
-     1px 1px 0 #fff;
+   -1px -1px 0 #D1D1D2,  
+    1px -1px 0 #D1D1D2,
+    -1px 1px 0 #D1D1D2,
+     1px 1px 0 #D1D1D2;
 }
 
   h3,h5,h6,p {
