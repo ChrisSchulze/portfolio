@@ -190,7 +190,7 @@
     width: 100%;
     max-width: 870px;
     font-size: 6vw;
-    line-height: 1vw;
+    line-height: 7vw;
     font-weight: 700;
     color: #D1D1D2; 
     margin: 0 auto 0 auto;
