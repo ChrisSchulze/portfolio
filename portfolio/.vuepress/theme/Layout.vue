@@ -203,7 +203,7 @@
               }
   
   .outline {
-  color: transparent;
+
     text-shadow:
    -1px -1px 0 #d1d1d2,  
     1px -1px 0 #d1d1d2,  
