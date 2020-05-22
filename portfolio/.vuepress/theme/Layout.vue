@@ -203,6 +203,7 @@
               }
   
   .outline {
+  letter-spacing: 0.1em;
   color: #161618;
   text-shadow:
    -1px -1px 0 #D1D1D2,  
