@@ -212,11 +212,9 @@
   .outline {
   letter-spacing: 0.03em;
   color: #161618;
-  text-shadow:
-   -1px -1px 0 #D1D1D2,  
-    1px -1px 0 #D1D1D2,
-    -1px 1px 0 #D1D1D2,
-     1px 1px 0 #D1D1D2;
+
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #D1D1D2;
 }
 
 
