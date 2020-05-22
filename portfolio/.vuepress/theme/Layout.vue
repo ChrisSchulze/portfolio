@@ -180,11 +180,6 @@
     text-decoration: none;
   }
 
-  h3,h5,h6,p {
-    width: 100%;
-    max-width: 870px;
-  }
-
   h1 {
     font-family: "PilatWideDemi";
     width: 100%;
@@ -197,7 +192,12 @@
     padding-bottom: var(--spacing-medium);
   }
   
-
+    @media (max-width: 400px) {
+      h1 { 
+          font-size: 8vw;
+          line-height: 9vw;
+        }
+  }
   
   .lead {     max-width: none !important;
               }
@@ -207,7 +207,12 @@
   text-stroke: 0.5px rgba(210,210,210, 1);
   -webkit-text-stroke: 0.5px rgba(210,210,210, 1); 
   }
-  
+
+  h3,h5,h6,p {
+    width: 100%;
+    max-width: 870px;
+  }
+
     .tight {
   padding-bottom: var(--padding-xsmall);
   }
