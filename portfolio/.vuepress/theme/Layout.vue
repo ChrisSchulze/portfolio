@@ -203,14 +203,13 @@
               }
   
   .outline {
-
-    text-shadow:
-   -1px -1px 0 #d1d1d2,  
-    1px -1px 0 #d1d1d2,  
-    -1px 1px 0 #d1d1d2,  
-     1px 1px 0 #d1d1d2,  
-
-  }
+  color: black;
+  text-shadow:
+   -1px -1px 0 #fff,  
+    1px -1px 0 #fff,
+    -1px 1px 0 #fff,
+     1px 1px 0 #fff;
+}
 
   h3,h5,h6,p {
     width: 100%;
