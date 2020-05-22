@@ -213,11 +213,12 @@
   letter-spacing: 0.03em;
   color: #161618;
   text-shadow:
-   -0.5px -0.5px 0 #D1D1D2,  
-    0.5px -0.5px 0 #D1D1D2,
-    -0.5px 0.5px 0 #D1D1D2,
-     0.5px 0.5px 0 #D1D1D2;
+   -1px -1px 0 #D1D1D2,  
+    1px -1px 0 #D1D1D2,
+    -1px 1px 0 #D1D1D2,
+     1px 1px 0 #D1D1D2;
 }
+
 
   h3,h5,h6,p {
     width: 100%;
