@@ -192,6 +192,13 @@
     padding-bottom: var(--spacing-medium);
   }
   
+  
+    @media (min-width: 1440px) {
+      h1 { 
+          font-size: 6vw;
+          line-height: 7vw;
+        }
+  }
     @media (max-width: 400px) {
       h1 { 
           font-size: 10vw;
