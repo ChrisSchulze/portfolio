@@ -201,8 +201,8 @@
   }
     @media (max-width: 400px) {
       h1 { 
-          font-size: 10vw;
-          line-height: 12vw;
+          font-size: 40px;
+          line-height: 44px;
         }
   }
   
