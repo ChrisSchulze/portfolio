@@ -109,7 +109,7 @@
       /* Spacing */
       
       --spacing-xxl: 320px;
-      --spacing-xl: 240px;
+      --spacing-xl: 20vw;
       --spacing-big: 160px;
       --spacing-medium: 120px;
       --padding-small: 80px;
