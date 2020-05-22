@@ -108,7 +108,7 @@
       
       /* Spacing */
       
-      --spacing-xxl: 320px;
+      --spacing-xxl: 40vw;
       --spacing-xl: 20vw;
       --spacing-big: 160px;
       --spacing-medium: 120px;
@@ -148,7 +148,7 @@
   }
   
   .container {
-    margin-top: var(--spacing-xl);
+    margin-top: var(--spacing-xxl);
     }
 
   img {
