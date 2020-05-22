@@ -204,8 +204,8 @@
   
   .outline {
   color: transparent;
-  text-stroke: 0.5px rgba(210,210,210, 1);
-  -webkit-text-stroke: 0.5px rgba(210,210,210, 1); 
+  text-stroke: 1px rgba(210,210,210, 1);
+  -webkit-text-stroke: 1px rgba(210,210,210, 1); 
   }
 
   h3,h5,h6,p {
