@@ -17,7 +17,7 @@ project_url: "(/works/compo.html)"
 projecturl: compo.html
 
 ---
-![](/upload/carglass.jpg)
+![Carglass Title](/upload/carglass.jpg "Carglass Glass Medic")
 
 ### Issue
 
@@ -29,19 +29,19 @@ projecturl: compo.html
 :categories="$page.frontmatter.categories"
 />
 
-![](/upload/CGFlow.png)
+![Carglass User Flow](/upload/CGFlow.png "Carglass User Flow")
 
 ### Approach
 
 For the self service <span class="bold">validated UX was key.</span> We went through several iterations of prototypes. In each step we tested our assumptions in lab tests with our target audiences. Then we reworked user flows, improved wording and design. Until we got it right.
 
-![](/upload/Carglass_Images_1.jpg)
+![Carglass Stage](/upload/Carglass_Images_1.jpg "Carglass Stage")
 
 ### Design Idea
 
 For the corporate site we followed the idea that <span class="bold">Carglass is always close</span>. That's why we heavily rely on location based services. Regarding imagery we chose to shoot close ups of customer service and clients.
 
-![](/upload/Carglass_Images_4.jpg)
+![Carglass Overview](/upload/Carglass_Images_4.jpg "Carglass Overview")
 
 ### One more thing
 
