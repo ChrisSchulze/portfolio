@@ -92,6 +92,12 @@
 
   html {
   
+      * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      }
+  
       /* Font */
 
       font-size: 16px;
@@ -101,9 +107,6 @@
       
       background: #161618;
       color: #818181;
-      
-      /* Spacing */
-      
       
       /* Spacing */
       
