@@ -202,20 +202,6 @@
     padding-bottom: var(--spacing-medium);
   }
   
-  
-    @media (min-width: 1440px) {
-      h1 { 
-          font-size: 100px;
-          line-height: 110px;
-        }
-  }
-    @media (max-width: 400px) {
-      h1 { 
-          font-size: 40px;
-          line-height: 44px;
-        }
-  }
-  
   .lead {     max-width: none !important;
               }
   
