@@ -136,6 +136,11 @@
   }
   
   :root {
+  
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  
   --space-unit:  1em;
   --space-xxxxs: calc(0.125 * var(--space-unit)); 
   --space-xxxs:  calc(0.25 * var(--space-unit));
