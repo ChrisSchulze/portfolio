@@ -165,7 +165,8 @@
   }
   
   .container {
-    margin-top: var(--spacing-xl);
+    margin-top: var(--space-xxxxl);
+    padding: 0 5vw;
     }
 
   img {
@@ -176,10 +177,6 @@
     padding-bottom: var(--spacing-big);
     }
 
-  .container {
-    padding: 0 5vw;
-    }
-  
   .project-list {
     margin-top: var(--spacing-big) !important;
     }
