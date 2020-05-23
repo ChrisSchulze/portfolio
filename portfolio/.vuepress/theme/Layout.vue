@@ -102,7 +102,6 @@
   --space-xxxl:  calc(8.5 * var(--space-unit));
   --space-xxxxl: calc(13.75 * var(--space-unit));
   --component-padding: var(--space-md);
-}
   }
 
   * {
