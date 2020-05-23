@@ -109,21 +109,16 @@
       /* Spacing */
       
       
-      :root {
-  --space-unit:  1em;
-  --space-xxxxs: calc(0.125 * var(--space-unit)); 
-  --space-xxxs:  calc(0.25 * var(--space-unit));
-  --space-xxs:   calc(0.375 * var(--space-unit));
-  --space-xs:    calc(0.5 * var(--space-unit));
-  --space-sm:    calc(0.75 * var(--space-unit));
-  --space-md:    calc(1.25 * var(--space-unit));
-  --space-lg:    calc(2 * var(--space-unit));
-  --space-xl:    calc(3.25 * var(--space-unit));
-  --space-xxl:   calc(5.25 * var(--space-unit));
-  --space-xxxl:  calc(8.5 * var(--space-unit));
-  --space-xxxxl: calc(13.75 * var(--space-unit));
-  --component-padding: var(--space-md);
-}
+      /* Spacing */
+      
+      --spacing-xxl: 320px;
+      --spacing-xl: 240px;
+      --spacing-big: 160px;
+      --spacing-medium: 120px;
+      --padding-small: 80px;
+      --padding-xsmall: 40px;
+      --padding-xxsmall: 16px;
+  }
       
   
   @media (max-width: 900px) {
@@ -157,7 +152,7 @@
   }
   
   .container {
-    margin-top: var(--space-xxl);
+    margin-top: var(--spacing-xxl);
     }
 
   img {
