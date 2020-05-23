@@ -194,7 +194,7 @@
     font-family: "PilatWideDemi";
     width: 100%;
     max-width: 870px;
-    font-size: calc(6vw + 1rem);
+    font-size: calc(5vw + 1rem);
     line-height: 7vw;
     font-weight: 700;
     color: #D1D1D2; 
