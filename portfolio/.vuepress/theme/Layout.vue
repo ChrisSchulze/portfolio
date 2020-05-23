@@ -108,7 +108,7 @@
       
       /* Spacing */
       
-      --spacing-xxl: calc(16px * 20vw);
+      --spacing-xxl: 20vw;
       --spacing-xl: calc(8px * 10vw);
       --spacing-big: 160px;
       --spacing-medium: 120px;
