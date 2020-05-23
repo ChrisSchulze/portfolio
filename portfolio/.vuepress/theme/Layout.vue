@@ -159,8 +159,7 @@
   --space-xxxl:  calc(8.5 * var(--space-unit));
   --space-xxxxl: calc(30 * var(--space-unit));
 }
-  
-  
+    
   body {
     font-family: PilatBook, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Noto Sans", "Ubuntu", "Droid Sans", "Helvetica Neue", sans-serif;  
     -webkit-font-smoothing: antialiased;
@@ -169,6 +168,7 @@
   
   .container {
     margin-top: var(--space-xxxxl);
+    padding: 0 5vw;
     }
 
   img {
@@ -179,19 +179,9 @@
     padding-bottom: var(--spacing-medium);
   }
 
-  .container {
-    padding: 0 5vw;
-  }
-  
   .project-list {
     margin-top: var(--spacing-big) !important;
     }
-
-  .journal-list, .single-journal {
-    width: 800px;
-    max-width: 100%;
-    margin: 0 auto;
-  }
   
   a, a:link, a:visited {
     width: 100%;
