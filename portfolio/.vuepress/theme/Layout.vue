@@ -72,48 +72,45 @@
 
 <style>
 
-@font-face {
+  @font-face {
   font-family: "PilatWideDemi";
   src: local("Pilat Wide Demi"), local("Pilat-Wide-Demi"),
     url("/upload/PilatWide-Demi.woff") format("woff");
   font-weight: normal;
   font-style: normal;
-}
+  }
 
-@font-face {
+  @font-face {
   font-family: "PilatBook";
   src: local("Pilat Book"), local("Pilat-Book"),
     url("/upload/Pilat-Book.woff") format("woff");
   font-weight: normal;
   font-style: normal;
-}
-
-
+  }
 
   html {
   
-      /* Font */
+/* Font */
 
-      font-size: 16px;
-      line-height: 21.5px;
+  font-size: 16px;
+  line-height: 21.5px;
       
-      /* Colors */
+/* Colors */
       
-      background: #161618;
-      color: #818181;
+   background: #161618;
+   color: #818181;
       
-      /* Spacing */
+/* Spacing */
       
-      --spacing-xxl: 320px;
-      --spacing-xl: 240px;
-      --spacing-big: 160px;
+   --spacing-xxl: 320px;
+   --spacing-xl: 240px;
+   --spacing-big: 160px;
       --spacing-medium: 120px;
       --padding-small: 80px;
       --padding-xsmall: 40px;
       --padding-xxsmall: 16px;
   }
       
-  
   @media (max-width: 900px) {
       html { 
         --spacing-xxl: 240px;
@@ -150,7 +147,7 @@
   --space-xl:    calc(3.25 * var(--space-unit));
   --space-xxl:   calc(5.25 * var(--space-unit));
   --space-xxxl:  calc(8.5 * var(--space-unit));
-  --space-xxxxl: calc(3vw * var(--space-unit));
+  --space-xxxxl: calc(12 * var(--space-unit));
 }
     
   body {
