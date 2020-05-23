@@ -92,12 +92,6 @@
 
   html {
   
-      * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-      }
-  
       /* Font */
 
       font-size: 16px;
@@ -283,21 +277,6 @@
   
   .einleser {
   padding-bottom: var(--padding-small);
-  }
-  
-
-  pre {
-    background: var(--color-black);
-    padding: 1rem;
-    margin: 1rem 0;
-  }
-
-  code {
-    color: white;
-    background: var(--color-black);
-    font-size: 0.8rem;
-    padding: 0.05rem 0.25rem;
-    font-weight: 400;
   }
   
     .post {
