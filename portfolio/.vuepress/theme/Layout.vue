@@ -157,7 +157,7 @@
   --space-xl:    calc(3.25 * var(--space-unit));
   --space-xxl:   calc(5.25 * var(--space-unit));
   --space-xxxl:  calc(8.5 * var(--space-unit));
-  --space-xxxxl: calc(13.75 * var(--space-unit));
+  --space-xxxxl: calc(30 * var(--space-unit));
 }
   
   
