@@ -19,7 +19,6 @@
               :title="$page.frontmatter.title"
               :description="$page.frontmatter.description"
               />
-              <img :src="$page.frontmatter.thumbnail">
             <Content/>
           </div>   
       </transition>
