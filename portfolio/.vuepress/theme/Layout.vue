@@ -37,14 +37,6 @@
           return true
         }
       },
-      isSingleJournal() {
-        const journalRoute = '/journal/'
-        const path = this.$route.path
-        if (path.includes('journal') && path.length >= (journalRoute.length + 1)) {
-          return true
-        }
-      }
-    },
     updated() {
         // unwrap all images from paragraph tags so we can have
         // different widths inside the content.
