@@ -89,7 +89,7 @@
 
   :root {
     
-  --space-unit:  3em;
+  --space-unit:  1em;
   --space-xxxxs: calc(0.125 * var(--space-unit)); 
   --space-xxxs:  calc(0.25 * var(--space-unit));
   --space-xxs:   calc(0.375 * var(--space-unit));
