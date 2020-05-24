@@ -219,7 +219,7 @@
   
   .lead { 
     max-width: none !important;
-    margin-bottom: var(--space-xxl);
+    margin-bottom: var(--space-md);
     }
   
   .outline {
@@ -255,7 +255,7 @@
     line-height: 0.825rem;
     letter-spacing: 2px;
     color: #D1D1D2;
-    margin: auto auto 0.25rem auto;
+    margin: auto auto var(--space-xxl) auto;
   }
   
   h4 {
