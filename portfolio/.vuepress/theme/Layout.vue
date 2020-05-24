@@ -104,11 +104,24 @@
   --component-padding: var(--space-md);
   }
   
+
+  @media (max-width: 575px) {
+    :root {
+      --space-unit: 0.5em;
+    }
+  } 
+  
+  @media (max-width: 767px) {
+    :root {
+      --space-unit: 0.75em;
+    }
+  } 
+  
   @media (max-width: 1024px) {
-  :root {
-    --space-unit: 1em;
+    :root {
+      --space-unit: 1em;
+    }
   }
-}
 
   * {
     box-sizing: border-box;
