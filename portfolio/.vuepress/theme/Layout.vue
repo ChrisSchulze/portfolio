@@ -255,7 +255,7 @@
     line-height: 0.825rem;
     letter-spacing: 2px;
     color: #D1D1D2;
-    margin: auto auto var(--space-xxl) auto;
+    margin: auto auto var(--space-md) auto;
   }
   
   h4 {
