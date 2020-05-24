@@ -195,10 +195,6 @@
     margin: auto auto auto auto;
     padding-bottom: var(--spacing-big);
     }
-
-  .project-list {
-    margin-top: var(--spacing-big) !important;
-    }
   
   a, a:link, a:visited {
     width: 100%;
@@ -219,8 +215,10 @@
     padding-bottom: var(--spacing-medium);
     }
   
-  .lead { max-width: none !important;
-   }
+  .lead { 
+    max-width: none !important;
+    margin-bottom: var(--space-xxxl);
+    }
   
   .outline {
   letter-spacing: 0.03em;
