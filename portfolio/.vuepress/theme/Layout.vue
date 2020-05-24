@@ -141,40 +141,7 @@
       background: #161618;
       color: #595959;
       
-/* Spacing */
-      
-      --spacing-xxl: 320px;
-      --spacing-xl: 240px;
-      --spacing-big: 160px;
-      --spacing-medium: 120px;
-      --padding-small: 80px;
-      --padding-xsmall: 40px;
-      --padding-xxsmall: 16px;
-  }
-  
-  @media (max-width: 900px) {
-      html { 
-        --spacing-xxl: 240px;
-        --spacing-xl: 180px;
-        --spacing-big: 120px;
-        --spacing-medium: 80px;
-        --padding-small: 40px;
-        --padding-xsmall: 40px;
-        --padding-xxsmall: 16px;
-        }
-  }
-  @media (max-width: 400px) {
-  
-      html {
-        --spacing-xxl: 160px;
-        --spacing-xl: 120px;
-        --spacing-big: 64px;
-        --spacing-medium: 40px;
-        --padding-small: 24px;
-        --padding-xsmall: 24px;
-        --padding-xxsmall: 8px;
-        }
-  }
+
   
   body {
     font-family: PilatBook, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Noto Sans", "Ubuntu", "Droid Sans", "Helvetica Neue", sans-serif;  
