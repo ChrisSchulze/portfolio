@@ -186,6 +186,11 @@
     margin-top: var(--space-xxxl);
     padding: 0 5vw;
     }
+    
+  .custom {
+    margin: 0;
+    padding: 0;
+    }
 
   img {
     width: 100%;
