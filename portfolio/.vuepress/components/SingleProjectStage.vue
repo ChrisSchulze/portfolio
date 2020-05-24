@@ -1,6 +1,6 @@
 <template>
 
- <div class="header">
+ <div class="stage">
   <h1>{{ title }}<br>
    <span class="outline">{{ description }}</span>
   </h1>
@@ -25,11 +25,11 @@
 
 <style scoped>
 
-  .header {
+  .stage {
     display: flex;
     width: 100%;
     max-width: 870px;
-    margin: 0 auto 0 auto !important;
+    margin-bottom: var(--space-xxl);
     padding: 0 0 0 0 !important;
   }
 
