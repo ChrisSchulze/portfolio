@@ -216,12 +216,11 @@
     font-weight: 700;
     color: #D1D1D2; 
     margin: 0 auto 0 auto;
-    padding-bottom: var(--spacing-medium);
+    padding-bottom: var(--space-xxxl);
     }
   
   .lead { 
     max-width: none !important;
-
     }
   
   .outline {
