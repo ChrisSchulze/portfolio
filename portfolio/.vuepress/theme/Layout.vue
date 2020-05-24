@@ -111,13 +111,13 @@
     }
   } 
   
-  @media (max-width: 767px) {
+  @media (min-width: 767px) {
     :root {
       --space-unit: 2em;
     }
   } 
   
-  @media (max-width: 1024px) {
+  @media (min-width: 1024px) {
     :root {
       --space-unit: 2.5em;
     }
