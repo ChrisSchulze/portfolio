@@ -113,17 +113,17 @@
 
   html {
   
-      /* Font */
+/* Font */
 
       font-size: 16px;
       line-height: 21.5px;
       
-      /* Colors */
+/* Colors */
       
       background: #161618;
       color: #595959;
       
-      /* Spacing */
+/* Spacing */
       
       --spacing-xxl: 320px;
       --spacing-xl: 240px;
@@ -179,12 +179,6 @@
 
   .project-list {
     margin-top: var(--spacing-big) !important;
-    }
-
-  .journal-list, .single-journal {
-    width: 800px;
-    max-width: 100%;
-    margin: 0 auto;
     }
   
   a, a:link, a:visited {
@@ -307,6 +301,4 @@
     transform: translateY(0px);
   }
 }
-
-
 </style>
