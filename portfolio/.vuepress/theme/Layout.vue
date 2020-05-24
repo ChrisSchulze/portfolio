@@ -184,7 +184,7 @@
   }
   
   .container {
-    margin-top: var(--space-xxxxl);
+    margin-top: var(--space-xxxl);
     padding: 0 5vw;
     }
 
