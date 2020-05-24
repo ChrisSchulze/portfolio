@@ -104,22 +104,11 @@
   --component-padding: var(--space-md);
   }
   
-  // Small devices (landscape phones, 576px and up)
-@media (min-width: 576px) {     :root {
-        --space-unit: 1em; }
-
-// Medium devices (tablets, 768px and up)
-@media (min-width: 768px) {     :root {
-        --space-unit: 2em; }
-
-// Large devices (desktops, 992px and up)
-@media (min-width: 992px) {     :root {
-        --space-unit: 3em; }
-
-// Extra large devices (large desktops, 1200px and up)
-@media (min-width: 1200px) {     :root {
-        --space-unit: 4em; }
-  
+  @media (max-width: 1024px) {
+  :root {
+    --space-unit: 8em;
+  }
+}
 
   * {
     box-sizing: border-box;
