@@ -196,7 +196,7 @@
     max-width: 100%;
     line-height: 0;
     margin: auto auto auto auto;
-    padding-bottom: var(--spacing-big);
+    margin-bottom: var(--space-xl);
     }
   
   a, a:link, a:visited {
@@ -241,8 +241,7 @@
     line-height: 1rem;
     letter-spacing: 0.5px;
     color: #D1D1D2;
-    padding-bottom: var(--padding-xxsmall);;
-    margin: 0 auto 0 auto;
+    margin: 0 auto var(--space-lg) auto;
   }
   
   h3,h5,h6,p {
@@ -273,8 +272,7 @@
     font-size: 2rem;
     line-height: 2.875rem;
     letter-spacing: 1.2px;
-    margin: auto auto auto auto;
-    padding-bottom: var(--spacing-big);
+    margin: auto auto var(--space-lg) auto;
   }
   
   .bold {
@@ -297,14 +295,14 @@
   }
   
   .einleser {
-  padding-bottom: var(--padding-small);
+  margin-bottom: var(--space-lg);
   }
   
     .post {
     position: relative;
     width: 100%;
-    padding-bottom: var(--space-xxl);
     cursor: default;
+    margin-bottom: var(--space-xxl);
   }
 
 .moveInUp-enter-active{
