@@ -89,7 +89,7 @@
 
   :root {
     
-  --space-unit:  1em;
+  --space-unit:  2em;
   --space-xxxxs: calc(0.125 * var(--space-unit)); 
   --space-xxxs:  calc(0.25 * var(--space-unit));
   --space-xxs:   calc(0.375 * var(--space-unit));
@@ -102,6 +102,12 @@
   --space-xxxl:  calc(8.5 * var(--space-unit));
   --space-xxxxl: calc(13.75 * var(--space-unit));
   --component-padding: var(--space-md);
+  }
+  
+  @include breakpoint(md) {
+    :root {
+        --space-unit: 1.25em;
+    }
   }
 
   * {
