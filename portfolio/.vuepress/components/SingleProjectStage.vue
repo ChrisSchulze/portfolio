@@ -29,7 +29,7 @@
     display: flex;
     width: 100%;
     max-width: 870px;
-    margin-bottom: var(--space-xxl);
+    margin: 0 auto var(--space-xxl) auto !important;
     padding: 0 0 0 0 !important;
   }
 
