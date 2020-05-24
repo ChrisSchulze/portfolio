@@ -303,7 +303,7 @@
     .post {
     position: relative;
     width: 100%;
-    padding-bottom: var(--spacing-big);
+    padding-bottom: var(--space-xxl);
     cursor: default;
   }
 
