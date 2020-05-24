@@ -141,7 +141,7 @@
       background: #161618;
       color: #595959;
       
-
+}
   
   body {
     font-family: PilatBook, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Noto Sans", "Ubuntu", "Droid Sans", "Helvetica Neue", sans-serif;  
