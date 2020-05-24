@@ -105,7 +105,7 @@
   }
   
 
-  @media (max-width: 575px) {
+  @media (max-width: 375px) {
     :root {
       --space-unit: 0.5em;
     }
