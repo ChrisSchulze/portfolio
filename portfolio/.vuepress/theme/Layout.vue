@@ -89,7 +89,7 @@
 
   :root {
     
-  --space-unit:  2em;
+  --space-unit:  3em;
   --space-xxxxs: calc(0.125 * var(--space-unit)); 
   --space-xxxs:  calc(0.25 * var(--space-unit));
   --space-xxs:   calc(0.375 * var(--space-unit));
@@ -107,19 +107,19 @@
 
   @media (max-width: 375px) {
     :root {
-      --space-unit: 0.5em;
+      --space-unit: 1em;
     }
   } 
   
   @media (max-width: 767px) {
     :root {
-      --space-unit: 0.75em;
+      --space-unit: 2em;
     }
   } 
   
   @media (max-width: 1024px) {
     :root {
-      --space-unit: 1em;
+      --space-unit: 2.5em;
     }
   }
 
