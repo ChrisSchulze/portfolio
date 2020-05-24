@@ -183,7 +183,6 @@
   }
   
   .container {
-    margin-top: var(--space-xxxl);
     padding: 0 5vw;
     }
     
@@ -216,7 +215,6 @@
     font-weight: 700;
     color: #D1D1D2; 
     margin: 0 auto 0 auto;
-    padding-bottom: var(--space-xxxl);
     }
   
   .lead { 
