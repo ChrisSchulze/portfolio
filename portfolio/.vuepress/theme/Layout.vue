@@ -186,7 +186,7 @@
   
   .lead { 
     max-width: none !important;
-    margin-bottom: var(--space-md);
+    margin-bottom: var(--space-xl);
     }
   
   .outline {
