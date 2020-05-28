@@ -194,7 +194,7 @@
   color: #161618;
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: #D1D1D2;
-  margin-bottom: var(--space-sm);
+  padding-bottom: var(--space-sm);
   }
   
 
