@@ -194,12 +194,10 @@
   color: #161618;
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: #D1D1D2;
-  }
-  
-  .tight {
   padding-bottom: var(--space-md);
   }
- 
+  
+
   h2 {
     font-family: "PilatWideDemi";
     width: 100%;
