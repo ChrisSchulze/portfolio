@@ -197,7 +197,7 @@
   }
   
   .tight {
-  padding-bottom: var(--space-xxs);
+  padding-bottom: var(--space-md);
   }
  
   h2 {
