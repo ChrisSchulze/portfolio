@@ -233,7 +233,7 @@
       letter-spacing: 0.5px;
       width: 100%;
       max-width: 870px;
-      margin: var(--space-sm) auto 0 var(--space-xxxxs);
+      margin: var(--space-sm) auto 0 auto;
       }
 
   p {
