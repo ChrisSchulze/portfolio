@@ -38,7 +38,7 @@
 
   .footer {
     width: 100%;
-    margin-bottom: var(--space-lg);
+    margin-bottom: var(--space-xxl);
   }
   
   @media (max-width: 900px) {
