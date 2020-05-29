@@ -163,7 +163,7 @@
     max-width: 100%;
     line-height: 0;
     margin: auto auto auto auto;
-    margin-bottom: var(--space-xl);
+    margin-bottom: var(--space-xxl);
     }
   
   a, a:link, a:visited {
@@ -186,7 +186,7 @@
   
   .lead { 
     max-width: none !important;
-    margin-bottom: var(--space-lg);
+    margin-bottom: var(--space-xxl);
     }
   
   .outline {
@@ -214,7 +214,7 @@
   
   h3,h5,h6,p {
     width: 100%;
-    max-width: 800px;
+    max-width: 870px;
     }
 
   h3 {
