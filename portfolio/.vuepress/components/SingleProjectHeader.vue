@@ -44,12 +44,11 @@
   .description {
     display: flex;
     width: 100%;
-    max-width: 800px;
+    max-width: 870px;
     display: -webkit-flex; /* Safari */
     -webkit-flex-wrap: wrap; /* Safari 6.1+ */
     flex-wrap: wrap;
-    
-    margin: 0 auto var(--space-xl) auto;
+    margin: 0 auto var(--space-xxl) auto;
   }
   
   .description > * {
