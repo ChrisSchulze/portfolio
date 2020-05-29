@@ -45,12 +45,11 @@
     display: flex;
     width: 100%;
     max-width: 800px;
-    
     display: -webkit-flex; /* Safari */
     -webkit-flex-wrap: wrap; /* Safari 6.1+ */
     flex-wrap: wrap;
     
-    margin: 0 auto 0 auto;
+    margin: 0 auto var(--space-xl) auto;
   }
   
   .description > * {
