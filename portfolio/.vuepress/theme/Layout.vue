@@ -241,7 +241,7 @@
     font-size: 2rem;
     line-height: 2.875rem;
     letter-spacing: 1.2px;
-    margin: auto auto var(--space-xl) auto;
+    margin: auto auto var(--space-xxl) auto;
   }
   
   .bold {
