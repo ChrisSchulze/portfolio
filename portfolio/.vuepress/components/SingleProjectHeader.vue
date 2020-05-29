@@ -59,6 +59,10 @@
   padding-right: var(--space-xs);
 }
 
+  .column {
+  padding-right: var(--space-xs);
+  }
+
   .label {
     font-size: 0.8rem;
     line-height: 1.05rem;
