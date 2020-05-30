@@ -139,7 +139,7 @@
 /* Colors */
       
       background: #161618;
-      color: #595959;
+      color: #d1d1d2;
       
 }
   
