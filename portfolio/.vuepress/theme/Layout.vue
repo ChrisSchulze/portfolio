@@ -240,6 +240,10 @@
     color: #D1D1D2 !important;; 
   }
   
+  .einleser {
+    margin-bottom: var(--space-xl);
+  }
+  
   @media (max-width: 900px) {
       p {
           font-size: 1.25em;
@@ -252,10 +256,6 @@
           font-size: 1em;
           line-height: 1.5em;
         }
-  }
-  
-  .einleser {
-  margin-bottom: var(--space-lg);
   }
   
     .post {
