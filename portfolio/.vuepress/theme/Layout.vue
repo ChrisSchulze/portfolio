@@ -124,7 +124,7 @@
   --component-padding: var(--space-md);
   }
   
-@media (max-width: 1024px) {
+@media (max-width: 1024px), (min-width: 1024px) {
     :root {
       --space-unit: 2rem;
     }
