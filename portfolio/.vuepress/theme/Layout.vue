@@ -86,6 +86,35 @@
   font-style: normal;
 }
 
+  html {
+  
+/* Font */
+
+      font-size: 16px;
+      line-height: 21.5px;
+      
+/* Colors */
+      
+      background: #161618;
+      color: #d1d1d2;
+      
+}
+  
+  body {
+    font-family: "PilatWideDemi", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Noto Sans", "Ubuntu", "Droid Sans", "Helvetica Neue", sans-serif;  
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .container {
+    padding: 0 5vw;
+    }
+    
+  .custom {
+    margin: 0;
+    padding: 0;
+    }
+
   :root {
     
   --space-unit:  1rem;
@@ -128,35 +157,6 @@
     padding: 0;
   }
 
-
-  html {
-  
-/* Font */
-
-      font-size: 16px;
-      line-height: 21.5px;
-      
-/* Colors */
-      
-      background: #161618;
-      color: #d1d1d2;
-      
-}
-  
-  body {
-    font-family: "PilatWideDemi", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Noto Sans", "Ubuntu", "Droid Sans", "Helvetica Neue", sans-serif;  
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-  }
-  
-  .container {
-    padding: 0 5vw;
-    }
-    
-  .custom {
-    margin: 0;
-    padding: 0;
-    }
 
   img {
     width: 100%;
