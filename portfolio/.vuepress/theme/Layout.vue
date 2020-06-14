@@ -138,7 +138,7 @@
   
 @media (max-width: 375px) {
     :root {
-      --space-unit: 1rem;
+      --space-unit: 0.5rem;
     }
   } 
 
