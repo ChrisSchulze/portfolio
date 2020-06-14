@@ -90,8 +90,10 @@
     font-family: "PilatWideDemi", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Noto Sans", "Ubuntu", "Droid Sans", "Helvetica Neue", sans-serif;  
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    
     font-size: 16px;
     line-height: 21.5px;
+    
     background: #161618;
     color: #d1d1d2;
   }
@@ -122,24 +124,23 @@
   --component-padding: var(--space-md);
   }
   
-
-  @media (max-width: 375px) {
+@media (min-width: 1024px) {
+    :root {
+      --space-unit: 2rem;
+    }
+  }
+  
+@media (min-width: 767px) {
+    :root {
+      --space-unit: 1.5rem;
+    }
+  } 
+  
+@media (max-width: 375px) {
     :root {
       --space-unit: 1rem;
     }
   } 
-  
-  @media (min-width: 767px) {
-    :root {
-      --space-unit: 2rem;
-    }
-  } 
-  
-  @media (min-width: 1024px) {
-    :root {
-      --space-unit: 2.5rem;
-    }
-  }
 
   * {
     box-sizing: border-box;
