@@ -22,7 +22,7 @@
             <Content/>
           </div>   
       </transition>
-         
+         <MoreProjects/>
         <Footer/>
     </div>
 </template>
