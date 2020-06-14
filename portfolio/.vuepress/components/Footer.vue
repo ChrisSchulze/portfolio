@@ -38,7 +38,7 @@
 
   .footer {
     width: 100%;
-    margin: var(--space-xl) auto var(--space-xxl) auto !important;
+    margin: var(--space-xxxl) auto var(--space-xxl) auto !important;
   }
   
   
