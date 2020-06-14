@@ -129,13 +129,25 @@
       --space-unit: 2rem;
     }
   }
-  
+
+@media (max-width: 991px) {
+    :root {
+      --space-unit: 1.75rem;
+    }
+  } 
+
 @media (max-width: 767px) {
     :root {
       --space-unit: 1.5rem;
     }
   } 
-  
+
+@media (max-width: 575px) {
+    :root {
+      --space-unit: 1rem;
+    }
+  } 
+
 @media (max-width: 375px) {
     :root {
       --space-unit: 0.5rem;
