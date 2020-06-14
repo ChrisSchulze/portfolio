@@ -88,7 +88,7 @@
 
   :root {
     
-  --space-unit:  16px;
+  --space-unit:  1rem;
   --space-xxxxs: calc(0.125 * var(--space-unit)); 
   --space-xxxs:  calc(0.25 * var(--space-unit));
   --space-xxs:   calc(0.375 * var(--space-unit));
@@ -99,7 +99,7 @@
   --space-xl:    calc(3.25 * var(--space-unit));
   --space-xxl:   calc(5.25 * var(--space-unit));
   --space-xxxl:  calc(8.5 * var(--space-unit));
-  --space-xxxxl: calc(13.75 * var(--space-unit));
+  --space-xxxxl: calc(10 * var(--space-unit));
   --component-padding: var(--space-md);
   }
   
