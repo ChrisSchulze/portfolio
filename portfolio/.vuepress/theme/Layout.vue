@@ -117,8 +117,8 @@
   --space-sm:    calc(0.75 * var(--space-unit));
   --space-md:    calc(1.25 * var(--space-unit));
   --space-lg:    calc(2 * var(--space-unit));
-  --space-xl:    calc(3.25 * var(--space-unit));
-  --space-xxl:   calc(5.25 * var(--space-unit));
+  --space-xl:    calc(3.75 * var(--space-unit));
+  --space-xxl:   calc(5 * var(--space-unit));
   --space-xxxl:  calc(8.5 * var(--space-unit));
   --space-xxxxl: calc(10 * var(--space-unit));
   --component-padding: var(--space-md);
