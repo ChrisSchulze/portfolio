@@ -38,8 +38,10 @@
 
   .footer {
     width: 100%;
-    margin-bottom: var(--space-xxl);
+    margin: var(--space-xl) auto var(--space-xxl) auto !important;
   }
+  
+  
   
   @media (max-width: 900px) {
       .nav, .text, .logo { 
