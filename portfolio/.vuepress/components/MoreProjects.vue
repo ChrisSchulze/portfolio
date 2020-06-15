@@ -12,11 +12,10 @@
       	            :to="post.path"
       	            v-for="post in posts"
       	            :key="post.title"
-      	            class="post"
+      	            class="journal"
       	            >
-              <p>{{ post.frontmatter.title }}</p>
-            </router-link>
-            
+              <h3 class="journal-title">{{ post.frontmatter.title }}</h3>
+            </router-link>      
             
         </div>
         </div>
