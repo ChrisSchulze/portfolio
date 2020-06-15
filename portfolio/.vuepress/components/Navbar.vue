@@ -126,7 +126,7 @@
     letter-spacing: 1.2px;
     color: #D1D1D2;
     z-index: 10;
-    margin-bottom: var(--space-xxxxl);
+    margin-bottom: var(--space-xxxl);
   }
 
   .logo {
