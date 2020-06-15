@@ -14,7 +14,7 @@
       	            :key="post.title"
       	            class="journal"
       	            >
-              <h3 class="journal-title">{{ post.frontmatter.title }}</h3>
+              <h3>{{ post.frontmatter.title }}</h3>
             </router-link>      
             
         </div>
