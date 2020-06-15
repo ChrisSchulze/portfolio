@@ -38,9 +38,6 @@
 .latest-journals-heading {
   margin-top: 6rem;
   margin-bottom: 1rem;
-  font-size: 0.6rem;
-  font-weight: 400;
-  text-transform: uppercase;
 }
 .latest-journals {
   max-width: 100%;
