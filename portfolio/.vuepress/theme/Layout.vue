@@ -21,8 +21,9 @@
               />
             <Content/>
           </div>   
+          <MoreProjects/>
       </transition>
-  <!--      <MoreProjects/>  -->  
+
         <Footer/>
     </div>
 </template>
