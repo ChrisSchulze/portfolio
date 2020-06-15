@@ -20,8 +20,9 @@
               :description="$page.frontmatter.description"
               />
             <Content/>
+            <MoreProjects/>
           </div>   
-          <MoreProjects/>
+          
       </transition>
 
         <Footer/>
