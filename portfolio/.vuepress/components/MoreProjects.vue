@@ -4,24 +4,35 @@
         <span class="label">More Projects</span>
         </div>
         <div class="latest-journals">
+        
         <div class="container">
-            <g-link :to="item.node.path" class="journal" v-for="item in works" :key="item.node.id">
-              <h3 class="journal-title">{{ item.node.title }}</h3>
-            </g-link>
+        
+                <router-link 
+    	            tag="div"
+      	            :to="post.path"
+      	            v-for="post in posts"
+      	            :key="post.title"
+      	            class="post"
+      	            >
+              <p>{{ post.frontmatter.title }}</p>
+            </router-link>
+            
+            
         </div>
         </div>
     </div>
 </template>
 
 <script>
-export default {
-    props: {
-        works: {
-            type: Array,
-            required: true
-        }
+  export default {
+    computed: {
+      posts() {
+        return this.$site.pages
+          .filter(x => x.path.startsWith('/works/') && !x.frontmatter.works_index)
+          .sort((a, b) => new Date(b.frontmatter.date) - new Date(a.frontmatter.date))
+      }
     }
-}
+  }
 </script>
 
 <style scoped>
