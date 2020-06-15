@@ -20,7 +20,7 @@
               :description="$page.frontmatter.description"
               />
             <Content/>
-    <!--        <MoreProjects/>         -->
+            <MoreProjects/>         
           </div>   
           
       </transition>
