@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class="latest-journals-heading container">
-        <span class="label">More Projects</span>
+        <h3More Projects</h3>
         </div>
         <div class="latest-journals">
         
@@ -14,7 +14,7 @@
       	            :key="post.title"
       	            class="journal"
       	            >
-              <h3>{{ post.frontmatter.title }}</h3>
+              <h3 class="journal-title">{{ post.frontmatter.title }}</h3>
             </router-link>      
             
         </div>
