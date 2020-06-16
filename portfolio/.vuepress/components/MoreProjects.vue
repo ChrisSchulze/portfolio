@@ -1,11 +1,11 @@
 <template>
     <div>
         <div class="latest-journals-heading container">
-        <h3>All Projects</h3>
+            <h3>All Projects</h3>
         </div>
-        <div class="latest-journals">
         
-        <div class="container">
+        <div class="latest-journals">
+            <div class="container">
         
                 <router-link 
     	            tag="div"
@@ -14,12 +14,13 @@
       	            :key="post.title"
       	            class="journal"
       	            >
-              <h3 class="journal-title">{{ post.frontmatter.title }}</h3>
-            </router-link>      
+                <h3 class="journal-title">{{ post.frontmatter.title }}</h3>
+                </router-link>      
             
         </div>
         </div>
     </div>
+    
 </template>
 
 <script>
@@ -35,12 +36,6 @@
 </script>
 
 <style scoped>
-
-  .description {
-
-    margin: 0 auto var(--space-xxl) auto;
-  }
-
 
 .latest-journals-heading {
   margin-top: 6rem;
@@ -79,52 +74,6 @@
 .journal-title {
   font-size: 1rem;
   line-height: 1.35;
-}
-
-@media (min-width: 580px) {
-  .journal {
-    flex: 0 0 50%;
-  }
-  .journal:nth-child(1) {
-    border-right: 1px solid #d1d1d2;
-    border-bottom: 1px solid #d1d1d2;
-  }
-
-  .journal:nth-child(2) {
-    border-bottom: 1px solid #d1d1d2;
-  }
-
-  .journal:nth-child(3) {
-    border-right: 1px solid #d1d1d2;
-    border-bottom: 0;
-  }
-}
-
-@media (min-width: 920px) {
-  .journal {
-    flex: 0 0 25%;
-  }
-  .journal:nth-child(1) {
-    border: 0;
-    border-right: 1px solid #d1d1d2;
-  }
-
-  .journal:nth-child(2) {
-    border: 0;
-    border-right: 1px solid #d1d1d2;
-  }
-
-  .journal:nth-child(3) {
-    border: 0;
-    border-right: 1px solid #d1d1d2;
-  }
-  .latest-journals {
-    margin: 0;
-    border-left: 0;
-    border-right: 0;
-    border-top: 1px solid #d1d1d2;
-    border-bottom: 1px solid #d1d1d2;
-  }
 }
 
 </style>
