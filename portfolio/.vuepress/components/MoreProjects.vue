@@ -4,7 +4,7 @@
             <h3>All Projects</h3>
         </div>
         
-        <div class="latest-journals">
+        <div class="all-projects">
             <div class="container">
         
                 <router-link 
@@ -12,9 +12,9 @@
       	            :to="post.path"
       	            v-for="post in posts"
       	            :key="post.title"
-      	            class="journal"
+      	            class="project"
       	            >
-                <h3 class="journal-title">{{ post.frontmatter.title }}</h3>
+                <h3>{{ post.frontmatter.title }}</h3>
                 </router-link>      
             
         </div>
@@ -37,25 +37,21 @@
 
 <style scoped>
 
-.latest-journals {
-  max-width: 100%;
-  margin: 0 2rem;
-  border: 1px solid #d1d1d2;
+.all-projects {
+  max-width: 870px;
 }
 
-.latest-journals > .container {
+.all-projects > .container {
     display: flex;
     width: 100%;
-    max-width: 870px;
     display: -webkit-flex; /* Safari */
-    -webkit-flex-wrap: wrap; /* Safari 6.1+ */
-    flex-wrap: wrap;
+    -webkit-flex-wrap: nowrap; /* Safari 6.1+ */
+    flex-wrap: nowrap;
 }
-.journal {
+.project {
   flex: 0 0 100%;
   display: block;
   padding: 2rem;
-  transition: background 0.25s ease;
   text-decoration: none;
   border-bottom: 1px solid #d1d1d2;
 }
