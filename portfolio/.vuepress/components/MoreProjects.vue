@@ -35,6 +35,13 @@
 </script>
 
 <style scoped>
+
+  .description {
+
+    margin: 0 auto var(--space-xxl) auto;
+  }
+
+
 .latest-journals-heading {
   margin-top: 6rem;
   margin-bottom: 1rem;
@@ -45,8 +52,12 @@
   border: 1px solid #d1d1d2;
 }
 .latest-journals > .container {
-  display: flex;
-  flex-wrap: wrap;
+    display: flex;
+    width: 100%;
+    max-width: 870px;
+    display: -webkit-flex; /* Safari */
+    -webkit-flex-wrap: wrap; /* Safari 6.1+ */
+    flex-wrap: wrap;
 }
 .journal {
   flex: 0 0 100%;
@@ -75,8 +86,8 @@
     flex: 0 0 50%;
   }
   .journal:nth-child(1) {
-    border-right: 1px solid var(--color-base-1);
-    border-bottom: 1px solid var(--color-base-1);
+    border-right: 1px solid #d1d1d2;
+    border-bottom: 1px solid #d1d1d2;
   }
 
   .journal:nth-child(2) {
