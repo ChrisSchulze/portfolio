@@ -38,8 +38,8 @@
 <style scoped>
 
 .all-projects {
-    width: 100%;
-    max-width: 870px;
+
+
 }
 
 .all-projects > .container {
@@ -56,6 +56,7 @@
   display: block;
   padding: 2rem;
   text-decoration: none;
+    border-top: 1px solid #d1d1d2;
   border-bottom: 1px solid #d1d1d2;
 }
 
