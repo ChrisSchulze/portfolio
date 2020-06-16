@@ -38,15 +38,27 @@
 <style scoped>
 
 .all-projects {
-  max-width: 870px;
+
 }
 
 .all-projects > .container {
-    display: flex;
-    width: 100%;
-    display: -webkit-flex; /* Safari */
-    -webkit-flex-wrap: nowrap; /* Safari 6.1+ */
-    flex-wrap: nowrap;
+  /* We first create a flex layout context */
+  display: flex;
+  
+  /* Then we define the flow direction 
+     and if we allow the items to wrap 
+   * Remember this is the same as:
+   * flex-direction: row;
+   * flex-wrap: wrap;
+   */
+  flex-flow: row wrap;
+  
+  /* Then we define how is distributed the remaining space */
+  justify-content: space-around;
+  
+  padding: 0;
+  margin: 0;
+  list-style: none;
 }
 .project {
   flex: 1;
