@@ -56,7 +56,8 @@
   display: block;
   padding: 2rem;
   text-decoration: none;
-    border-top: 1px solid #d1d1d2;
+  border-top: 1px solid #d1d1d2;
+  border-right: 1px solid #d1d1d2;
   border-bottom: 1px solid #d1d1d2;
 }
 
