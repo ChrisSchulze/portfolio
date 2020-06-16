@@ -49,7 +49,7 @@
     flex-wrap: nowrap;
 }
 .project {
-  flex: 0 0 100%;
+  flex: 1;
   display: block;
   padding: 2rem;
   text-decoration: none;
