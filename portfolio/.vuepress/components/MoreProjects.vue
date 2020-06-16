@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div class="latest-journals-heading container">
+        <div>
             <h3>All Projects</h3>
         </div>
         
@@ -37,15 +37,12 @@
 
 <style scoped>
 
-.latest-journals-heading {
-  margin-top: 6rem;
-  margin-bottom: 1rem;
-}
 .latest-journals {
   max-width: 100%;
   margin: 0 2rem;
   border: 1px solid #d1d1d2;
 }
+
 .latest-journals > .container {
     display: flex;
     width: 100%;
@@ -63,17 +60,6 @@
   border-bottom: 1px solid #d1d1d2;
 }
 
-.journal:last-of-type {
-  border-bottom: 0;
-}
 
-.journal:hover {
-  background: #3d3d3d;
-}
-
-.journal-title {
-  font-size: 1rem;
-  line-height: 1.35;
-}
 
 </style>
