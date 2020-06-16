@@ -60,7 +60,10 @@
   border-right: 1px solid #d1d1d2;
   border-bottom: 1px solid #d1d1d2;
 }
-
+.project:last-of-type {
+    border-right: 0px;
+}
+    
 
 
 </style>
