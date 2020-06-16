@@ -59,11 +59,12 @@
   border-top: 1px solid #d1d1d2;
   border-right: 1px solid #d1d1d2;
   border-bottom: 1px solid #d1d1d2;
+  cursor: pointer;
+}
+.project:hover {
+    background: #3d3d3d;
 }
 .project:last-of-type {
     border-right: 0px;
 }
-    
-
-
 </style>
