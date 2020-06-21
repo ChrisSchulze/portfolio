@@ -14,7 +14,7 @@
       	            :key="post.title"
       	            class="project"
       	            >
-                <p>{{ post.frontmatter.title }}</p>
+                <p class="title">{{ post.frontmatter.title }}</p>
                 </router-link>      
             
         </div>
