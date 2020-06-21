@@ -210,7 +210,7 @@
     font-family: "PilatWideDemi";
     width: 100%;
     max-width: 870px;
-    font-size: 2rem;
+    font-size: 1.6rem;
     line-height: 1rem;
     letter-spacing: 0.5px;
     color: #D1D1D2;
