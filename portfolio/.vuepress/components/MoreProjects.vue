@@ -14,7 +14,7 @@
       	            :key="post.title"
       	            class="project"
       	            >
-                <p class="title">{{ post.frontmatter.title }}</p>
+                <h2>{{ post.frontmatter.title }}</h2>
                 </router-link>      
             
         </div>
@@ -67,12 +67,4 @@
 .project:last-of-type {
     border-right: 0px;
 }
-
-.title  {
-    font-size: 2rem;
-    line-height: 1rem;
-    letter-spacing: 1.2px;
-    margin: none !important;
-}
-
 </style>
