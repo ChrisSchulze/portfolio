@@ -67,4 +67,12 @@
 .project:last-of-type {
     border-right: 0px;
 }
+
+.title  {
+    font-size: 2rem;
+    line-height: 1rem;
+    letter-spacing: 1.2px;
+    margin: none !important;
+}
+
 </style>
