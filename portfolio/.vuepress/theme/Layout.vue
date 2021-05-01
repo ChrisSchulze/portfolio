@@ -173,6 +173,7 @@
     }
   
   a, a:link, a:visited {
+    font-size: 2rem;
     width: 100%;
     max-width: 870px;
     color: #595959;
