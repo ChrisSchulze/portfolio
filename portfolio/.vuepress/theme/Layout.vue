@@ -189,7 +189,7 @@
     width: 100%;
     max-width: 870px;
     
-    font-size: var(--space-xxxxl);
+    font-size: var(--space-xl);
     
     line-height: calc(5.5vw + 1rem);
     font-weight: 700;
