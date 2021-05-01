@@ -173,12 +173,15 @@
     }
   
   a, a:link, a:visited {
-    font-size: 2rem;
     width: 100%;
     max-width: 870px;
     color: #595959;
     text-decoration: none;
     }
+
+  li {
+        font-size: 1.25rem;
+  }
 
   h1 {
     font-family: "PilatWideDemi";
