@@ -283,6 +283,7 @@
     width: 100%;
     margin-bottom: var(--space-xxl);
     height: 70vh;
+    border-radius: 24px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
