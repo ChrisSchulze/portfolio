@@ -201,8 +201,8 @@
   
   .outline {
   letter-spacing: 0.03em;
-  color: #000; /* Fallback for older browsers */
-  color: rgba(0, 0, 0, 0.5);
+  color: #000; 
+  color: rgba(0, 0, 0, 0);
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: #D1D1D2;
   
