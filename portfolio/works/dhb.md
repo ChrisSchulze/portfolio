@@ -1,7 +1,7 @@
 ---
 title: DHB
 description: A Bold and Ballsy Brand
-thumbnail: ''
+thumbnail: '/upload/DHB_Designs_1.jpg'
 services: Develop a new Branding and a Look & Feel.
 categories:
 - Digital Brand Design
@@ -10,7 +10,7 @@ year: 2019
 date: 
 description_second_line: ''
 project_name: KNF
-project_url: '/upload/DHB_Designs_1.jpg'
+project_url: ''
 projecturl: knf.html
 
 ---
