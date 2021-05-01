@@ -38,7 +38,10 @@
 
   .footer {
     width: 100%;
-    margin: var(--space-xxxl) auto var(--space-xxl) auto !important;
+    margin: 0 auto;
+    padding: 0;
+    max-width: 1600px;
+    
   }
   
   
