@@ -120,6 +120,7 @@
   --space-sm:    calc(0.75 * var(--space-unit));
   --space-md:    calc(1.25 * var(--space-unit));
   --space-lg:    calc(2 * var(--space-unit));
+  --space-l:     calc(3 * var(--space-unit));
   --space-xl:    calc(3.75 * var(--space-unit));
   --space-xxl:   calc(5 * var(--space-unit));
   --space-xxxl:  calc(8.5 * var(--space-unit));
@@ -188,8 +189,8 @@
     font-family: "PilatWideDemi";
     width: 100%;
     max-width: 870px;
-    font-size: var(--space-xl);
-    line-height: var(--space-xl);
+    font-size: var(--space-l);
+    line-height: var(--space-l);
     font-weight: 700;
     color: #D1D1D2; 
     margin: 0 auto 0 auto;
