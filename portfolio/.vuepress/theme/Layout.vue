@@ -105,9 +105,8 @@
     }
     
   .custom {
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
-    align: center;
     max-width: 1400px;
     }
 
