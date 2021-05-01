@@ -285,7 +285,7 @@
     margin-bottom: var(--space-xxl);
     height: 70vh;
     border-radius: 24px;
-    box-shadow: inset 0 0 0 1000px rgba(0,0,0,.75);
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,1);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
