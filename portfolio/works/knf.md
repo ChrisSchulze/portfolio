@@ -1,7 +1,7 @@
 ---
 title: KNF
 description: A Single Source of Truth
-thumbnail: ''
+thumbnail: '/upload/KNF_Designs_1.jpg'
 services: Product Information Data Base & Corporate Site
 categories:
 - " Digital Strategy"
