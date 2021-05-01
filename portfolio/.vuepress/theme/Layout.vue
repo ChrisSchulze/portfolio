@@ -165,7 +165,7 @@
 
   img {
     width: 100%;
-    max-width: 1400px;
+    max-width: 100%;
     line-height: 0;
     border-radius: 24px;
     margin: auto auto auto auto;
