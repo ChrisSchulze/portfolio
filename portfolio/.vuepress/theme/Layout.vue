@@ -167,6 +167,7 @@
     width: 100%;
     max-width: 100%;
     line-height: 0;
+    border-radius: 24px;
     margin: auto auto auto auto;
     margin-bottom: var(--space-xxl);
     }
