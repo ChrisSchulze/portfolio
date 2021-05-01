@@ -280,8 +280,12 @@
     .post {
     position: relative;
     width: 100%;
-    cursor: default;
     margin-bottom: var(--space-xxl);
+    height: 70vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    cursor: pointer;
   }
 
 .moveInUp-enter-active{
