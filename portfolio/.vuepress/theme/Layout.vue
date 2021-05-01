@@ -209,6 +209,7 @@
   }
   
   .tight {
+  padding-top: var(--space-md);
   padding-bottom: var(--space-sm);
   }
 
