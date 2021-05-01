@@ -180,7 +180,7 @@
     }
 
   li {
-        font-size: 1.25rem;
+        font-size: 1.125rem;
   }
 
   h1 {
