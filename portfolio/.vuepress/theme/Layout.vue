@@ -96,8 +96,8 @@
     font-size: 16px;
     line-height: 21.5px;
     
-    background: #161618;
-    color: #000000;
+    background: #000000;
+    color: #9f9f9f;
   }
   
   .container {
