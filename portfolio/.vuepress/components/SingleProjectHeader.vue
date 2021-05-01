@@ -76,7 +76,7 @@
     line-height: 1.05em;
     font-family: "PilatBook" !important;
     letter-spacing: 1.2px;
-    color: #9F9F9F;
+    color: ##585858;
     margin: auto auto auto auto;
   }
   
