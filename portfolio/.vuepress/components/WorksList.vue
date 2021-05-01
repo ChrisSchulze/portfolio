@@ -1,12 +1,16 @@
 <template>
   <div class="project-list">
     <router-link 
+        :to="post.path"
     	tag="div"
       	:to="post.path"
       	v-for="post in posts"
       	:key="post.title"
       	class="post"
+	:style="{ backgroundImage: `url(${post.frontmatter.thumbnail})` }"
       	>
+	
+
     
         <h1 class="tight">{{ post.frontmatter.title }}<br>
               <span class="outline">{{ post.frontmatter.description }}</span>
