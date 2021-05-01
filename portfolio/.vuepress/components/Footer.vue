@@ -41,7 +41,7 @@
     margin: 0 auto;
     padding: 0;
     max-width: 1600px;
-    
+    padding: var(--space-xxxl) auto var(--space-xxl) auto !important;
   }
   
   
