@@ -46,9 +46,9 @@
   display: flex;
   flex-flow: row wrap;
   justify-content: space-around;
-  
+  margin: 0 auto;
   padding: 0;
-  margin: 0;
+  max-width: 1600px;
   list-style: none;
 }
 .project {
