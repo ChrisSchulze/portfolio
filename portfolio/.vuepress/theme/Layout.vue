@@ -188,10 +188,8 @@
     font-family: "PilatWideDemi";
     width: 100%;
     max-width: 870px;
-    
     font-size: var(--space-xl);
-    
-    line-height: calc(5.5vw + 1rem);
+    line-height: var(--space-xl);
     font-weight: 700;
     color: #D1D1D2; 
     margin: 0 auto 0 auto;
