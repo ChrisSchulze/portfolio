@@ -97,7 +97,7 @@
     line-height: 21.5px;
     
     background: #000000;
-    color: #404040;
+    color: #585858;
   }
   
   .container {
