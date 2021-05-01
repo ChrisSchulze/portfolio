@@ -107,7 +107,6 @@
   .custom {
     margin: 0;
     padding: 0;
-    max-width: 1400px;
     }
 
   :root {
@@ -166,7 +165,7 @@
 
   img {
     width: 100%;
-    max-width: 100%;
+    max-width: 1400px;
     line-height: 0;
     border-radius: 24px;
     margin: auto auto auto auto;
