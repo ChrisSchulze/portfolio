@@ -188,7 +188,7 @@
   h1 {
     font-family: "PilatWideDemi";
     width: 100%;
-    max-width: 870px;
+    
     font-size: var(--space-l);
     line-height: var(--space-l);
     font-weight: 700;
