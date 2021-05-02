@@ -15,20 +15,17 @@ export default {
 
 <style scoped>
   .title {
+    font-family: "PilatWideDemi";
     text-align: center;
-    font-size: calc(21px + (48 - 14) * ((100vw - 300px) / (1600 - 300)));
-    font-weight: 300;
-    line-height: 1.25;
-    letter-spacing: 0.1rem;
     width: 800px;
     max-width: 100%;
-    margin: 18vw auto 7vw auto;
+    font-size: var(--space-l);
+    line-height: var(--space-l);
+    font-weight: 700;
+    color: #D1D1D2; 
+    margin: 0 auto 0 auto;
   }
 
-  @media screen and (min-width: 600px) {
-    .title {
-      margin: 12vw auto 7vw auto;
-    }
-  }
+
 
 </style>
