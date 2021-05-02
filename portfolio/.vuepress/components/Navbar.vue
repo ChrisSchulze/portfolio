@@ -120,7 +120,7 @@
     align-items: center;
     justify-content: space-between;
     height: 6rem;
-    padding: 5vw;
+    padding: var(--space-sm);
     font-size: 0.8rem;
     font-family: "PilatWideDemi";
     letter-spacing: 1.2px;
@@ -131,8 +131,8 @@
 
   .logo {
     position: absolute;
-    width: 5rem;
-    height: 5rem;
+    width: 6rem;
+    height: 6rem;
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
