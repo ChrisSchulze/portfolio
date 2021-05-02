@@ -284,7 +284,7 @@
     position: relative;
     width: 100%;
     margin-bottom: var(--space-xxl);
-    height: calc(2 * var(--space-xxxxl));
+    height: calc(3 * var(--space-xxxxl));
     border-radius: 2rem;
     box-shadow: inset 0 0 0 1000px rgba(0,0,0,0.5);
     background-size: cover;
