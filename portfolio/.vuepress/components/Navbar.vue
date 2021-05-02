@@ -121,7 +121,6 @@
     justify-content: space-between;
     height: 6rem;
     padding: var(--space-md);
-    max-width: 1400px;
     font-size: 0.8rem;
     font-family: "PilatWideDemi";
     letter-spacing: 1.2px;
@@ -134,6 +133,7 @@
     position: absolute;
     width: 6rem;
     height: 6rem;
+    margin-bottom: var(--space-xs);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
