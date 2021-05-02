@@ -120,9 +120,9 @@
     align-items: center;
     justify-content: space-between;
     height: 6rem;
-    margin-top: var(--space-md);
-    margin-left: var(--space-md);
-    margin-right: var(--space-md);
+    margin-top: var(--space-sm);
+    margin-left: var(--space-sm);
+    margin-right: var(--space-sm);
     font-size: 0.8rem;
     font-family: "PilatWideDemi";
     letter-spacing: 1.2px;
@@ -151,8 +151,6 @@
           }
       }
   
-
-
   .navigation li {
     display: inline-block;
     list-style: none;
