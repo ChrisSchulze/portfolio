@@ -5,5 +5,6 @@ hero_text: Hey. I'm a Product Designer from Hamburg. I help companies make Impac
 title: Portfolio
 
 ---
+<Hero :text="$page.frontmatter.hero_text" /> 
 
 <WorksList />
