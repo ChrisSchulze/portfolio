@@ -175,7 +175,7 @@
   
   a, a:link, a:visited {
     width: 100%;
-    padding-left: var(--space-xxl);
+    max-width: 870px;
     color: #595959;
     text-decoration: none;
     }
@@ -246,7 +246,7 @@
       line-height: 0.875rem;
       letter-spacing: 0.5px;
       width: 100%;
-      max-width: 870px;
+      padding-left: var(--space-xxl);
       padding: 0 0 0 var(--space-xxxs);
       margin: var(--space-sm) auto 0 auto;
       }
