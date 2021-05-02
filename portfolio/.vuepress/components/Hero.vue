@@ -17,10 +17,10 @@ export default {
   .title {
     font-family: "PilatWideDemi";
     text-align: center;
-    width: 700px;
+    width: 800px;
     max-width: 100%;
-    font-size: var(--space-l);
-    line-height: var(--space-l);
+    font-size: var(--space-lg);
+    line-height: var(--space-lg);
     font-weight: 700;
     color: #D1D1D2; 
     margin-bottom: var(--space-xxl);
