@@ -207,7 +207,6 @@
   color: rgba(0, 0, 0, 0);
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: #D1D1D2;
-  
   }
   
   .tight {
@@ -285,7 +284,7 @@
     position: relative;
     width: 100%;
     margin-bottom: var(--space-xxl);
-    height: 70vh;
+    height: auto;
     border-radius: 2rem;
     box-shadow: inset 0 0 0 1000px rgba(0,0,0,0.5);
     background-size: cover;
