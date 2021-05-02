@@ -25,7 +25,4 @@ export default {
     color: #D1D1D2; 
     margin: 0 auto 0 auto;
   }
-
-
-
 </style>
