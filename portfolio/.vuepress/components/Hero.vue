@@ -19,10 +19,10 @@ export default {
     text-align: center;
     width: 800px;
     max-width: 100%;
-    font-size: var(--space-l);
-    line-height: var(--space-l);
+    font-size: var(--space-lg);
+    line-height: var(--space-lg);
     font-weight: 700;
     color: #D1D1D2; 
-    margin: 0 auto 0 auto;
+    margin-bottom: var(--space-xxl);
   }
 </style>
