@@ -111,7 +111,6 @@
     }
 
   :root {
-    
   --space-unit:  1rem;
   --space-xxxxs: calc(0.125 * var(--space-unit)); 
   --space-xxxs:  calc(0.25 * var(--space-unit));
@@ -176,7 +175,7 @@
   
   a, a:link, a:visited {
     width: 100%;
-    max-width: 870px;
+    padding-left: var(--space-xxl);
     color: #595959;
     text-decoration: none;
     }
@@ -212,6 +211,7 @@
   .tight {
   padding-top: var(--space-xxl);
   padding-left: var(--space-xxl);
+  padding-right: var(--space-xxl);
   padding-bottom: var(--space-sm);
   }
 
