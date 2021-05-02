@@ -1,10 +1,9 @@
 ---
 works_index: true
-hero_text: <span class="s1"><br></span>
+hero_text: Hey. I'm a &lt;span class="outline"&gt;Product Designer from Hamburg. &lt;/span&gt;  I
+  help companies make Impact.<span class="s1"><br></span>
 title: Portfolio
 
 ---
-<h1 class="lead">Hey. I'm a <span class="outline">Product Designer from Hamburg. </span>  I help companies make Impact.  
-</h1>
 
 <WorksList />
