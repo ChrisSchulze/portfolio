@@ -92,10 +92,8 @@
     font-family: "PilatWideDemi", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Noto Sans", "Ubuntu", "Droid Sans", "Helvetica Neue", sans-serif;  
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    
     font-size: 16px;
     line-height: 21.5px;
-    
     background: #000000;
     color: #585858;
   }
@@ -118,7 +116,7 @@
   --space-xs:    calc(0.5 * var(--space-unit));
   --space-sm:    calc(0.75 * var(--space-unit));
   --space-md:    calc(1.25 * var(--space-unit));
-  --space-lg:    calc(2.25 * var(--space-unit));
+  --space-lg:    calc(2 * var(--space-unit));
   --space-l:     calc(2.75 * var(--space-unit));
   --space-xl:    calc(3.75 * var(--space-unit));
   --space-xxl:   calc(5 * var(--space-unit));
@@ -187,7 +185,6 @@
   h1 {
     font-family: "PilatWideDemi";
     width: 100%;
-    
     font-size: var(--space-l);
     line-height: var(--space-l);
     font-weight: 700;
