@@ -247,8 +247,7 @@
       letter-spacing: 0.5px;
       width: 100%;
       padding-left: var(--space-xxl);
-      padding: 0 0 0 var(--space-xxxs);
-      margin: var(--space-sm) auto 0 auto;
+
       }
 
   p {
