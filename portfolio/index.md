@@ -1,6 +1,6 @@
 ---
 works_index: true
-hero_text: Hello! I'm a Product Designer Working as a Design Lead at <a href="https://sinnerschrader.com/"
+hero_text: Hello. I'm a Product Designer Working as Design Lead at <a href="https://sinnerschrader.com/"
   title="SinnerScrader">S2.</a>
 title: Portfolio
 
