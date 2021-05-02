@@ -133,8 +133,8 @@
 
   .logo {
     position: absolute;
-    width: var(--space-xxl);
-    height: var(--space-xxl);
+    width: var(--space-l);
+    height: var(--space-l);
     margin-bottom: var(--space-xs);
     background-size: contain;
     background-position: center;
