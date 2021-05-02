@@ -247,6 +247,9 @@
       letter-spacing: 0.5px;
       width: 100%;
       padding-left: var(--space-xxl);
+      
+            
+      margin: var(--space-sm) auto 0 auto;
 
       }
 
