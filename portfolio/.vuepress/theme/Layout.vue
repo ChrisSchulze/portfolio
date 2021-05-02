@@ -280,7 +280,7 @@
     .post {
     position: relative;
     width: 100%;
-    margin-bottom: var(--space-xxl);
+    margin-bottom: var(--space-xl);
     height: calc(5 * var(--space-xxl));
     border-radius: 2rem;
     box-shadow: inset 0 0 0 1000px rgba(0,0,0,0.5);
