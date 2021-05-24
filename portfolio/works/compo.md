@@ -1,7 +1,7 @@
 ---
 title: Compo
 description: A Brand in Constant Flux
-thumbnail: '/upload/compo-bg.jpg'
+thumbnail: '/upload/compos.jpg'
 services: Digital Rebranding, Look & Feel, Content Strategy
 categories:
 - Design Lead (UX & UI)
